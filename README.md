@@ -137,6 +137,8 @@ The design and inspiration for this course also draw from **[CS 253: Web Securit
 * Assignment 2: Getting Started with Node.js, Express, and Cookies
    * [Due: September 21](/assignments/assignment-2.md)
 
+* Assignment 3: Cookie Report
+   * [Due: October 5](/assignments/assignment-3.md)
 
 
 ## SUMMARY Class Schedule 
