@@ -33,7 +33,7 @@ Each directory contains my solutions, along with necessary files for verificatio
 ## Screenshots
 
 ### learnyouhtml Completion
-![alt text](denisiov_HTML.png)
+![alt text](denisov_HTML.png)
 
 ### javascripting Completion
 ![alt text](denisov_js.png)
