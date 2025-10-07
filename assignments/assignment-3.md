@@ -1,4 +1,4 @@
-## Assignment 3, CS 433/533 Web Security, Fall 2024
+## Assignment 3, CS 433/533 Web Security, Fall 2025
 
 Due: 2025-10-05
 
