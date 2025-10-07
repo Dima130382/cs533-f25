@@ -2,7 +2,7 @@
 
 Due: 2025-10-19
 
-Points available: 15 + 2 (Extra Credit)
+Points available: 15 + Extra Credits
 
 ### Which public sites are framable? (10 points)
 
