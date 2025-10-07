@@ -1,0 +1,96 @@
+HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html; charset=UTF-8
+Location: https://accounts.google.com/
+Content-Length: 237
+Date: Sun, 05 Oct 2025 04:45:42 GMT
+Expires: Sun, 05 Oct 2025 04:45:42 GMT
+Cache-Control: private, max-age=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Server: GSE
+
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000; includeSubDomains
+set-cookie: __Host-GAPS=1:FmtAhJAZo97pdW1QvsGuVDTSWVLxWQ:tf-Kqz2xXiYNs26u;Path=/;Expires=Tue, 05-Oct-2027 04:45:42 GMT;Secure;HttpOnly;Priority=HIGH
+x-frame-options: DENY
+content-security-policy: script-src 'nonce--6J0kjS6SAziglVzpveAjw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+location: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F
+content-length: 365
+date: Sun, 05 Oct 2025 04:45:42 GMT
+expires: Sun, 05 Oct 2025 04:45:42 GMT
+cache-control: private, max-age=0
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+content-type: application/binary
+set-cookie: __Host-GAPS=1:8CHz3OVwoULk8Ad9Bc1S1qeNtWKLCA:XltLbjxyUeP-GEvH; Expires=Tue, 05-Oct-2027 04:45:42 GMT; Path=/; Secure; HttpOnly; Priority=HIGH
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 05 Oct 2025 04:45:42 GMT
+location: https://accounts.google.com/InteractiveLogin?continue=https://accounts.google.com/&followup=https://accounts.google.com/&passive=1209600&dsh=S505646027:1759639542688084&ifkv=AfYwgwUP8KSCS_InMSgFM9WbcBIieX7YqtJCizG1pKQ2QIPYDZQVLXoJoAdwy18nU2U-MOYOAb6S6g
+content-length: 0
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: script-src 'nonce--W5shVvJMs_vPm8pYGtPNA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AccountsSigninPassiveLoginHttp/cspreport;worker-src 'self'
+content-security-policy: require-trusted-types-for 'script';report-uri /_/AccountsSigninPassiveLoginHttp/cspreport
+cross-origin-opener-policy: unsafe-none
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+cross-origin-resource-policy: cross-origin
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+set-cookie: __Host-GAPS=1:-T24x1JOLC-frZU9cG7lb4jzI0JjKA:Leh7VyihyKineD-A;Path=/;Expires=Tue, 05-Oct-2027 04:45:42 GMT;Secure;HttpOnly;Priority=HIGH
+x-frame-options: DENY
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 05 Oct 2025 04:45:42 GMT
+location: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2F&dsh=S505646027%3A1759639542688084&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=AfYwgwVegWbsVkIjsJQRh6jhdWGcYC7OqFAbIqw3RAn5_cFoppl3she0ngyT1QbF6rX9ut-R6UqdGg&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin
+content-length: 553
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: script-src 'nonce-IdpdfUHQs19wH4OgvYWGeQ' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+content-security-policy: require-trusted-types-for 'script';report-uri /cspreport
+cross-origin-opener-policy-report-only: same-origin; report-to="coop_gse_qebhlk"
+report-to: {"group":"coop_gse_qebhlk","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gse_qebhlk"}]}
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+set-cookie: __Host-GAPS=1:X-MFAE0AZ4upGWZmlbQI2MM8LTIiRg:qQBACDwUA3FHcLSt; Expires=Tue, 05-Oct-2027 04:45:43 GMT; Path=/; Secure; HttpOnly; Priority=HIGH
+x-auto-login: realm=com.google&args=continue%3Dhttps://accounts.google.com/
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Sun, 05 Oct 2025 04:45:43 GMT
+content-length: 0
+strict-transport-security: max-age=31536000; includeSubDomains
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+report-to: {"group":"AccountsSignInUi","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/AccountsSignInUi"}]}
+cross-origin-opener-policy-report-only: same-origin; report-to="AccountsSignInUi"
+cross-origin-resource-policy: same-site
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+content-security-policy: require-trusted-types-for 'script';report-uri /v3/signin/_/AccountsSignInUi/cspreport
+content-security-policy: script-src 'nonce-a4rqWkGGiKZHgP63J155aw' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /v3/signin/_/AccountsSignInUi/cspreport;worker-src 'self'
+reporting-endpoints: default="/v3/signin/_/AccountsSignInUi/web-reports?context=eJwNwz1IAgEYBmA5_C6xhhCRcClczMD8CamIBpEQ1GiKaAhTPFEINb0TMmiIornohwShaCiioCAIoiUQNKNIvcC7dAiCkILAwWiq94FHfcUMqPWKqX694tZwwzjn3pkJ3O1qMlnMXzeZIq5LT7SH46fP5MTIfJkWsJUoUxttfRVyYTxboRS6Z6rkxaPtKh3jplakHUz2iLSGphGRzBg8eKEw5k01KmIrUyPtco1c7Rq5MdghEY_7IYlyaCtI5MC0IFMGHXcyufHjQaZP1MmvpEflWJ1UGBDqxOG9WKdHVBgbpMSc9EeHeGkxsnmc1nrYWWyUPOwbrmx52VU8MfvYMwz8-lgONeeTrA41naqf740C233xVeo1WILxRX80xMX4KL8UTsZjPBcLBQQ-IkRTXDLNJf12q91hHR2yDlqH_QnbP7HtmBY"
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

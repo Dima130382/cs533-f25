@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 05 Oct 2025 04:46:12 GMT
+Server: Apache/2.4.58
+Location: https://www.sfgate.com/
+Cache-Control: max-age=60
+Expires: Sun, 05 Oct 2025 04:47:12 GMT
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 307 
+server: Varnish
+retry-after: 0
+cache-control: max-age=0
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:46:13 GMT
+via: 1.1 varnish
+set-cookie: _pxhd=0d8f291e9d573739045d03ca85bb5150140eaae4a9ac0c6f6736ba70d84b4ebd:38c414b0-a1a6-11f0-965e-4a9946465cca; Secure; Expires=Mon, 05 Oct 2026 04:46:13 GMT; path=/;
+x-vcl-version: 453
+set-cookie: _HFID=hfid:a86eb0e6dbcf48d9e3c58ebdaf8e7a21c6df7cb4891fefd63ff8879c94b793df65aacd943dc7e0678600f14b0255111db6f40495c63b041eae3af2632dc3e642; path=/; expires=Mon, 05 Oct 2026 04:46:13 GMT; secure;
+set-cookie: location_data={"is_eu":false,"country_code":"IN","postal_code":"673611","metro_code":"-1","city":"morikkara","region":"KL","os_name":"","os_version":"","browser_name":"curl","browser_version":"8.5.0","platform_hwtype":"","geo_conn_speed":"mobile"}; path=/; SameSite=Strict; Secure
+location: https://tollbit.sfgate.com/
+set-cookie: ab_bucket=33; expires=Mon, 05 Oct 2026 04:46:13 GMT; path=/; SameSite=none; Secure
+x-served-by: cache-maa10243-MAA
+x-cache: HIT
+x-cache-hits: 0
+strict-transport-security: max-age=300
+x-vclmem: 2408
+content-length: 0
+
+HTTP/2 405 
+allow: GET
+alt-svc: h3=":443"; ma=2592000
+date: Sun, 05 Oct 2025 04:46:15 GMT
+vary: Origin
+via: 2.0 Caddy
+

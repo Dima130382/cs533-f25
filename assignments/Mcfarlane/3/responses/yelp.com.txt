@@ -1,0 +1,65 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:46:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lhr-egll1980080-LHR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1759639561.214893,VS0,VE0
+Location: https://yelp.com/
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/2 301 
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+location: https://www.yelp.com/
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+set-cookie: bsi=1%7C5ac993f7-9d5f-5aff-8af3-1aa18007f0e2%7C1759639563179%7C1759639563179%7C1%7Cca3a32a7a40b6445; Domain=.yelp.com; Path=/; Max-Age=604800; Expires=Sun, 12 Oct 2025 04:46:03 GMT; Secure; SameSite=None
+set-cookie: wdi=2|2F9F21AD51446476|0x1.a387e02cb664dp+30|ae4ea2fa4715bf41; Domain=.yelp.com; Path=/; Max-Age=31536000; Expires=Mon, 05 Oct 2026 04:46:03 GMT; HttpOnly; Secure; SameSite=None
+x-tracing-auth: B7w-kuiUhBOMGHSCLR4CHxv40AQpRS2HiHC6Br4CLP5YmRLtKgKmJhdCG6mKjsek
+x-routing-service: routing-main--useast1-7c678c78d4-sb7x6; site=www
+server: envoy
+x-node: www_all
+x-node: yelp-main-main--useast1-79b49dcb7d-rzvlx
+x-zipkin-id: 91c50b6abf4302d99ac253bd8334dd78
+x-mode: ro
+x-proxied: 10-65-169-99-useast1bprod
+x-extlb: 10-65-169-99-useast1bprod
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:46:03 GMT
+via: 1.1 varnish
+x-served-by: cache-lhr-egll1980070-LHR
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1759639563.102820,VS0,VE137
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 218
+
+HTTP/2 403 
+content-type: text/html;charset=utf-8
+server: DataDome
+x-datadome: protected
+accept-ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+charset: utf-8
+cache-control: max-age=0, private, no-cache, no-store, must-revalidate
+pragma: no-cache
+access-control-allow-credentials: true
+access-control-expose-headers: x-dd-b, x-set-cookie
+access-control-allow-origin: *
+x-datadome-cid: AHrlqAAAAAMA6zteAmq9RI8AmDrZxA==
+x-dd-b: 2
+set-cookie: datadome=N4QrDS3p6Rog0spJQshcnNaCiIB7N6TDUWX2o7KDr_N8MuKEeukpwn6KOLAwPQn5EJvhiH1OaM~iDH7RJ4imxkOY7yVE50PTSThqciRIOiczpp0mYzrW9ssEoIffPYC8; Max-Age=31536000; Domain=.yelp.com; Path=/; Secure; SameSite=Lax
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:46:04 GMT
+via: 1.1 varnish
+x-served-by: cache-maa10235-MAA
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1759639564.345003,VS0,VE92
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 768
+

@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://cdc.gov/
+Date: Sun, 05 Oct 2025 04:44:18 GMT
+Connection: keep-alive
+Set-Cookie: akamai_visit_id=449523173945801f40fZ; expires=Tue, 05-Oct-2027 04:44:18 GMT; path=/; domain=.cdc.gov; secure; SameSite=None
+
+HTTP/2 200 
+content-type: text/html
+access-control-allow-headers: Access-Control-Allow-Headers, Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers
+access-control-allow-origin: *
+x-powered-by: ASP.NET
+x-azure-ref: 20251005T035036Z-154fbbcccd6hqq6vhC1LAX3gz00000001nw000000000d7ea
+date: Sun, 05 Oct 2025 04:44:19 GMT
+set-cookie: akamai_visit_id=449523173945801f472Z; expires=Tue, 05-Oct-2027 04:44:19 GMT; path=/; domain=.cdc.gov; secure; SameSite=None
+strict-transport-security: max-age=31536000 ; includeSubDomains ; preload
+set-cookie: Akamai-Request-ID=449523173945801f472Z; path=/; domain=.cdc.gov; secure; SameSite=none
+

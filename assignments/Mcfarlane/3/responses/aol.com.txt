@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 05 Oct 2025 04:47:12 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri https://csp.yahoo.com/beacon/csp?src=redirect
+Location: https://www.aol.com/
+Content-Length: 4414
+
+HTTP/2 429 
+date: Sun, 05 Oct 2025 04:47:14 GMT
+server: ATS
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+content-length: 23
+content-type: text/html
+

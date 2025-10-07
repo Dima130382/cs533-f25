@@ -1,0 +1,60 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Retry-After: 0
+Location: https://softonic.com/
+x-resource-id: @softonic/forceHTTPS
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:46:46 GMT
+access-control-expose-headers: x-country-code,x-region
+x-country-code: IN
+x-region: KL
+Set-Cookie: ber-country-code=IN; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-city=morikkara; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-region=KL; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-browser-name=; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-user-platform-id=; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-device-type=bot; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-is-bot=true; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-is-landing=true; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-utm-medium=organic; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-utm-source=; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: ber-utm-campaign=; domain=softonic.com; max-age=1800; path=/; secure
+Set-Cookie: utm=medium=organic; domain=softonic.com; max-age=2592000; path=/; secure
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/2 301 
+retry-after: 0
+location: https://www.softonic.com/
+x-resource-id: /redirectApex
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:46:46 GMT
+access-control-expose-headers: x-country-code,x-region
+x-country-code: IN
+x-region: KL
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+set-cookie: ber-country-code=IN; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-city=morikkara; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-region=KL; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-browser-name=; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-user-platform-id=; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-device-type=bot; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-is-bot=true; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-is-landing=true; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-utm-medium=organic; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-utm-source=; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: ber-utm-campaign=; domain=softonic.com; max-age=1800; path=/; secure
+set-cookie: utm=medium=organic; domain=softonic.com; max-age=2592000; path=/; secure
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 406 
+cache-control: private, no-store
+accept-ranges: bytes
+access-control-expose-headers: x-country-code,x-region
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+date: Sun, 05 Oct 2025 04:46:46 GMT
+x-country-code: IN
+x-region: KL
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+

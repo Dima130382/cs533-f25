@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.ca/
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-ELSczMeZaiRZrwCLB16aiw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Sun, 05 Oct 2025 04:46:36 GMT
+Expires: Tue, 04 Nov 2025 04:46:36 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 218
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-42fjhBSpe83J9pyEcMbwBA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Sun, 05 Oct 2025 04:46:37 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 05 Oct 2025 04:46:37 GMT
+Cache-Control: private
+Set-Cookie: AEC=AaJma5uiJk6RmF34H4apwnII8GFudwCrY5PLHpEYyxeiDo_ISlHeoI9xTA; expires=Fri, 03-Apr-2026 04:46:37 GMT; path=/; domain=.google.ca; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=525=Lliia4B70N7qn89D9LfKhjFzXBgmFsjfvQ8-wCnJH2zoe7KFvvKqUV0LOQrPwqsMfDeTZcAdBihSIXXfKJ026sH_xFVoP-iJED2O9polDYWoCmkQp4-RkdOP1BCgxjYMyQ0HpZTLRodt4D8gckbJe2puO2vWsKxnNFrfNfepJUCLZ90A-KS7Z96ygrGPXM6wcESLYMNQ9lxJ9A; expires=Mon, 06-Apr-2026 04:46:37 GMT; path=/; domain=.google.ca; HttpOnly
+Transfer-Encoding: chunked
+

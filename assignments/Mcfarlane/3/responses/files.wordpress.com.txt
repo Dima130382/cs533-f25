@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sun, 05 Oct 2025 04:42:48 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://files.wordpress.com/
+
+HTTP/2 302 
+server: nginx
+date: Sun, 05 Oct 2025 04:42:48 GMT
+content-type: text/html
+content-length: 138
+location: https://wordpress.com
+x-nc:  bom 3
+server-timing: a8c-cdn, dc;desc=bom, cache;desc=BYPASS;dur=0.0
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+server: nginx
+date: Sun, 05 Oct 2025 04:42:49 GMT
+content-type: text/html; charset=utf-8
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-hacker: Want root?  Visit join.a8c.com/hacker and mention this header.
+host-header: WordPress.com
+vary: Cookie
+set-cookie: tk_ai=KeluZwjBaLmtjWPjpTc9DTg%2F; expires=Fri, 04 Oct 2030 04:42:49 GMT; Max-Age=157680000; path=/; domain=.wordpress.com; secure; SameSite=None
+set-cookie: tk_ai_explat=KeluZwjBaLmtjWPjpTc9DTg%2F; expires=Fri, 04 Oct 2030 04:42:49 GMT; Max-Age=157680000; path=/; domain=.wordpress.com; secure; SameSite=None
+set-cookie: tk_qs=_en%3Dwpcom_experiment_variation_assigned%26_ut%3Danon%26_ui%3DKeluZwjBaLmtjWPjpTc9DTg%252F%26_ts%3D1759639369553%26experiment_id%3D22340%26experiment_variation_id%3D5354%26reason%3Dset_by_anon_id; path=/; domain=.wordpress.com; secure; SameSite=Strict
+set-cookie: explat_test_aa_weekly_lohp_2025_week_40=treatment; expires=Mon, 20 Oct 2025 00:00:00 GMT; Max-Age=1279031; path=/; domain=.wordpress.com; secure; SameSite=None
+x-ac: 1.bom _dca BYPASS
+alt-svc: h3=":443"; ma=86400
+strict-transport-security: max-age=31536000; preload
+server-timing: a8c-cdn, dc;desc=bom, cache;desc=BYPASS;dur=269.0
+

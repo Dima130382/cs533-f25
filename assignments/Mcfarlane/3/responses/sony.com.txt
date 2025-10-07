@@ -1,0 +1,46 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Sun, 05 Oct 2025 04:44:25 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://sony.com:443/
+
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Sun, 05 Oct 2025 04:44:26 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.sony.com:443/
+
+HTTP/2 302 
+server: AkamaiGHost
+content-length: 0
+location: https://www.sony.com/en/
+expires: Sun, 05 Oct 2025 04:44:27 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sun, 05 Oct 2025 04:44:27 GMT
+content-security-policy: frame-ancestors 'self' *.force.com *.salesforce.com *.lightning.com *.sony.com https://zingtree.com
+x-content-type-options: nosniff
+strict-transport-security: max-age=15768000
+set-cookie: _abck=5DCEFA16B08BD7A9D4EB48D589CB968B~-1~YAAQTpUjF99U7JSZAQAAk3Svsg5EN6iN6cx7eBUnY7FDTRARsXIO93EGgC2Y8ypblpoFlog98z6xEw9rFPOO+GA276DfMv9mBDCFUxBA08ENjBlY6u7HA8WQYZBlYrM91Mw0ZVwN4kmQrv59RqXbjp4ciMXkWic9xyDwzElSN8DSFiBZO2q7IE5gKQ+CEjZD2dcmY232j3cqZBKl3YfeZNA1C6aAzZZ3Ki2hbYaiE0qsZBSldjx1F+TqgEq8fjL5w4e8cP//Sl/0+0iPC5vEKEwU2EFVb+pgjc5JlwOrAHcdDHJ2hOPqCr49egjfuHoldqvq3DJKLFlcmly92lqfzDyOi2vIo+PT+Lbp2jXpt5ib9t+/OkmEGTRZ1D+McYIrUHjtTY/x1xt5dHegIH2FtkW2LDtDv63oMnvDbCrn8Pel9UcFUSfLqShODaxeQ/jQY1xJsA==~-1~-1~-1~-1~-1; Domain=.sony.com; Path=/; Expires=Mon, 05 Oct 2026 04:44:27 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=622748E432322DD7BD6F9D3B326202E5~YAAQTpUjF+BU7JSZAQAAk3Svsh0K22DPlRPPggli13e5K/rX7A4/BO32M6rtW/6lybGedpgyLogejaRgVE7l1lE1Pq512llj2kfigQzCh7RTZVoIvmGqisQqzI+lnqe+kwXuBN8dCdtkUoY6Nogb1AcA8pnABlMF1CiH23lBLCfQZbOz75SNTa5QyeU/ajspbkHzKEftYfNT4gypftJMZd94wVzjXDvQf2Mi4pApg1VudCz8UjN5TAhN9RqFImZ1lidbbyGHGpw7xBDGGi1hURTJfR6x44W09bzDeUmJfMjo0EgjJuoPYMMSLSFtj/9L1XMXQn2yLnuXTHIjukNtgztwsoaayLWDqfliG8Fr/UjjC0RLszCbl92sA1QwgFBdjM2CJ7XeoQ==~4600389~4339523; Domain=.sony.com; Path=/; Expires=Sun, 05 Oct 2025 08:44:27 GMT; Max-Age=14400
+
+HTTP/2 200 
+content-type: text/html
+server: Apache
+x-frame-options: SAMEORIGIN
+x-shq-redirect: common
+x-ua-compatible: IE=edge
+edge-cache-tag: gwx-cache-microsite-tag-www.sony.com-,gwx-cache-tag-www.sony.com
+expires: Sun, 05 Oct 2025 04:44:27 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sun, 05 Oct 2025 04:44:27 GMT
+x-content-type-options: nosniff
+strict-transport-security: max-age=15768000
+set-cookie: _abck=E4B24FE6C857FA16DC7534CC9433CCA7~-1~YAAQTpUjF+dU7JSZAQAAhXWvsg429/z16pa/MXBsVMAddnHXXGiSwgHxurxOFOR5WW/upBJqAsydtFJ9vPlh7e6hz5EKPcuFU5f4PuD3ghHVUd93eFbpdccVoRkwe0Ucg5jIFsHnO/yyvPGTNp0aLCelctgkvYBRPbRV5Yf+LWIvTOYAPqRbBaUTtnAWh2wHRJPrTSJEGIDPoW7TB2e2Dn5EIgS1jGmSHC/sYDBxRs+VaYangjeBolCbtlHfExE+ZTjt+yHefASeJcRjIVtM8DoGepaMBZC+Ds7MkipeiDJpWq1dmyLBWLo/0/oW6UuvOYOJcmAFc+aAXVH45Xn91Lo7zs1tpr6ZmnZqgeABzmr3eOw+8e7IfbO18I1lhLgq4V155Hp7bTX2oM2QD88t3kTyouCqSQBZKGzkZVkVE3rt9jpcfQxRuP3ZvPnVP+xGli/59A==~-1~-1~-1~-1~-1; Domain=.sony.com; Path=/; Expires=Mon, 05 Oct 2026 04:44:27 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=9B86B0DDA06303281DA72C70C2E898A7~YAAQTpUjF+hU7JSZAQAAhXWvsh3RGNdeSmuoROAQiRbBxK5GU7DheWtafQrvy7hp5DtZcIrfqDygGKrdnlWiok8VaGDbD3vIaw6wZiBNEc8bNgAVTHAHUjWJMyXZfRUWoPVZGdzbjdCRmFTecv2noMOzv2P179g0sFSQ5SeuJwY1P4Oc0M83vUeVFwQOM+yHBgDeTw5y3kjYkF7BWBDcIxlhdXB3iQ/nzrIY4ufCZd0qqaqccXIBq+S5hnHwFoM2cecKgFlACqLYp4Gd7fHv6Uzoci1qgfFK32U2314hUA7EyT8ydnAYuZVth3bI7A/u11Bls2vOIbZZkdh4Oh0c/U6Unk1HFCGXmJX6alO99H97OIwNHdKyexgMt8VPkPtuZOO+KE8hhg==~4600389~4339523; Domain=.sony.com; Path=/; Expires=Sun, 05 Oct 2025 08:44:27 GMT; Max-Age=14400
+

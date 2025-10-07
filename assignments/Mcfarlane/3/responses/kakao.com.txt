@@ -1,0 +1,26 @@
+HTTP/1.1 302 
+Date: Sun, 05 Oct 2025 04:43:59 GMT
+Connection: keep-alive
+Set-Cookie: JSESSIONID=5C57CD101C8E415F140E109D74C00668; Path=/; HttpOnly
+Location: //www.kakaocorp.com
+Content-Language: ko
+Cache-Control: no-cache,must-revalidate
+
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 05 Oct 2025 04:44:04 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.kakaocorp.com/page/
+X-Frame-Options: DENY
+
+HTTP/2 200 
+date: Sun, 05 Oct 2025 04:44:05 GMT
+content-type: text/html; charset=utf-8
+content-length: 166183
+set-cookie: isEnglish=false; Path=/
+etag: "28927-O+WFeNYNw1G7EyJPbFNmkSP1G7Q"
+accept-ranges: none
+vary: Accept-Encoding
+strict-transport-security: max-age=15724800
+

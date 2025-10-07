@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 05 Oct 2025 04:43:16 GMT
+Connection: close
+Server: ATS
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Referrer-Policy: no-referrer-when-downgrade
+Cache-Control: private
+Strict-Transport-Security: max-age=15552000
+Location: https://search.yahoo.com/
+Content-Length: 25
+Content-Type: text/html
+
+HTTP/2 500 
+content-type: text/plain; charset=utf-8;
+secure_search_bypass: true
+date: Sun, 05 Oct 2025 04:43:16 GMT
+age: 0
+strict-transport-security: max-age=31536000
+server: ATS
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+referrer-policy: no-referrer-when-downgrade
+cache-control: private
+

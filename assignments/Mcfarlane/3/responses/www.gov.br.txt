@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Date: Sun, 05 Oct 2025 04:46:49 GMT
+Server: Apache
+Location: https://www.gov.br/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 403 Forbidden
+Date: Sun, 05 Oct 2025 04:46:50 GMT
+Content-Type: text/html; charset=iso-8859-1
+Transfer-Encoding: chunked
+

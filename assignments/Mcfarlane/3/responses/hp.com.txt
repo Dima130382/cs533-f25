@@ -1,0 +1,46 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Sun, 05 Oct 2025 04:42:33 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://hp.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 13c972ba4a9ffc82bb0bdabc148e3d20.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: KIX56-P1
+X-Amz-Cf-Id: -KP1G1AqbKdsS180HX6Fsv4rOc5fMDIpydVEDyip7ZKZ80-noxPz9g==
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: default-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'; object-src 'none'
+X-Content-Type-Options: nosniff
+
+HTTP/2 302 
+content-length: 0
+location: http://www.hp.com/
+server: CloudFront
+date: Sun, 05 Oct 2025 04:42:40 GMT
+x-cache: Miss from cloudfront
+via: 1.1 9680bd8f9780fe63dc8ae859dc60020e.cloudfront.net (CloudFront)
+x-amz-cf-pop: KIX56-P1
+x-amz-cf-id: lkcYjVH9ZpNlvLUghE0y2ramiYazpGv47DWw85HLY7PZRUtqqT-xrw==
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: default-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'; object-src 'none'
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+
+HTTP/1.1 503 Service Unavailable
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 280
+Expires: Sun, 05 Oct 2025 04:42:40 GMT
+Date: Sun, 05 Oct 2025 04:42:40 GMT
+Connection: keep-alive
+Set-Cookie: aka_client_code=IN-
+Akamai-GRN: 0.49952317.1759639360.cbe4d98
+Set-Cookie: c_hp_filter=b5ce7e671299403eb65528d59292880f; path=/; domain=.www.hp.com
+Set-Cookie: _abck=34A2549460EC85C0CA1B983CCE255FAA~-1~YAAQSZUjFyUyh56ZAQAAA9Wtsg5pgZknw+zbmCgdNNQEuz0keJ/uRFo1EpU3fX/bzuqjn2UCmB8a5EHzZCvfXdLQTg3OQ0P3j90qhHr35iBjBhvFDmW58KwoqbEBlo42lzDcXEwpd0gYFgznPkP4A4J1ksgSwf65IpvaXV0ZzxB61T2oQ3k0hDxG+I4RQxj8cEehXmRqTHRXAgCxHMqxiOelXywtrGXLESFDiwAktf48y4gxoY3010DUd9782/SENWT2rSfo0B9Wo43LjhyWBhq7oPvSpLeeqb/ulcRhF7zzCPh4mTtu7P4LWqe5Ossd4hOvFYBU+1rpwYv0mG5ErAfzIMCFi3+Yz/2Dp0jyhxBcYPIQQznBPYqpUhxtxKAr3g==~-1~-1~-1~-1~-1; Domain=.hp.com; Path=/; Expires=Mon, 05 Oct 2026 04:42:40 GMT; Max-Age=31536000
+Set-Cookie: bm_sz=1A872CE58F9373135FBD88549B36CDC6~YAAQSZUjFyYyh56ZAQAAA9Wtsh0jMoKuJck4XPbkeHlgWVwsM26W9uf57GEion6MqbOOL55zmbPmCX9QEbqiYekIT8Jmc5xIOZVYsUNKHqFe2Yj2h72xbqwmgLpszMj3hTtkBf25fGuuCUmWBOOYP68t5V7Zog9S/cuM+8rRlepzCHZndDgAO0B1hvwTK0JUtXBZSUntDB7Sbu9KdCxTGBR7+XhLn5vBwqtk4eKuc/iV2ktOwyKyaRRiILvKNX0dwDVT7btZc7/aSsIWq77lOklXvfR29KwZj0UCmZf66SyfA9gLbY4rXHYlGH+MVsc1ODFjxGruqydNBaEg6LcLi6Ew7Y9knP+j9xcb~3289396~4470320; Domain=.hp.com; Path=/; Expires=Sun, 05 Oct 2025 08:42:40 GMT; Max-Age=14400
+Server-Timing: ak_p; desc="1759639360764_388207945_213798296_21_6137_51_0_-";dur=1
+

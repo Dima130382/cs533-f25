@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://dan.com/
+Expires: Sun, 05 Oct 2025 04:47:42 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sun, 05 Oct 2025 04:47:42 GMT
+Connection: keep-alive
+Server-Timing: ak_p; desc="1759639662618_388207945_214017407_6_10000_49_0_-";dur=1
+
+HTTP/2 301 
+location: https://afternic.com/?origin=dancom
+x-envoy-upstream-service-time: 0
+content-length: 1
+expires: Sun, 05 Oct 2025 04:47:44 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sun, 05 Oct 2025 04:47:44 GMT
+strict-transport-security: max-age=86400 ; includeSubDomains ; preload
+server-timing: ak_p; desc="1759639662741_388207945_214017514_126594_4223_49_54_15";dur=1
+

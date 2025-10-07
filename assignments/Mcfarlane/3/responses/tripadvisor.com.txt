@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://tripadvisor.com/
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:42:51 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ixm4290024-IXM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1759639371.075726,VS0,VE0
+
+HTTP/2 403 
+charset: utf-8
+content-type: text/html;charset=utf-8
+access-control-allow-credentials: true
+pragma: no-cache
+cache-control: no-store, must-revalidate
+set-cookie: datadome=kRhKlfQ22oJnqpkWhtunt7l6OGEzevCg9THUAL0G2iW~b7RpVDk5gQ~rdJpUae~bwKa2z3wLLcS199uBZJ08Nixx8uhCx6JbR9hJzKKRxT3otIphMAJKg3_sEfxYvIPF; Max-Age=31104000; Domain=.tripadvisor.com; Path=/; Secure; SameSite=Lax
+set-cookie: TAUnique=%1%enc%3AU0xcYcDoGWkpqs1cWjBoOy3MHvVmgrNGw3roTQaIHSyeYazNYELmGhpi5Cg9XzphNox8JbUSTxk%3D; Max-Age=63072000; HttpOnly; Path=/
+x-datadome-cid: AHrlqAAAAAMApB9QZu0pYgIAmDrZxA==
+server: DataDome
+x-datadome: protected
+x-envoy-upstream-service-time: 3
+x-dd-b: 1
+access-control-allow-origin: *
+access-control-expose-headers: x-dd-b, x-set-cookie
+accept-ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+x-request-id: 7c02283f-a1e4-4dcb-80b1-6e821e6127f8
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:42:51 GMT
+via: 1.1 varnish
+x-served-by: cache-ixm4290029-IXM
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1759639371.263688,VS0,VE222
+vary: Accept-Encoding
+content-length: 775
+

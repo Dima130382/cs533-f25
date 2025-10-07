@@ -1,0 +1,73 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Retry-After: 0
+cache-control: max-age=3600
+Location: http://www.springer.com/
+Server: ee-www-redirect
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:45:24 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom-vanm7210076-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1759639524.384700,VS0,VE0
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+Content-Length: 166
+Cache-Control: public,max-age=600
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Type: text/html
+Location: https://www.springer.com/
+Server: Oscar Platform 0.1837.0
+X-Vcap-Request-Id: 7d7654fd-16b6-4cff-7425-eeead70ec673
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Age: 0
+Date: Sun, 05 Oct 2025 04:45:25 GMT
+X-Served-By: cache-maa10249-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1759639525.688766,VS0,VE418
+Vary: x-forwarded-host, upgrade-insecure-requests
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/2 303 
+age: 0
+location: https://www.springer.com/in
+server: Oscar Platform 0.1837.0
+set-cookie: springercomcountry=in; Path=/; Domain=springer.com
+x-vcap-request-id: 8807a8c2-f139-46ec-6a1d-7ab3abb12b80
+via: 1.1 google, 1.1 varnish
+x-cdn-origin: SNPaaS
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:45:25 GMT
+x-served-by: cache-10587794-internal, cache-maa10243-MAA
+x-cache: MISS, MISS
+x-cache-hits: 0
+x-timer: S1759639526.524796,VS0,VE428
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 200 
+accept-ranges: bytes
+age: 0
+cache-control: private,must-revalidate,max-age=0,no-store
+content-type: text/html; charset=utf-8
+server: Oscar Platform 0.1837.0
+set-cookie: springercomcountry=in; Path=/; Domain=springer.com
+strict-transport-security: max-age=31536000;preload
+x-vcap-request-id: f59b9517-f466-416e-492c-58f1669b716c
+via: 1.1 google, 1.1 varnish
+x-cdn-origin: SNPaaS
+date: Sun, 05 Oct 2025 04:45:26 GMT
+x-served-by: cache-76929519-internal, cache-maa10243-MAA
+x-cache: MISS, MISS
+x-cache-hits: 0
+x-timer: S1759639526.043186,VS0,VE480
+vary: Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+

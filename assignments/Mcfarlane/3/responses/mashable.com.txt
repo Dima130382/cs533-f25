@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 05 Oct 2025 04:41:53 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Sun, 05 Oct 2025 05:41:53 GMT
+Location: https://mashable.com/
+Set-Cookie: __cf_bm=P8S.8QwXiYd3uxugzoOIExEB9mYsxrPXA4pVcL3EZXM-1759639313-1.0.1.1-k2yroVuOcPdaOx1hKo99UMJYj5N108iV18ePZEaVW4CgNgi5aU5e4J3s1R9cyy5ywxajXlizN6DZB.xffj5oYULOq63gUXMT05uwKxd8XtI; path=/; expires=Sun, 05-Oct-25 05:11:53 GMT; domain=.mashable.com; HttpOnly
+Referrer-Policy: no-referrer-when-downgrade
+Server: cloudflare
+CF-RAY: 989a3fca7d35002d-BOM
+
+HTTP/2 200 
+date: Sun, 05 Oct 2025 04:41:53 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: 989a3fcd28edaa6a-MAA
+cache-control: public, max-age=1800
+strict-transport-security: max-age=31536000; includeSubDomains
+last-modified: Sun, 05 Oct 2025 04:17:39 GMT
+cf-cache-status: HIT
+age: 954
+expires: Sun, 05 Oct 2025 05:11:53 GMT
+set-cookie: __cf_bm=f67uAUJ9OQFELq_GRwXXZ1SubLnLChrnLDwIpiN38vo-1759639313-1.0.1.1-BJAu4VEmk_zOYT7GY4ZzjeYsgxnHjr50XWlJ1NcfL00Ac4pYUtIMebr02WqpBEusK3GF4SDta8i1fB92QKPoHSRU4zenOk2U53.IjwJ3osQ; path=/; expires=Sun, 05-Oct-25 05:11:53 GMT; domain=.mashable.com; HttpOnly; Secure; SameSite=None
+referrer-policy: no-referrer-when-downgrade
+server: cloudflare
+

@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.theverge.com/
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:45:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ixm4290028-IXM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1759639508.945548,VS0,VE0
+Set-Cookie: vmidv1=f1eabbcf-f91a-44bf-b915-c7c636332b56;Expires=Fri, 04 Oct 2030 04:45:07 GMT;Domain=theverge.com;Path=/;SameSite=Lax;Secure
+Set-Cookie: _vm_consent_type=opt-in; expires=Mon, 06 Oct 2025 04:45:07 GMT; path=/;
+Strict-Transport-Security: max-age=31556952; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-security-policy: frame-ancestors https://platform.theverge.com https://*.theverge.com https://platform.theverge.com https://*.theverge.com 'self'
+vm-cyclone-community-id: 815a6122-a71c-47a0-a311-32f264c80c8a
+x-middleware-rewrite: /resource/homepage
+x-powered-by: Next.js
+etag: "4bnpct0qp9j5me"
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 1566
+date: Sun, 05 Oct 2025 04:45:08 GMT
+x-served-by: cache-iad-kiad7000122-IAD, cache-maa10243-MAA
+x-cache: HIT, HIT
+x-cache-hits: 72, 0
+x-timer: S1759639509.749702,VS0,VE2
+vary: Accept-Encoding, x-user-state, x-user-state
+set-cookie: vmidv1=63ed9deb-2130-4d67-98f6-69b17ff72cea;Expires=Fri, 04 Oct 2030 04:45:08 GMT;Domain=www.theverge.com;Path=/;SameSite=Lax;Secure
+cache-control: no-store,private
+set-cookie: _vm_consent_type=opt-in; expires=Mon, 06 Oct 2025 04:45:08 GMT; path=/;
+strict-transport-security: max-age=31556952; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 894524
+

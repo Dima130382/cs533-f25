@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.cornell.edu/
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/2 200 
+date: Sun, 05 Oct 2025 04:42:54 GMT
+content-type: text/html
+content-length: 82639
+last-modified: Sun, 05 Oct 2025 04:41:02 GMT
+vary: Accept-Encoding
+cache-control: max-age=600, s-maxage=600, public, must-revalidate
+x-ua-compatible: IE=Edge,chrome=1
+x-azure-ref: 20251005T044253Z-r1974bb47b62f8hwhC1MAAnkxs000000013g00000000b0s7
+x-fd-int-roxy-purgeid: 66810479
+x-cache: TCP_MISS
+accept-ranges: bytes
+

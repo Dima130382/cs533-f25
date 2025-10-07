@@ -1,0 +1,26 @@
+HTTP/1.1 403 Forbidden
+Date: Sun, 05 Oct 2025 04:41:19 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 5118
+Connection: close
+accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cf-mitigated: challenge
+critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cross-origin-embedder-policy: require-corp
+cross-origin-opener-policy: same-origin
+cross-origin-resource-policy: same-origin
+origin-agent-cluster: ?1
+permissions-policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+referrer-policy: same-origin
+server-timing: chlray;desc="989a3efb6f7cc122"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=DYYoKop3wELjB8iUpM6PoslnoHa1abpDAv6eUNNuDTE-1759639279-1.0.1.1-14LLz8HxIbm6IEeh0WReK1N5AtHoKUxQylEtpLNrdNxf3x3mVOIycWo6ZRRdOs1s6yRuudGZokuyFOWiCN3Zwse9yuDHjZN1_AtTUfcywwk; path=/; expires=Sun, 05-Oct-25 05:11:19 GMT; domain=.plos.org; HttpOnly
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=urWthF%2FRoTjTIDJrm7bCcn3CrvBk4syAIHTCfuRm5Vay1lZmoEYiU9NzdqYBzoqGTSkqwhGjcJQxYgY7nGrBjL4EDK6f9PxjD6F2zy4T3lWnf4LL62lP17Xf"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 989a3efb6f7cc122-MAA
+alt-svc: h3=":443"; ma=86400
+

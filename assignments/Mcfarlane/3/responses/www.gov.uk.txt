@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.gov.uk/
+Fastly-Backend-Name: force_ssl
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:46:38 GMT
+Via: 1.1 varnish
+Strict-Transport-Security: max-age=31536000; preload
+Server-Timing: cacheHit
+X-Served-By: cache-maa10239-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: nginx
+content-security-policy: default-src 'self'; base-uri 'none'; img-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.google-analytics.com ssl.google-analytics.com stats.g.doubleclick.net www.googletagmanager.com www.region1.google-analytics.com region1.google-analytics.com lux.speedcurve.com assets.digital.cabinet-office.gov.uk https://img.youtube.com https://i.ytimg.com; script-src 'self' www.google-analytics.com ssl.google-analytics.com stats.g.doubleclick.net www.googletagmanager.com www.region1.google-analytics.com region1.google-analytics.com www.gstatic.com *.ytimg.com www.youtube.com www.youtube-nocookie.com 'nonce-eUfA6YTFZI4DpThoQj2agQ=='; style-src 'self' www.gstatic.com; font-src 'self'; connect-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.google-analytics.com ssl.google-analytics.com stats.g.doubleclick.net www.googletagmanager.com www.region1.google-analytics.com region1.google-analytics.com lux.speedcurve.com gds-single-consent-staging.app gds-single-consent.app; object-src 'none'; frame-src 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk www.youtube.com www.youtube-nocookie.com; frame-ancestors 'self' *.publishing.service.gov.uk www.gov.uk *.dev.gov.uk; report-uri https://csp-reporter.publishing.service.gov.uk/report
+etag: W/"934d11de41723535a39616d5c4347232"
+link: </assets/frontend/application-0740e22decaab2f97e98211c3caf7d084a3e6097edbc0cd821607911292dece7.css>; rel=preload; as=style; nopush,</assets/frontend/views/_homepage-2280972fbd8ffceb65ecf352886913ca454c23dd272d3822672d5728929c6af0.css>; rel=preload; as=style; nopush,</assets/frontend/views/_homepage_header-33d8858e1b1e8aab9f2e5643396ed447803fa1696063f99baceaaa602d34698e.css>; rel=preload; as=style; nopush,</assets/frontend/views/_popular_links-661a1c721e3cfdee8395ff5749f7ff88ea1d9cdd55640ea2c197e7652ed2b3f6.css>; rel=preload; as=style; nopush,</assets/frontend/govuk_publishing_components/components/_action-link-c3fbe99af7d832a77860e9f8982bf3cf71499f019c6ff1f9df67da9eb6ed1fed.css>; rel=preload; as=style; nopush,</assets/frontend/govuk_publishing_components/components/_cards-e8ebfa5a9585adec676a2602012a8336175448362c4fe0540d77fe6e26f84691.css>; rel=preload; as=style; nopush
+permissions-policy: interest-cohort=()
+via: 1.1 router, 1.1 varnish
+x-content-type-options: nosniff
+x-frame-options: ALLOWALL
+x-request-id: 65722864-4f7a-4d61-9ce8-593250c5cdbe
+x-runtime: 0.028112
+permissions-policy: interest-cohort=()
+x-content-type-options: nosniff
+fastly-backend-name: origin
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:46:39 GMT
+age: 292
+strict-transport-security: max-age=31536000; preload
+server-timing: cacheHit
+cache-control: max-age=300, public,private
+x-served-by: cache-maa10246-MAA
+x-cache: HIT
+x-cache-hits: 5
+x-timer: S1759639599.005206,VS0,VE0
+vary: Accept-Encoding,Cookie
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 85706
+

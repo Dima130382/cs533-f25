@@ -1,0 +1,30 @@
+HTTP/1.1 301 MOVED PERMANENTLY
+Connection: keep-alive
+Content-Length: 0
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Location: https://disqus.com/
+X-Frame-Options: SAMEORIGIN
+p3p: CP="DSP IDC CUR ADM DELi STP NAV COM UNI INT PHY DEM"
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Age: 0
+Date: Sun, 05 Oct 2025 04:42:43 GMT
+Vary: Cookie
+Cross-Origin-Resource-Policy: cross-origin
+Strict-Transport-Security: max-age=300; includeSubdomains
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 6034
+Server: nginx
+Content-Type: text/html; charset=utf-8
+p3p: CP="DSP IDC CUR ADM DELi STP NAV COM UNI INT PHY DEM"
+Cache-Control: no-cache, private, must-revalidate, s-maxage=60
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Age: 2
+Date: Sun, 05 Oct 2025 04:42:44 GMT
+Cross-Origin-Resource-Policy: cross-origin
+Strict-Transport-Security: max-age=300; includeSubdomains
+

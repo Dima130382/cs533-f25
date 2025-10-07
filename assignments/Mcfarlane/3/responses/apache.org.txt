@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://apache.org/
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:42:13 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ixm4290027-IXM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1759639334.986111,VS0,VE0
+
+HTTP/2 200 
+server: Apache
+last-modified: Sun, 05 Oct 2025 01:23:19 GMT
+etag: W/"bebc-6405f2e11c2ba"
+cache-control: max-age=3600
+expires: Sun, 05 Oct 2025 02:23:19 GMT
+access-control-allow-origin: *
+content-security-policy: default-src 'self' data: 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.youtube-nocookie.com https://www.youtube.com; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; img-src 'self' data: https://www.apache.org/ https://www.apachecon.com/;
+access-control-expose-headers: Content-Security-Policy
+content-type: text/html
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 1130
+date: Sun, 05 Oct 2025 04:42:15 GMT
+x-served-by: cache-hel1410020-HEL, cache-lax-kwhp1940118-LAX
+x-cache: HIT, HIT
+x-cache-hits: 30, 0
+x-timer: S1759639335.724854,VS0,VE472
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-length: 48828
+

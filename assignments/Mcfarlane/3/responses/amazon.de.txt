@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Sun, 05 Oct 2025 04:44:21 GMT
+Content-Type: text/html
+Content-Length: 163
+Connection: keep-alive
+Location: https://amazon.de/
+
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Sun, 05 Oct 2025 04:44:21 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.amazon.de/
+
+HTTP/2 200 
+content-type: text/html
+server: Server
+date: Sun, 05 Oct 2025 04:44:23 GMT
+x-amz-rid: VARQCJ7N7M19S0HZBC8N
+vary: Content-Type,Accept-Encoding,User-Agent
+last-modified: Sun, 05 Oct 2025 04:42:55 GMT
+etag: "31dd7-64061f7e78d6b"
+accept-ranges: bytes
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+x-cache: Miss from cloudfront
+via: 1.1 83467edef0f4c4a316c7c4b13c65c970.cloudfront.net (CloudFront)
+x-amz-cf-pop: BLR50-P4
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: ayX0aNJt_yPz8SyXGspAhQ8mWhXseuHUadXHM6rV9zmDQOUQ7vvo7A==
+

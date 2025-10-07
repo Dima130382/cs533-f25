@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Sun, 05 Oct 2025 04:44:34 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://20minutos.es/
+X-Cache: Redirect from cloudfront
+Via: 1.1 c8faaa7d637dd73af72e1355a476ffc2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA60-P9
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: u4x0uPsk1QNqokVOOhY75LlraYb49MpBWvaE3RreoqSR2uHLU2nYtA==
+
+HTTP/2 301 
+content-length: 0
+location: https://www.20minutos.es/
+date: Sun, 05 Oct 2025 04:44:34 GMT
+x-cache: Miss from cloudfront
+via: 1.1 4d37a80c51c1368344134f5bdf1ea92e.cloudfront.net (CloudFront)
+x-amz-cf-pop: FRA60-P9
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: HhEps77AlJwqQzvXL9LN4p_68ot2LPyn-yplBiH_oQrKyS6M4geBiQ==
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+date: Sun, 05 Oct 2025 04:44:18 GMT
+cache-control: max-age=120, public
+accept-ranges: bytes
+x-frame-options: sameorigin
+referrer-policy: strict-origin-when-cross-origin
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 6b284415724869adc9db63c19e48e420.cloudfront.net (CloudFront)
+x-amz-cf-pop: FRA60-P9
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: GsSkbE70kR6_Twkc-eRYvp7-k8tVhm-IWyVXVGfaFB847aEmbT3faQ==
+age: 18
+

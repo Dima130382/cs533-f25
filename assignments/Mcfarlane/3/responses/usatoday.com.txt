@@ -1,0 +1,65 @@
+HTTP/1.1 301 Force SSL
+Connection: close
+Content-Length: 0
+Retry-After: 0
+Location: https://usatoday.com/
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:41:46 GMT
+NEL: {"report_to":"default","max_age":31557600,"include_subdomains":true,"success_fraction":0.005}
+Report-to: {"max_age":31557600,"include_subdomains":true,"endpoints":[{"url":"https://reporting-api.gannettinnovation.com"}]}
+Document-Policy: include-js-call-stacks-in-crash-reports
+X-Cache: HIT
+Vary: User-Agent
+Content-Security-Policy: upgrade-insecure-requests
+Cache-Control: max-age=300,private
+
+HTTP/2 301 
+retry-after: 0
+location: https://www.usatoday.com/
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:41:47 GMT
+nel: {"report_to":"default","max_age":31557600,"include_subdomains":true,"success_fraction":0.005}
+report-to: {"max_age":31557600,"include_subdomains":true,"endpoints":[{"url":"https://reporting-api.gannettinnovation.com"}]}
+document-policy: include-js-call-stacks-in-crash-reports
+x-cache: HIT
+vary: User-Agent
+content-security-policy: upgrade-insecure-requests
+strict-transport-security: max-age=63072000
+cache-control: max-age=300,private
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-frame-options: deny
+feature-policy: camera 'none';display-capture 'none';geolocation 'none';microphone 'none';payment 'none';usb 'none';xr-spatial-tracking 'none'
+cross-origin-opener-policy: same-origin
+x-content-type-options: nosniff
+etag: W/"3aeec-oN5EOuEPPvZt4c3aYGJ3nQuULSo"
+content-security-policy-report-only: script-src https: blob: 'unsafe-inline' 'unsafe-eval' 'self';base-uri 'self';report-uri https://reporting-api.gannettinnovation.com;report-to default
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+origin-agent-cluster: ?1
+content-security-policy: upgrade-insecure-requests;frame-ancestors 'none';object-src 'none'
+cross-origin-resource-policy: same-origin
+permissions-policy: camera=(),display-capture=(),geolocation=(),microphone=(),payment=(),usb=(),xr-spatial-tracking=()
+accept-ranges: bytes
+age: 0
+date: Sun, 05 Oct 2025 04:41:48 GMT
+set-cookie: gup_anonid=710493ef-bed7-4b83-a624-62279158e83a; Domain=.usatoday.com; Max-Age=31536000; Path=/; SameSite=Lax; Secure; Priority=High
+set-cookie: gup_clientid=759a5ab6-3ed6-495b-b1c6-1c21c3665793; Domain=.usatoday.com; Max-Age=31536000; Path=/; SameSite=Lax; Secure; Priority=High
+cache-control: no-store
+set-cookie: gnt_ub=98;domain=.usatoday.com;path=/;secure;samesite=lax;max-age=31536000;priority=high
+set-cookie: gnt_sb=20;domain=.usatoday.com;path=/;secure;samesite=lax;max-age=31536000;priority=high
+set-cookie: gnt_eid=control:20;domain=.usatoday.com;path=/;secure;samesite=lax;max-age=5184000;priority=high;
+set-cookie: gnt_w=f~61~33-q1a2z3399d10ff~Clear;domain=www.usatoday.com;path=/;samesite=lax;secure;priority=high;
+set-cookie: gnt_i=25735680565527667693*55836*IN~KL;domain=.usatoday.com;path=/;samesite=lax;max-age=31536000;secure;priority=high
+set-cookie: _ga=GA1.1.1306225899.1759639309;domain=.usatoday.com;path=/;samesite=lax;max-age=31536000;secure;priority=high
+nel: {"report_to":"default","max_age":31557600,"include_subdomains":true,"success_fraction":0.005}
+report-to: {"max_age":31557600,"include_subdomains":true,"endpoints":[{"url":"https://reporting-api.gannettinnovation.com"}]}
+document-policy: include-js-call-stacks-in-crash-reports
+x-cache: MISS, HIT, MISS
+vary: Accept-Encoding,User-Agent,Sec-CH-UA-Mobile
+strict-transport-security: max-age=63072000
+server-timing: gnt_i;desc="25735680565527667693*55836*IN~KL"
+content-length: 218328
+

@@ -1,0 +1,137 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://weather.com/
+Expires: Sun, 05 Oct 2025 04:47:39 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sun, 05 Oct 2025 04:47:39 GMT
+Connection: keep-alive
+Set-Cookie: ci=TWC-Locale-Group=US&TWC-Device-Class=desktop&X-Origin-Hint=Goto-Prod&TWC-Network-Type=wifi&TWC-GeoIP-Country=IN&TWC-GeoIP-Lat=9.97&TWC-GeoIP-Long=76.23&TWC-Privacy=exempt&TWC-GeoIP-DMA=&TWC-GeoIP-City=KOCHI&TWC-GeoIP-Region=KL; path=/; domain=.weather.com; secure
+Access-Control-Max-Age: 86400
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST,OPTIONS
+Access-Control-Allow-Origin: *
+Property-id: TWC-WX-Prod
+TWC-PATH-LOCALE: /
+TWC-Experiment: e30=
+X-IN-EW-Prod: True
+TWC-Unit: u
+TWC-Privacy: exempt
+TWC-GeoIP-Region: KL
+TWC-GeoIP-City: KOCHI
+TWC-GeoIP-DMA: 
+TWC-GeoIP-LatLong: 9.97,76.23
+TWC-GeoIP-Country: IN
+TWC-Device-Class: desktop
+TWC-Locale-Group: US
+Strict-Transport-Security: max-age=15552000; preload
+TWC-AK-Req-ID: d65e74e
+Akamai-GRN: 0.af712c31.1759639659.d65e74e
+X-Origin-Hint: Goto-Prod
+Set-Cookie: gbuuid=3febac44-030e-405a-879a-25a076e4c0ac; Expires=Tue, 04 Nov 2025 04:47:39 GMT; Domain=.weather.com; Path=/
+Set-Cookie: 
+twc-subs: none
+
+HTTP/2 302 
+content-length: 0
+server: Varnish
+retry-after: 0
+referer: https://goto.weather.com
+x-locales2canonical: hi-IN
+x-detected-locale: 
+x-detected-country: IN
+x-detected-latlong: INXX0096:1:IN
+x-detected-locid: INXX0096:1:IN
+x-redirector-version: 1.1.20
+x-ci-country: 
+x-ci-latlong: 
+x-akamai-latlong: 9.97,76.23
+x-fastly-latlong: 11.310,75.800
+x-var-page: today
+x-var-locale-page: hi-IN-today
+x-qp: ?Goto=Redirected
+x-true-client-ip: 152.58.217.196
+x-redirect-base: https://weather.com
+x-req-host: goto.weather.com
+location: https://weather.com/hi-IN/weather/today/l/INXX0096:1:IN?Goto=Redirected
+accept-ranges: bytes
+x-served-by: cache-maa10231-MAA
+x-cache-hits: 0
+x-timer: S1759639660.636907,VS0,VE0
+expires: Sun, 05 Oct 2025 04:47:39 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Sun, 05 Oct 2025 04:47:39 GMT
+set-cookie: ci=TWC-Locale-Group=US&TWC-Device-Class=desktop&X-Origin-Hint=Goto-Prod&TWC-Network-Type=wifi&TWC-GeoIP-Country=IN&TWC-GeoIP-Lat=9.97&TWC-GeoIP-Long=76.23&TWC-Privacy=exempt&TWC-GeoIP-DMA=&TWC-GeoIP-City=KOCHI&TWC-GeoIP-Region=KL; path=/; domain=.weather.com; secure
+access-control-max-age: 86400
+access-control-allow-credentials: false
+access-control-allow-headers: *
+access-control-allow-methods: GET,POST,OPTIONS
+access-control-allow-origin: *
+property-id: TWC-WX-Prod
+twc-path-locale: /
+twc-experiment: e30=
+x-in-ew-prod: True
+twc-unit: u
+twc-privacy: exempt
+twc-geoip-region: KL
+twc-geoip-city: KOCHI
+twc-geoip-dma: 
+twc-geoip-latlong: 9.97,76.23
+twc-geoip-country: IN
+twc-device-class: desktop
+twc-locale-group: US
+strict-transport-security: max-age=15552000; preload
+twc-ak-req-id: d65e7ed
+akamai-grn: 0.af712c31.1759639659.d65e7ed
+x-origin-hint: Goto-Prod
+twc-subs: none
+set-cookie: gbuuid=bc4bfa26-46cc-4f40-b6a4-356d9029d5da; Expires=Tue, 04 Nov 2025 04:47:39 GMT; Domain=.weather.com; Path=/
+set-cookie: 
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-dns-prefetch-control: off
+x-frame-options: SAMEORIGIN
+x-download-options: noopen
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+webcakes-app-name: daybreak-today
+webcakes-app-version: 1.0.0-937cf4493b
+webcakes-region: us-east-2
+etag: "1fe7ea-3tB9syV+qYYsfazH0Q8oLRxqFtw"
+expires: Sun, 05 Oct 2025 04:47:40 GMT
+cache-control: max-age=0, no-cache
+pragma: no-cache
+date: Sun, 05 Oct 2025 04:47:40 GMT
+set-cookie: ci=TWC-Locale-Group=GLS&TWC-Device-Class=desktop&X-Origin-Hint=PROD-AWS-Daybreak-today&TWC-Network-Type=wifi&TWC-GeoIP-Country=IN&TWC-GeoIP-Lat=9.97&TWC-GeoIP-Long=76.23&TWC-Privacy=exempt&TWC-GeoIP-DMA=&TWC-GeoIP-City=KOCHI&TWC-GeoIP-Region=KL; path=/; domain=.weather.com; secure
+access-control-max-age: 86400
+access-control-allow-credentials: false
+access-control-allow-headers: *
+access-control-allow-methods: GET,POST,OPTIONS
+access-control-allow-origin: *
+property-id: TWC-WX-Prod
+x-lma: PS
+twc-path-locale: /hi-IN/
+twc-experiment: e30=
+x-in-ew-prod: True
+twc-unit: u
+twc-privacy: exempt
+twc-geoip-region: KL
+twc-geoip-city: KOCHI
+twc-geoip-dma: 
+twc-geoip-latlong: 9.97,76.23
+twc-geoip-country: IN
+twc-device-class: desktop
+twc-locale-group: GLS
+strict-transport-security: max-age=15552000; preload
+x-query-param: true
+twc-ak-req-id: d65e8a7
+akamai-grn: 0.af712c31.1759639659.d65e8a7
+x-origin-hint: PROD-AWS-Daybreak-today
+set-cookie: gbuuid=43d3e32c-a708-4e45-841a-bd7eecbaeba2; Expires=Tue, 04 Nov 2025 04:47:40 GMT; Domain=.weather.com; Path=/
+set-cookie: 
+twc-subs: none
+

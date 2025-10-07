@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+date: Sun, 05 Oct 2025 04:30:26 GMT
+cache-control: public, s-maxage=3600
+content-type: text/html; charset=UTF-8
+age: 977
+accept-ranges: bytes
+content-length: 189292
+x-frame-options: DENY
+x-xss-protection: 1;mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000;preload
+referrer-policy: no-referrer-when-downgrade
+

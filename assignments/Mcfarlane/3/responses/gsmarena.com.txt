@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 05 Oct 2025 04:43:20 GMT
+Server: Apache
+Location: https://gsmarena.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 05 Oct 2025 04:43:20 GMT
+Server: Apache
+Location: https://www.gsmarena.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Sun, 05 Oct 2025 04:43:21 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade
+X-Powered-By: PHP/7.4.33
+Content-Security-Policy: frame-ancestors 'self' *.gsmarena.com;
+Content-Type: text/html; charset=utf-8
+

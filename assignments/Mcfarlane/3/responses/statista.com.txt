@@ -1,0 +1,61 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Sun, 05 Oct 2025 04:45:21 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://statista.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 d65e11554ad5b192d1f50f3ad4e882f4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: BLR50-P4
+X-Amz-Cf-Id: jN_TOLEQwfAhr8MXWad7eYaajZwJ_Hb8GLKae4CSSNwDM7zwUq2CMQ==
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+Referrer-Policy: origin-when-cross-origin
+Content-Security-Policy: default-src 'self' https: ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https: ; img-src 'self' data: https: blob: ; font-src 'self' data: https://cdn.statcdn.com/ ; style-src 'self' 'unsafe-inline' https://cdn.statcdn.com/ https://content.pendo.statista.com/ ; object-src 'self' https://cdn.statcdn.com/ ; frame-src 'self' https: ; frame-ancestors 'none' ; connect-src 'self' https: wss://ws.hotjar.com
+X-Content-Type-Options: nosniff
+Cross-Origin-Embedder-PolicyStatement: credentialless
+Cross-Origin-Opener-PolicyStatement: same-origin
+Permissions-Policy: geolocation=(self)
+
+HTTP/2 301 
+server: CloudFront
+date: Sun, 05 Oct 2025 04:45:22 GMT
+content-length: 0
+location: https://www.statista.com/
+x-cache: FunctionGeneratedResponse from cloudfront
+via: 1.1 3e01f1bb97e94babf3a238feeedd6966.cloudfront.net (CloudFront)
+x-amz-cf-pop: BLR50-P4
+x-amz-cf-id: NmAZWTHR1OyHK1XIpCDS5A94IryJ1UBoSEh3KBfLo348C1t2SyoW8Q==
+x-xss-protection: 1; mode=block
+x-frame-options: DENY
+referrer-policy: origin-when-cross-origin
+content-security-policy: default-src 'self' https: ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https: ; img-src 'self' data: https: blob: ; font-src 'self' data: https://cdn.statcdn.com/ ; style-src 'self' 'unsafe-inline' https://cdn.statcdn.com/ https://content.pendo.statista.com/ ; object-src 'self' https://cdn.statcdn.com/ ; frame-src 'self' https: ; frame-ancestors 'none' ; connect-src 'self' https: wss://ws.hotjar.com
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+cross-origin-embedder-policystatement: credentialless
+cross-origin-opener-policystatement: same-origin
+permissions-policy: geolocation=(self)
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+date: Sun, 05 Oct 2025 04:45:22 GMT
+content-security-policy: default-src 'self' https: ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https: ; img-src 'self' data: https: blob: ; font-src 'self' data: https://cdn.statcdn.com/ ; style-src 'self' 'unsafe-inline' https://cdn.statcdn.com/ https://content.pendo.statista.com/ ; object-src 'self' https://cdn.statcdn.com/ ; frame-src 'self' https: ; frame-ancestors 'none' ; connect-src 'self' https: wss://ws.hotjar.com
+server: nginx
+set-cookie: STATSESSID=f760ff39ab2e0b90c0512858dee42c9c; expires=Fri, 03 Apr 2026 04:45:22 GMT; Max-Age=15552000; path=/; domain=.statista.com; secure; HttpOnly
+set-cookie: statistaContentView=184437080568e1f7e2b52041291094449; expires=Tue, 05-Oct-2027 04:45:22 GMT; Max-Age=63072000; path=/; domain=.statista.com; secure; httponly
+cache-control: max-age=0, must-revalidate, private, s-maxage=300
+x-frame-options: DENY
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Accept-Encoding
+x-cache: Miss from cloudfront
+via: 1.1 7edf3f39c1a5f382b0d26627290c768c.cloudfront.net (CloudFront)
+x-amz-cf-pop: BLR50-P4
+x-amz-cf-id: fZOIE4tQSq32PLYacwikLzCsNkq5HvZQzHOfzLHUYgBdGd-1RhhQeA==
+referrer-policy: origin-when-cross-origin
+cross-origin-embedder-policystatement: credentialless
+cross-origin-opener-policystatement: same-origin
+permissions-policy: geolocation=(self)
+

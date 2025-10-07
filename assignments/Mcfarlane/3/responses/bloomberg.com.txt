@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Sun, 05 Oct 2025 04:43:48 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://bloomberg.com:443/
+
+HTTP/2 301 
+server: awselb/2.0
+date: Sun, 05 Oct 2025 04:43:48 GMT
+content-type: text/html; charset=UTF-8
+content-length: 80
+location: https://www.bloomberg.com/
+x-frame-options: deny
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+content-security-policy: default src 'self'; object src 'none'; upgrade insecure requests; frame ancestors 'self'
+
+HTTP/2 403 
+server: Varnish
+retry-after: 0
+content-type: text/html
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:43:49 GMT
+set-cookie: _pxhd=6lj7E6W0rzUCwygC/N9JxvV6lCC/fkkeNaMWxC-KCRrH2a4Xcl4H-xEekWLx-8qxS/RhKipGRZfaziRJZSs4jw==:RwjibmT-SDJEI5cJ7S1Jr8pWcbJtr4Feg-2tieHca-eIca7wWx5JieH9TGvnUzUT-3BZDh/GZkFHmxTmZjsbWxXIXwjI4mQ2-zDshcFGvwI=; Max-Age=31536000; path=/; SameSite=Lax
+x-served-by: cache-maa10237-MAA
+x-cache: MISS
+x-cache-hits: 0
+strict-transport-security: max-age=31557600
+link: <https://assets.bwbx.io>; rel=preconnect; crossorigin, <https://assets.bwbx.io>; rel=preconnect, <https://sourcepointcmp.bloomberg.com>; rel=preconnect; crossorigin, <https://tpc.googlesyndication.com	>; rel=preconnect; crossorigin, <https://www.google-analytics.com>; rel=preconnect; crossorigin, <https://www.googletagmanager.com>; rel=preconnect, <https://www.googletagmanager.com>; rel=preconnect; crossorigin
+set-cookie: session_id=0199b2ae-e265-743e-9b02-a5f840cbbc1c; path=/; max-age=31536000; domain=bloomberg.com; secure
+set-cookie: _session_id_backup=0199b2ae-e265-743e-9b02-a5f840cbbc1c; path=/; max-age=31536000; domain=bloomberg.com; secure
+set-cookie: agent_id=0199b2ae-e265-7640-bcb8-d5b391b7b297; path=/; max-age=31536000; domain=bloomberg.com; secure
+set-cookie: session_key=e49e0749de0e7f72718862347f7a3ec068d4b257; path=/; max-age=31536000; domain=bloomberg.com; secure
+cache-control: no-store
+content-length: 13858
+

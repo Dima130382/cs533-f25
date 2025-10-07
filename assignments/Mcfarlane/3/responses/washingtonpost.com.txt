@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.washingtonpost.com/
+Cache-Control: max-age=0
+Expires: Sun, 05 Oct 2025 04:46:08 GMT
+Date: Sun, 05 Oct 2025 04:46:08 GMT
+Connection: keep-alive
+Content-Security-Policy: upgrade-insecure-requests
+Server-Timing: ak_p; desc="1759639568083_399662461_571177620_20_47858_171_0_-";dur=1
+

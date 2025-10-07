@@ -1,0 +1,59 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://scribd.com/
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:46:33 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lax-kwhp1940073-LAX
+X-Cache: HIT
+X-Cache-Hits: 0
+Vary: 
+
+HTTP/2 302 
+server: Varnish
+retry-after: 0
+location: https://www.scribd.com/
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:46:34 GMT
+via: 1.1 varnish
+x-served-by: cache-qpg1231-QPG
+x-cache: HIT
+x-cache-hits: 0
+vary: 
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+set-cookie: scribd_ubtc=u%3D99f5f833-49f5-4f6e-a095-6c8c06e027e8%26h%3DEeTE0lR7dRR2ik4dQtqwc33fkR5tRZoVTLUS%2BPOTVsI%3D; Domain=.scribd.com; Path=/; Expires=Tue, 11 Sep 2125 04:46:34 GMT; SameSite=None; Secure
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: public, no-cache
+content-security-policy: frame-ancestors 'self'
+etag: W/"91afcb1c45a072c1e9a9385a44cf6f4b"
+referrer-policy: strict-origin-when-cross-origin
+server: envoy
+status: 200 OK
+x-content-type-options: nosniff
+x-download-options: noopen
+x-envoy-upstream-service-time: 308
+x-frame-options: SAMEORIGIN
+x-permitted-cross-domain-policies: none
+x-request-id: b97e1e8b0581a7a61c7148b440e94fe7e76a3fe80a56109d2be8bb21cd61d997
+x-runtime: 0.302543
+x-xss-protection: 1; mode=block
+accept-ranges: bytes
+age: 52263
+date: Sun, 05 Oct 2025 04:46:34 GMT
+via: 1.1 varnish
+x-served-by: cache-maa10224-MAA
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1759639595.829749,VS0,VE2
+vary: X-Language-Locale,X-Scribd-Country-Code,X-Bot,Accept-Encoding
+strict-transport-security: max-age=63072000; includeSubDomains
+set-cookie: scribd_ubtc=u%3De9dcb38b-c1f3-452a-af1d-22d8ec64ad48%26h%3DRQOAPruZpL%2FBz9JKqL6MPYdUZem%2B%2FtyQS2C%2BFe2wwtA%3D; Domain=.scribd.com; Path=/; Expires=Tue, 11 Sep 2125 04:46:34 GMT; SameSite=None; Secure
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 1353946
+

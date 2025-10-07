@@ -1,0 +1,118 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Retry-After: 0
+Location: https://independent.co.uk/
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:47:54 GMT
+Via: 1.1 varnish
+X-Backend: flow-uk
+Content-Security-Policy: default-src https: 'unsafe-inline' data: blob:; frame-src https: data:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; media-src https: 'unsafe-inline' data: blob:; img-src https: http: data: blob:; frame-ancestors https:
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+permissions-policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+Set-Cookie: esi-permutive-id=(null); Path=/ ; Secure ;
+X-Served-By: cache-ixm4290027-IXM
+X-Cache: HIT
+X-Cache-Hits: 0
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/2 301 
+retry-after: 0
+location: https://www.independent.co.uk/
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:47:54 GMT
+via: 1.1 varnish
+x-backend: flow-uk
+content-security-policy: default-src https: 'unsafe-inline' data: blob:; frame-src https: data:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; media-src https: 'unsafe-inline' data: blob:; img-src https: http: data: blob:; frame-ancestors https:
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+permissions-policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+set-cookie: esi-permutive-id=(null); Path=/ ; Secure ;
+access-control-allow-origin: *
+x-served-by: cache-ixm4290026-IXM
+x-cache: HIT
+x-cache-hits: 0
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 307 
+retry-after: 0
+location: /asia
+set-cookie: Locale=AS
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:47:55 GMT
+via: 1.1 varnish
+canary: 1
+x-backend: flow-uk
+content-security-policy: default-src https: 'unsafe-inline' data: blob:; frame-src https: data:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; media-src https: 'unsafe-inline' data: blob:; img-src https: http: data: blob:; frame-ancestors https:
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+permissions-policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+set-cookie: Locale=AS ; Path=/ ;
+set-cookie: esi-permutive-id=(null); Path=/ ; Secure ;
+access-control-allow-origin: *
+x-served-by: cache-maa10251-MAA
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1759639676.529079,VS0,VE1
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+access-control-allow-credentials: true
+cache-tag: independent.co.uk,v11.22.0,asia,section_209417,web_indy_prod_section_209417_publication_1,indy_prod,web_indy_prod,web_indy_prod_section_209417,web_indy_prod_publication_1,web_indy_prod_2025-10-04,web_indy_prod_2025-10-04_publication_1,web_indy_prod_asia
+content-language: en
+etag: W/"6c76d-6WV/AMAB4B6u0P/q9qdjOslNYYA-gzip"
+link: <https://static.independent.co.uk>; rel=dns-prefetch, <https://static.independent.co.uk>; rel=preconnect, <https://assets.the-independent.com>; rel=dns-prefetch, <https://assets.the-independent.com>; rel=preconnect
+speculation-rules: /speculationrules.json
+strict-transport-security: max-age=63072000;  preload
+x-head-hash: 
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+age: 53732
+set-cookie: Locale=AS ; Path=/ ;
+set-cookie: gdpr=0 ; Path=/ ;
+set-cookie: subscriber_origin=others ; Path=/ ;
+set-cookie: _pc_subscriber_origin=others ; Path=/ ;
+set-cookie: is_mobile_or_tablet=false ; Path=/ ; Secure ; Expires=Mon, 05 Oct 2026 04:47:55 GMT ;
+set-cookie: feat__bulletin_taboola_feed=true ; Path=/ ; Secure ; Expires=Thu, 04 Dec 2025 04:47:55 GMT ;
+set-cookie: esi-uuid=eff342c7-906d-4c39-8d4e-a7927498b9c1 ; Path=/ ; Secure; HttpOnly; Expires=Mon, 05 Oct 2026 04:47:55 GMT ;
+set-cookie: esi-permutive-id=eff342c7-906d-4c39-8d4e-a7927498b9c1; Path=/ ; Secure ;
+access-control-allow-origin: *
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+date: Sun, 05 Oct 2025 04:47:55 GMT
+canary: 1
+x-backend: flow-uk
+content-security-policy: default-src https: 'unsafe-inline' data: blob:; frame-src https: data:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; media-src https: 'unsafe-inline' data: blob:; img-src https: http: data: blob:; frame-ancestors https:
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+permissions-policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+set-cookie: Locale=AS ; Path=/ ;
+set-cookie: gdpr=0 ; Path=/ ;
+set-cookie: subscriber_origin=others ; Path=/ ;
+set-cookie: _pc_subscriber_origin=others ; Path=/ ;
+set-cookie: is_mobile_or_tablet=false ; Path=/ ; Secure ; Expires=Mon, 05 Oct 2026 04:47:55 GMT ;
+set-cookie: feat__bulletin_taboola_feed=true ; Path=/ ; Secure ; Expires=Thu, 04 Dec 2025 04:47:55 GMT ;
+set-cookie: esi-uuid=eff342c7-906d-4c39-8d4e-a7927498b9c1 ; Path=/ ; Secure; HttpOnly; Expires=Mon, 05 Oct 2026 04:47:55 GMT ;
+set-cookie: esi-permutive-id=eff342c7-906d-4c39-8d4e-a7927498b9c1; Path=/ ; Secure ;
+x-served-by: cache-lhr-egll1980080-LHR, cache-maa10251-MAA
+x-cache: HIT, MISS
+x-cache-hits: 235, 0
+x-timer: S1759639676.588752,VS0,VE166
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 444269
+

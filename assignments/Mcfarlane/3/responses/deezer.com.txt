@@ -1,0 +1,63 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Sun, 05 Oct 2025 04:45:13 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://deezer.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 9b626a64a51376c0dd1f017c25a0dfa6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: BLR50-P4
+X-Amz-Cf-Id: vXfudI407KaFmxWKgJn148jyGQxTZvpdFDj2SBmDvIsni1ccixqk0A==
+
+HTTP/2 301 
+content-length: 0
+location: https://www.deezer.com/
+date: Sat, 04 Oct 2025 11:05:57 GMT
+server: AmazonS3
+x-cache: Hit from cloudfront
+via: 1.1 2c89cca1ce7a0bb2069a1fa1ddabec0e.cloudfront.net (CloudFront)
+x-amz-cf-pop: BLR50-P4
+x-amz-cf-id: gi5cw5HzP_b26tpLUck0S-jvhHDCOZXCSIhj0CT1vKfWrVCSQwoQZg==
+age: 63558
+
+HTTP/2 302 
+server: Apache
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+location: https://www.deezer.com/soon
+x-host: blm-web-109
+x-ua-compatible: IE=edge,chrome=1,requiresActiveX=true
+x-content-type-options: nosniff
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000; includeSubDomains
+content-length: 0
+date: Sun, 05 Oct 2025 04:45:15 GMT
+set-cookie: sid=fr03ec966a1a5f65d92cc4df73bcc6c8ed0262d9; path=/; domain=.deezer.com; secure; HttpOnly; SameSite=None
+x-org: FR
+set-cookie: _abck=CA4FCD9F314A32F1FF05C210A6E542F7~-1~YAAQRJUjF6GmXqKZAQAAETGwsg40ar1dGBmJFXaxiOw0JRfayNFieMZptD+dB5uQk32q2obuKIV+F1UFb7zOuRurZ0ukFF6I7qYR1wtQTk6eM6+sevYLnAJoRGTEdjWpEie/4yA3LSBJPvXxnqcAKJgPG7VDSzpGoPwAdu0HOGSPCg5MWZ7wDnWsgUpwxJ135s7KhSIpO8dizMKMr+Ev49eSYijCOQ34yPVx0MogeRpOWwtGwj9UfyHzDIRrwfBUgOVy3J8IzvouIle9H4XeF6p4Tm8n4asv+QqcPevgNGC8+3BYNcDL3Oly6nog5ij2MKOoEboJ8BnB0VelEt9JdUiRQZRyn9K/8bQuob+RYK3crIsFSh36CvBn9TWFqoaIYS/GFrgibgvl0OLuC1QG0a0gH0poyhgqEtu+p2+WNeoPSzdcxUCmxI9WHg2pyBInlYJOD/8=~-1~-1~-1~-1~-1; Domain=.deezer.com; Path=/; Expires=Mon, 05 Oct 2026 04:45:15 GMT; Max-Age=31536000; SameSite=None; Secure
+set-cookie: bm_sz=C1A75F11A71A30DAC82FBBE6EF131C1F~YAAQRJUjF6KmXqKZAQAAETGwsh1PajE7vVerwgFfCRlQMpuquHZ8cjGQ6QflZcZgnHaGFYIsiERMZB9hPAXTnj+gzDIfPTBsoivPqY0DKmwNRb2fKC+9eL1PCf0vsu1GINJO6ObNZEfbUJu5lK4oWsFHzIXhJjFycmJqQiuVzPmeXkv03hIG/nCLHz5QxzLCc/HSG+J2QoOXlc1o5aMl9UOxn/D9r9PIVKFpvXA13v1Y4p3yzKB6Gte6Fr0c2MVVeMv9uiXzhX2Xv0sLqZEY4sHxpJvqQ2zvxmAx5OWcD7N5cWFmdsJyuaumBegoKltuiQCPo2jylvdV3AM8rRsMlPKmr9sUlSY0IEPHy32+V5CWCdRbQKj6xw==~3683397~4535366; Domain=.deezer.com; Path=/; Expires=Sun, 05 Oct 2025 08:45:15 GMT; Max-Age=14400; SameSite=None; Secure
+
+HTTP/2 200 
+server: Apache
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+p3p: policyref="/w3c/p3p.xml" CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+x-frame-options: SAMEORIGIN
+content-security-policy-report-only: upgrade-insecure-requests ; report-uri /csp-report
+content-security-policy-report-only: block-all-mixed-content ; report-uri /csp-report
+link: <https://cdn-files.dzcdn.net/cache/css/sass_c/bootstrap-tempo.01f502fdf7cc996401d6.css>; as="style"; rel="preload"; nopush
+x-host: blm-web-142
+x-ua-compatible: IE=edge,chrome=1,requiresActiveX=true
+x-content-type-options: nosniff
+content-type: text/html; charset=utf-8
+strict-transport-security: max-age=31536000; includeSubDomains
+date: Sun, 05 Oct 2025 04:45:15 GMT
+set-cookie: sid=frbbda689498f4a9139f44a38da3ea4c98e8bb90; path=/; domain=.deezer.com; secure; HttpOnly; SameSite=None
+set-cookie: dzr_uniq_id=dzr_uniq_id_fr214d7dd2b5d8ca4848f635aea747a4e625f412; expires=Fri, 03 Apr 2026 04:45:15 GMT; Max-Age=15552000; path=/; domain=.deezer.com; secure; SameSite=None
+x-org: FR
+set-cookie: _abck=C7F67A8BD88FF12CA1674424C5F4CDFB~-1~YAAQRJUjF6mmXqKZAQAAMzKwsg7NWCtN3j/4UJCW0O2A5eEfpnrhBJWBplYILVDCi5MBiHPe1WId1ETNFxr5YppguYt4Eg0sk39Cw8WCEYukECt/kwSiMc/tgCPyQQNJ/XUdhfR5kRTTBS70wZrlOcXsQ/VFvWknoTUUeOMrOpON3ovNKeckCf/sFcKf5IzT3Of6Magdad8hCHqayYps8B8+hmoWqekJR3UcOkcJRgEqrjmzOE0pNvY3tNcv2ViZ9LUsXBctnGjARt5415gr123d/Zd8i1PXmeU2EOukVLBF5amNnbV3C0t/U8rBYBuWTMhxwiy3IgOtvEqmltARzUovY/P11tlTqaPb/r/HpHS8w5nkjSJepIL/V51G8xEHOelu13IZseYAI+mEdV4waEzsgPJMimpgGN4XlDc0o9kY9i7XvM44tgxeXYFDtkZe8L8PjXg=~-1~-1~-1~-1~-1; Domain=.deezer.com; Path=/; Expires=Mon, 05 Oct 2026 04:45:15 GMT; Max-Age=31536000; SameSite=None; Secure
+set-cookie: bm_sz=B49F71D20C39EE5577335705FE68C8E9~YAAQRJUjF6qmXqKZAQAAMzKwsh1JZXIS73bSQ7wAzfE5dH4oNdWYRc0SCXKmjjNUaForPjM86dAuReWKfahYJudE6qFM87ei54mTFQm5WCvKX65zq/zUdEviozfsUyXOeg5Z8KA2SczULd7Yenq21ngyVSR0wpK0qp+kBLGOBHJZYMJEPsDnHqyGqwdcnQatazW3buqUHks3pukm6ITStdRBscnhPl2Jg52seVoRU3BzuRVgnQdh9sbe7ZrUe3RPEjSL3uGe7CLUBl6wpTh+tvTj92gNn4mvFqqLJ819eIhHNydiirF/pTLAQIyFtvCIBjMLeidm6rpv7WV/0xl8cnHE2i3ySl+s34dhrzU3tIw8suOiaXkJjQ==~3683397~4535366; Domain=.deezer.com; Path=/; Expires=Sun, 05 Oct 2025 08:45:15 GMT; Max-Age=14400; SameSite=None; Secure
+

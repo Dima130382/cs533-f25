@@ -1,0 +1,42 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:43:51 GMT
+X-Cache: HIT
+Vary: Accept-Encoding, User-Agent
+set-cookie: geo={"c": "IN","r": "KL","o": "AS"}; max-age=86400; path=/
+Cache-Control: max-age=0, no-cache, no-store
+Location: http://www.abc.es/
+Strict-Transport-Security: max-age=31557600
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:43:52 GMT
+X-Cache: HIT
+Vary: Accept-Encoding, User-Agent
+set-cookie: geo={"c": "IN","r": "KL","o": "AS"}; max-age=86400; path=/
+Cache-Control: max-age=0, no-cache, no-store
+Location: https://www.abc.es/
+Strict-Transport-Security: max-age=31557600
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+server: nginx
+request-id: 1759639408-4388-ac7b6b55-2b24-4b12-b02e-3b8dbb11d8ab
+accept-ranges: bytes
+age: 25
+date: Sun, 05 Oct 2025 04:43:53 GMT
+x-cache: MISS, HIT, MISS
+vary: Accept-Encoding, User-Agent
+set-cookie: geo={"c": "IN","r": "KL","o": "AS"}; max-age=86400; path=/
+cache-control: max-age=0, no-cache, no-store
+strict-transport-security: max-age=31557600
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 339657
+

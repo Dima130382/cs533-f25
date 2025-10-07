@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.focus.de/
+Date: Sun, 05 Oct 2025 04:41:34 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-request-id: 7d422cd0-a1a5-11f0-9636-4919b332d7d2
+last-modified: Sun, 05 Oct 2025 04:40:59 GMT
+x-memcached-key: -----0-www.focus.de/-
+cache-control: public, max-age=38
+expires: Sun, 05 Oct 2025 04:42:13 GMT
+date: Sun, 05 Oct 2025 04:41:35 GMT
+permissions-policy: ch-ua-model=*,ch-ua-platform-version=*
+accept-ch: sec-ch-ua-model,sec-ch-ua-platform-version
+

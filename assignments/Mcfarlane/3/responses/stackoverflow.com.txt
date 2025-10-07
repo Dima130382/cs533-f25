@@ -1,0 +1,57 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 05 Oct 2025 04:45:05 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Sun, 05 Oct 2025 05:45:05 GMT
+Location: https://stackoverflow.com/
+Set-Cookie: __cf_bm=k_NemjEXNIy3NkA8z8MoUoE928NA9aPZ0iVgqqC4grg-1759639505-1.0.1.1-2vhj7gGEpF31GifN1mb7tJqnfB20Q_ONNFbFpNpiSWp9CLqLJ7POeteKXs402deOHsF4LwDAEEBehVwNuYiGEWJKAaR4oh8xn0_cwBfyQtw; path=/; expires=Sun, 05-Oct-25 05:15:05 GMT; domain=.stackoverflow.com; HttpOnly
+Set-Cookie: _cfuvid=FDss83wOgW1svd69DlExWit__Gy7Do2j3lOyUlSSEtc-1759639505202-0.0.1.1-604800000; path=/; domain=.stackoverflow.com; HttpOnly
+X-DNS-Prefetch-Control: off
+Server: cloudflare
+CF-RAY: 989a447b5c13937f-MAA
+
+HTTP/2 302 
+date: Sun, 05 Oct 2025 04:45:05 GMT
+server: cloudflare
+location: /questions
+cf-ray: 989a447d4b8e84f2-BOM
+cf-cache-status: DYNAMIC
+cache-control: private
+set-cookie: prov=71ced855-9044-4490-b8f0-fafeeb4c0423; expires=Mon, 05 Oct 2026 04:45:05 GMT; domain=.stackoverflow.com; path=/; secure; samesite=none; httponly
+set-cookie: __cflb=02DiuFA7zZL3enAQJD3AX8ZzvyzLcaG7vgfVShRtKZTV6; SameSite=Lax; path=/; expires=Mon, 06-Oct-25 03:45:05 GMT; HttpOnly
+set-cookie: prov=71ced855-9044-4490-b8f0-fafeeb4c0423; Path=/; HttpOnly; Domain=stackoverflow.com
+set-cookie: __cf_bm=awco4I6fNwQxKvWg0jqCv.GJQUlO_oBQ2LuZ.lsiCX8-1759639505-1.0.1.1-OTe.r5R_CuGZJd9aDpFdOKbX.VvC4_u3_RtFzRUC7O.yhyY8bIHaLezayRfOXsD0SCdSxd3y4T_qXoIr.RQkwhSI6.mP5.8YxX4dtaTu9PQ; path=/; expires=Sun, 05-Oct-25 05:15:05 GMT; domain=.stackoverflow.com; HttpOnly; Secure; SameSite=None
+set-cookie: _cfuvid=9f9S1iVvM0hnMksp8TPPDhn88po1Xp2MmDNuTKigSps-1759639505807-0.0.1.1-604800000; path=/; domain=.stackoverflow.com; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+feature-policy: microphone 'none'; speaker 'none'
+x-clacks-overhead: GNU Terry Pratchett
+x-frame-options: SAMEORIGIN
+x-request-guid: 79e8e261-fd7d-4f38-bed0-3de98fc3cb83
+x-worker-origin-response-time: 302000000
+x-dns-prefetch-control: off
+
+HTTP/2 200 
+date: Sun, 05 Oct 2025 04:45:06 GMT
+content-type: text/html; charset=utf-8
+server: cloudflare
+cf-ray: 989a4480ed0a84f2-BOM
+cf-cache-status: DYNAMIC
+cache-control: private
+set-cookie: prov=0fe0aee3-b2e8-4be2-af61-4c3e3df8a5ab; expires=Mon, 05 Oct 2026 04:45:06 GMT; domain=.stackoverflow.com; path=/; secure; samesite=none; httponly
+set-cookie: __cflb=02DiuFA7zZL3enAQJD3AX8ZzvyzLcaG7vhQJxtzXwq7yW; SameSite=Lax; path=/; expires=Mon, 06-Oct-25 03:45:06 GMT; HttpOnly
+set-cookie: prov=0fe0aee3-b2e8-4be2-af61-4c3e3df8a5ab; Path=/; HttpOnly; Domain=stackoverflow.com
+set-cookie: __cf_bm=dUna7F7BPvND2LlcXNsD6DCbp8oa6qeps7sKg3jMMyk-1759639506-1.0.1.1-TnCl2SleDG9TRindCupVGAPAODl4_NXIiYlcWzVVwTCzpBl.ph2CFjzq6SplLYDBf4VBl5DtDAwuqpsLxCxPywRWYdLKdYTjzJcyUSVewBA; path=/; expires=Sun, 05-Oct-25 05:15:06 GMT; domain=.stackoverflow.com; HttpOnly; Secure; SameSite=None
+set-cookie: _cfuvid=DXyoW3XqASHHJ2uaLu3Uxpoc_6.00deV.uGqK9Gie0s-1759639506351-0.0.1.1-604800000; path=/; domain=.stackoverflow.com; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=31536000; includeSubDomains
+vary: Accept-Encoding
+content-security-policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+feature-policy: microphone 'none'; speaker 'none'
+x-clacks-overhead: GNU Terry Pratchett
+x-frame-options: SAMEORIGIN
+x-request-guid: 5dd5c45f-6891-401c-88ad-6862a67fdc8b
+x-worker-origin-response-time: 266000000
+x-dns-prefetch-control: off
+

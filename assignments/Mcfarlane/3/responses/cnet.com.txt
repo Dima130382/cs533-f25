@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.29.1
+Date: Sun, 05 Oct 2025 04:46:24 GMT
+Content-Type: text/html
+Content-Length: 169
+Location: https://www.cnet.com/
+Via: 1.1 google
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+last-modified: Sun, 05 Oct 2025 04:44:46 GMT
+date: Sun, 05 Oct 2025 04:46:26 GMT
+set-cookie: fly_geo={"countryCode": "in"}; max-age=604800; path=/; domain=.cnet.com; Secure;
+set-cookie: fly_device=desktop; max-age=604800; path=/; domain=.cnet.com; Secure;
+set-cookie: fly_zip=(null); max-age=604800; path=/; domain=.cnet.com; Secure;
+set-cookie: country_code=in; max-age=604800; path=/; domain=.cnet.com; Secure; SameSite=Lax;
+vary: Accept-Encoding, User-Agent
+cache-control: max-age=300, private
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+accept-ranges: bytes
+content-length: 2161549
+

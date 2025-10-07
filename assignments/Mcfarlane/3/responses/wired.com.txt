@@ -1,0 +1,65 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://wired.com/
+Accept-Ranges: bytes
+Date: Sun, 05 Oct 2025 04:44:11 GMT
+Via: 1.1 varnish
+Set-Cookie: CN_xid=e51c95e5-e670-4baf-9d58-152e081c1b2c; Expires=Fri, 03 Apr 2026 04:44:11 GMT; Domain=.wired.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=e51c95e5-e670-4baf-9d58-152e081c1b2c; Expires=Mon, 05 Oct 2026 04:44:11 GMT; Domain=.wired.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Sun, 05 Oct 2025 04:44:26 GMT; Domain=.wired.com; path=/;
+Set-Cookie: CN_segments=co.w2540; Expires=Fri, 03 Apr 2026 04:44:11 GMT; Domain=.wired.com; path=/;
+Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob: wss://*.hotjar.com wss://*.conde.digital; font-src https: data:; img-src https: blob: data: android-webview-video-poster:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests;
+X-Served-By: cache-ixm4290020-IXM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1759639452.654330,VS0,VE0
+Vary: 
+Set-Cookie: CN_geo_country_code=IN; Expires=Fri, 03 Apr 2026 04:44:11 GMT; Path=/; Domain=wired.com; Samesite=None; Secure
+apple-news-services-host: wired.com
+
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+location: https://www.wired.com/
+accept-ranges: bytes
+date: Sun, 05 Oct 2025 04:44:11 GMT
+via: 1.1 varnish
+content-security-policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob: wss://*.hotjar.com wss://*.conde.digital; font-src https: data:; img-src https: blob: data: android-webview-video-poster:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests;
+strict-transport-security: max-age=31536000; preload
+x-served-by: cache-ixm4290027-IXM
+x-cache: HIT
+x-cache-hits: 0
+vary: 
+set-cookie: CN_geo_country_code=IN; Expires=Fri, 03 Apr 2026 04:44:11 GMT; Path=/; Domain=wired.com; Samesite=None; Secure
+apple-news-services-host: wired.com
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 1456519
+server: CloudFront
+date: Sun, 05 Oct 2025 04:41:26 GMT
+modified-at: 1759539548
+cache-control: stale-while-revalidate=60, stale-if-error=86400, s-maxage=900
+accept-ranges: bytes
+back-lae-origin-response-start: 1759639286368
+x-organization-slug: wired
+x-content-type-options: nosniff
+x-ua-device: desktop
+via: 1.1 182e352a25f69788407d2b18f81be2a0.cloudfront.net (CloudFront), 1.1 f0baf1369e301dc8f36cd909a541181e.cloudfront.net (CloudFront)
+vary: accept-encoding
+alt-svc: h3=":443"; ma=86400
+age: 166
+set-cookie: CN_geo_country_code=IN; Expires=Fri, 03 Apr 2026 04:44:12 GMT; path=/; Domain=.wired.com;  Secure; SameSite=None;
+set-cookie: CN_segments=co.w2541; Expires=Fri, 03 Apr 2026 04:44:12 GMT; Domain=.wired.com; path=/;
+set-cookie: CN_xid=01031b87-0917-4e96-88f6-783d4210fe24; Expires=Fri, 03 Apr 2026 04:44:12 GMT; Domain=.wired.com; path=/; Secure; SameSite=None;
+set-cookie: CN_xid_refresh=01031b87-0917-4e96-88f6-783d4210fe24; Expires=Mon, 05 Oct 2026 04:44:12 GMT; Domain=.wired.com; path=/; Secure; httponly; SameSite=None;
+set-cookie: xid1=1; Expires=Sun, 05 Oct 2025 04:44:27 GMT; Domain=.wired.com; path=/;
+x-amz-cf-pop: BOM78-P6
+x-cache: Hit from cloudfront
+x-amz-cf-pop: BLR50-P4
+x-amz-cf-id: QlN-0Wvfa8B1H-NyiA-4Kcl_xbBZ5zLu6wNPhEdTelW1LixofdongQ==
+

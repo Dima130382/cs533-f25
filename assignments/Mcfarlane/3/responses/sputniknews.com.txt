@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Server: QRATOR
+Date: Sun, 05 Oct 2025 04:42:24 GMT
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=15
+location: https://sputniknews.com/
+
+HTTP/1.1 301 Moved Permanently
+Server: QRATOR
+Date: Sun, 05 Oct 2025 04:42:26 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Keep-Alive: timeout=15
+location: https://sputnikglobe.com/
+
+HTTP/1.1 200 OK
+Server: QRATOR
+Date: Sun, 05 Oct 2025 04:42:29 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Keep-Alive: timeout=15
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: public
+pragma: no-cache
+
