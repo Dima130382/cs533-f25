@@ -1,0 +1,36 @@
+HTTP/1.0 302 Moved Temporarily
+Location: https://www.unesco.org/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.0 302 Moved Temporarily
+Location: https://www.unesco.org/en
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+HTTP/1.1 200 OK
+date: Mon, 13 Oct 2025 20:02:42 GMT
+cache-control: max-age=14400, public
+content-language: en
+x-content-type-options: nosniff
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-frame-options: SAMEORIGIN
+last-modified: Mon, 13 Oct 2025 20:02:40 GMT
+content-type: text/html; charset=UTF-8
+x-cacheable: YES
+etag: W/"1760385760"
+vary: Cookie, Accept-Encoding
+accept-ranges: bytes
+x-cache-hits: 199624
+x-storage: memoire
+x-cache: ZIP
+age: 13571
+connection: close
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: TS0121e8f2=0152079295f7dc8b74bba15c72194d4c882120229c295f793e55671d768d10425c68f019f9a17110f7399d6af578c387da4553720a; Path=/; Domain=.www.unesco.org; samesite=None; Secure; 
+Set-Cookie: TS7f23b040029=080713870fab280074c9b47964968b666e0b1d4108123271f7ed1579635a27da3a7e30d51731b941aaae2d8638570879; Max-Age=30; Path=/; samesite=None; Secure
+Set-Cookie: TSff41235b027=080713870fab2000c14cfa85a4cbdd5399e7592bccebdbb03a693af22c7b7eca2bece732759891d908653bd5e51130006a935e9b72f06758390160e2b5395e6abc153d28091531327c03f13a311bb2ce313575c0ccc0ca822bade89add761a0a; Path=/; samesite=None; Secure
+

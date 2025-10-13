@@ -1,0 +1,20 @@
+HTTP/2 200 
+server: nginx
+date: Mon, 13 Oct 2025 23:49:12 GMT
+content-type: text/html; charset=UTF-8
+x-hacker: If you're reading this, you should visit https://join.a8c.com/viphacker and apply to join the fun, mention this header.
+x-powered-by: WordPress VIP <https://wpvip.com>
+host-header: a9130478a60e5f9135f765b23f26593b
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: no-referrer-when-downgrade
+content-security-policy: frame-ancestors nypost.com decider.com pagesix.com *.nypost.com *.decider.com *.pagesix.com *.thesun.co.uk *.the-sun.com *.thescottishsun.co.uk *.thesun.ie *.staging-thesun.co.uk *.staging-the-sun.com *.staging-thescottishsun.co.uk *.staging-thesun.ie au-script.dotmetrics.net; form-action 'self' *.nypdev.com nypost.com decider.com pagesix.com *.nypost.com *.decider.com *.pagesix.com *.thesun.co.uk *.the-sun.com *.thescottishsun.co.uk *.thesun.ie *.staging-thesun.co.uk *.staging-the-sun.com *.staging-thescottishsun.co.uk *.staging-thesun.ie au-script.dotmetrics.net
+link: <https://nypost.com/wp-json/>; rel="https://api.w.org/"
+link: <https://wp.me/b3Qpq>; rel=shortlink
+x-rq: dca5 181 253 80
+accept-ranges: bytes
+cache-control: private
+x-cache: HIT
+strict-transport-security: max-age=31536000
+

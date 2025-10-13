@@ -1,0 +1,22 @@
+HTTP/2 301 
+server: nginx
+date: Mon, 13 Oct 2025 23:48:38 GMT
+content-type: text/plain; charset=utf-8
+content-length: 60
+x-redirector: dw
+location: https://www.franceinfo.fr/
+vary: Accept
+
+HTTP/2 200 
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+access-control-allow-origin: *
+strict-transport-security: max-age=31536000
+etag: "102ef860086934e2de91d85fbd6ec892-gzip"
+content-type: text/html; charset=UTF-8
+version: 1.0
+server: Microsoft IIS 4.0
+cache-control: public, max-age=60
+date: Mon, 13 Oct 2025 23:48:38 GMT
+alt-svc: h3=":443"; ma=93600
+

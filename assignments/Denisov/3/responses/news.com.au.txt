@@ -1,0 +1,27 @@
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.news.com.au/
+date: Mon, 13 Oct 2025 23:49:31 GMT
+
+HTTP/2 403 
+server: AkamaiGHost
+mime-version: 1.0
+content-length: 1329
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: 0
+content-type: text/html
+cache-control: max-age=0
+expires: Mon, 13 Oct 2025 23:49:31 GMT
+date: Mon, 13 Oct 2025 23:49:31 GMT
+strict-transport-security: max-age=600 ; includeSubDomains
+content-security-policy-report-only: frame-ancestors 'self'; report-uri https://www.news.com.au/csp-reports
+content-security-policy: block-all-mixed-content; style-src https: 'unsafe-inline'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; img-src https: data:; frame-src https:;
+x-arrrg5: /blaize/decision-engine?path=https%3a%2f%2fwww.news.com.au%2f&blaizehost=cdn.news.newscorp.blaize.io&content_id=
+x-arrrg4: 
+x-pathqs: TRUE
+x-r: GE3TUUZ2IZAUYU2FHJDECTCTIU5FIRKTKREE6TKFHJXHK3DMHJSGKZTBOVWHIOSSKM5EIORRFU4TQOSBHI4TSLJZHE5EEORRGAYC2MJQGA5EGORRGAYS2MJQGE5EQOSGIFGFGRJ2IZAUYU2FHJBUMRJNGM4TGNR2NZ2WY3B2MRSWMYLVNR2DUUSIHJCDUMJNHE4DUQJ2HE4S2OJZHJBDUMJQGAWTCMBQHJBTUMJQGEWTCMBRHIYTONRQGM4TSMZXGE
+vary: User-Agent
+akamai-grn: 0.5f2a0660.1760399371.12504737
+

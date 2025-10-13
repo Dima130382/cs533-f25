@@ -1,0 +1,24 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 13 Oct 2025 23:49:33 GMT
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+cross-origin-opener-policy: unsafe-none
+content-security-policy: require-trusted-types-for 'script';report-uri /_/IdentityPoliciesUi/cspreport
+content-security-policy: script-src 'report-sample' 'nonce-J7s6xGlQL8GX_GoMjFFumA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/IdentityPoliciesUi/cspreport;worker-src 'self'
+content-security-policy: script-src 'unsafe-inline' 'unsafe-eval' blob: data: 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://www.google-analytics.com https://www.google.com/tools/feedback/ https://www.gstatic.com/feedback/js/ https://www.gstatic.com/inproduct_help/ https://www.gstatic.com/support/content/ https://www.gstatic.com/uservoice/feedback/client/web/live/ https://www.gstatic.com/uservoice/surveys/resources/prod/js/survey/ https://support.google.com/inapp/ https://www.googleapis.com/appsmarket/v2/installedApps/;report-uri /_/IdentityPoliciesUi/cspreport/allowlist
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+cross-origin-resource-policy: same-site
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+reporting-endpoints: default="/_/IdentityPoliciesUi/web-reports?context=eJwBBAH7_grIASoKGgBQKBoAsCK4Aqs6uwI3YOQCsHjmAjtH6AJP_OkCNtqXBdnflwXeYZgFhdnOBZPZzgXmis8F3_zPBTEg0gU_INIFchjUBYAY1AXRX9QF7qjUBaxC1QVJLdYFJUrXBWux1wXc1tcF8nrYBRB72AViB9kFcAfZBeOM2QWVcdoFNcHaBUPB2gXW39sFRgbcBbq63AXlx9wFYd_cBa3h3AUlp90F1ZtJBrbMSQbA9EkGgh5KBkL0SgYbqksGUfRMBo3xTQanVE4GEgwIjaC2xwYQqN2zmwMiKWJvcV9pZGVudGl0eXBvbGljaWVzc2VydmVyXzIwMjUxMDA5LjAyX3AwC0JtVQ"
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+set-cookie: NID=525=kAIuQfeDi032WcIZZmIqa9cdxeTmePOIxf_sgHUaX7ikouWNibK_Drvt-ZjIXfhDMuwGhAWwzxQfrF9M5DNnV1I_EpDeU_HAs0FoANgBjVlpYCdc1gc192gWmsiAbuNvf3dNcmUWGAQjtkHEwCzYjyrrfN-qmuxbPnvvG7JwO_l1IBTYwZ-EvkfV-aHCwcQe-WJKyA_0kYTlKYqiC5xsCQ; expires=Tue, 14-Apr-2026 23:49:33 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

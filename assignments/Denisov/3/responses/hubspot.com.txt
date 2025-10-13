@@ -1,0 +1,55 @@
+HTTP/2 301 
+date: Mon, 13 Oct 2025 23:48:42 GMT
+content-type: text/html
+content-length: 167
+location: https://www.hubspot.com/
+cache-control: max-age=3600
+expires: Tue, 14 Oct 2025 00:48:42 GMT
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3kGHKlX7YqP12GFQ0vUO3ljfp3AG75ZurqrRoJBbiXVqYkOxm8afD%2BRcl82UQYLmhSN18Ucmpe194UacYyIsUMXIfWKjSqh62ma1n4XMb0M%2BpZAx8I1SaCumvZT%2B%2F8OQQ0VRoZMKlK9%2F"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+server: cloudflare
+cf-ray: 98e2bab8a955e61b-IAD
+
+HTTP/2 103 
+link: <https://www.hubspot.com/hubfs/HS_Full_Bleed_1_Mobile_optmised-1.webp>; as=image; rel=preload, <https://www.hubspot.com/hubfs/HS_Full_Bleed_1_optmised.webp>; as=image; rel=preload, <https://www.hubspot.com/hubfs/hub_generated/template_assets/1/145435623343/1742983163496/template_footer.min.css>; as=style; rel=preload, <https://www.hubspot.com/hubfs/hub_generated/template_assets/1/145435696777/1755631383593/template_nav-shared.min.css>; as=style; rel=preload, <https://www.hubspot.com/hubfs/hub_generated/template_assets/1/80992946022/1740999027946/template_section.min.css>; as=style; rel=preload, <https://www.hubspot.com/hubfs/hub_generated/template_assets/1/194395071286/1756890296815/template_button.min.css>; as=style; rel=preload, <https://www.hubspot.com/hubfs/hub_generated/module_assets/1/80992206983/1760023453170/module_logoCarousel.min.css>; as=style; rel=preload
+
+HTTP/2 200 
+date: Mon, 13 Oct 2025 23:48:43 GMT
+content-type: text/html;charset=utf-8
+cf-ray: 98e2bab95cae3b1d-IAD
+cf-cache-status: DYNAMIC
+cache-control: s-maxage=0,max-age=0
+last-modified: Mon, 13 Oct 2025 23:48:43 GMT
+link: <https://www.hubspot.com/hubfs/HS_Full_Bleed_1_Mobile_optmised-1.webp>; rel=preload; as=image, <https://www.hubspot.com/hubfs/HS_Full_Bleed_1_optmised.webp>; rel=preload; as=image, <https://www.hubspot.com/hubfs/hub_generated/template_assets/1/145435623343/1742983163496/template_footer.min.css>; rel=preload; as=style, <https://www.hubspot.com/hubfs/hub_generated/template_assets/1/145435696777/1755631383593/template_nav-shared.min.css>; rel=preload; as=style, <https://www.hubspot.com/hubfs/hub_generated/template_assets/1/80992946022/1740999027946/template_section.min.css>; rel=preload; as=style, <https://www.hubspot.com/hubfs/hub_generated/template_assets/1/194395071286/1756890296815/template_button.min.css>; rel=preload; as=style, <https://www.hubspot.com/hubfs/hub_generated/module_assets/1/80992206983/1760023453170/module_logoCarousel.min.css>; rel=preload; as=style
+set-cookie: __cf_bm=_d5A8ehJ2AAzboUn0NDEYPr0U87Fa4amvKEABq8p0y8-1760399323-1.0.1.1-vuDScu6yDSsQq._0nUh5uZvtwLOigJ3ywhuUfjj.CpR6LRHBpEf4SuvJYzMv93ndCxWJeNzK_Q0ydYF_Rd_lKexWWPLdeiVJ58fpzGUiNIw; path=/; expires=Tue, 14-Oct-25 00:18:43 GMT; domain=.www.hubspot.com; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: origin, Accept-Encoding
+access-control-allow-credentials: false
+content-security-policy: script-src 'unsafe-inline' 'unsafe-eval' 'self' 1003891.track.convertexperiments.com app.hubspot.com cdn-3.convertexperiments.com cdn-4.convertexperiments.com *.metrics.convertexperiments.com *.signals.convertexperiments.com logs.convertexperiments.com *.convertexperiments.com cdn.pdst.fm connect.facebook.net js.hs-analytics.net js.hs-banner.com js.hsforms.net js.hsleadflows.net js.hubspotfeedback.com js.usemessages.com organizer.bizzabo.com play.vidyard.com script.hotjar.com snap.licdn.com static.hotjar.com static.hsappstatic.net www.google-analytics.com www.googletagmanager.com www.recaptcha.net code.highcharts.com www.youtube.com js.hubspot.com www.dropbox.com widget.altrulabs.com www.google.com maps.googleapis.com wt-assets.hubteam.com cdn2.hubspot.net www.redditstatic.com cdn.veritonic.com gosniply.com d.impactradius-event.com js.hubspot.com 50339659.hs-sites.com analytics.tiktok.com; report-uri https://send.hsbrowserreports.com/csp/report; upgrade-insecure-requests
+content-security-policy-report-only: script-src 'self' 'unsafe-inline' 'unsafe-eval' 50339659.hs-sites.com 1003891.track.convertexperiments.com app.hubspot.com cdn-3.convertexperiments.com cdn-4.convertexperiments.com *.metrics.convertexperiments.com *.signals.convertexperiments.com logs.convertexperiments.com *.convertexperiments.com cdn.pdst.fm connect.facebook.net js.hs-analytics.net js.hs-banner.com js.hsforms.net js.hsleadflows.net js.hubspotfeedback.com js.usemessages.com play.vidyard.com script.hotjar.com snap.licdn.com static.hotjar.com static.hsappstatic.net www.google-analytics.com www.googletagmanager.com www.recaptcha.net code.highcharts.com www.youtube.com js.hubspot.com www.dropbox.com widget.altrulabs.com www.google.com maps.googleapis.com wt-assets.hubteam.com cdn2.hubspot.net www.redditstatic.com cdn.veritonic.com gosniply.com d.impactradius-event.com test.test.com js.hubspot.com analytics.tiktok.com; report-uri https://send.hsbrowserreports.com/csp/report
+edge-cache-tag: CT-194001295991,P-53,W-1754602889014,W-194002141486,W-194002141487,W-194002141488,W-194002141489,W-194002141490,W-194002141491,W-194002141492,W-194002141493,W-195064770155,CW-146307909958,CW-187172591700,CW-190645192841,CW-190737726287,CW-193936998720,CW-193936998727,CW-193936998729,CW-193941920312,CW-193942273292,CW-194032616504,CW-194108955804,CW-195084536168,CW-39963105441,CW-80992206983,DB-20636946,DB-2678762,DB-2896948,E-112565063773,E-134552826935,E-134554077022,E-134554266002,E-134555644731,E-145435623343,E-145435696777,E-145435696781,E-145435905903,E-168564936819,E-178276874345,E-180019264802,E-181806770228,E-182757519914,E-182757520268,E-182757520273,E-182757520277,E-182761488664,E-182761488691,E-182762110992,E-182772802595,E-182772802598,E-182772802604,E-182772802611,E-182772802612,E-182772802618,E-182772802623,E-182772896941,E-182772896942,E-182772896949,E-182772896951,E-182772897027,E-182773947774,E-182773947776,E-182774611356,E-182774864397,E-182774864401,E-182774864404,E-182774864408,E-183504098971,E-183972152372,E-184970967646,E-185795687778,E-186806927767,E-186807309163,E-186807393882,E-186807707401,E-186808447385,E-186808447403,E-186808447492,E-186808449041,E-186808449062,E-186986174512,E-187957699930,E-188327041555,E-188327100024,E-188327573271,E-188327573274,E-188327573275,E-188327665702,E-188329209741,E-188329209748,E-188329223575,E-188329223604,E-188329346742,E-189257685633,E-191044787116,E-191305914964,E-191317366345,E-192339359882,E-192468408643,E-192649992373,E-192656330903,E-193936664623,E-193936998735,E-193936998736,E-193936998739,E-193941920320,E-193941920321,E-193941920518,E-193942273300,E-193942273301,E-194032442516,E-194274679426,E-194395071283,E-194395071286,E-194395071298,E-194395071313,E-194395071316,E-194395071318,E-194395071322,E-194395071326,E-194395071330,E-194395071333,E-194396003587,E-196406000160,E-196759365909,E-27335243879,E-27335426396,E-29576524729,E-29576570488,E-29584276880,E-29584276881,E-29584276882,E-29744273155,E-32625894203,E-33497625588,E-34744580980,E-34749935782,E-80991207740,E-80992946022,E-8384041284,E-88014303377,PGS-ALL,SW-0
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+referrer-policy: no-referrer-when-downgrade
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=qXzhxbGE2TgDhvaAiwgRDJQw7Wn66aU3FS1h8lMWToRN9n0vUn5fXFGNz62fCJY6hbFbdbl5Zfa8UFN3DPz82X%2F8gnY9UdtQ0PPyHbWulC35bpRc%2Bsko3hBsLYakrafLN9KPAAFzzX7UylrbTA%3D%3D"}],"group":"cf-nel","max_age":604800}
+set-cookie: _cfuvid=Ha4wteGxOruZF8cjJRdqvLYriwAlu3Vp45EdL4gp5M4-1760399323987-0.0.1.1-604800000; path=/; domain=.www.hubspot.com; HttpOnly; Secure; SameSite=None
+set-cookie: laboratory-anonymous-id=anon2a967c15876959a095a1117808f4; Domain=hubspot.com; SameSite=Strict; Secure; HttpOnly; Path=/
+x-content-type-options: nosniff
+x-envoy-upstream-service-time: 780
+x-evy-trace-listener: listener_https
+x-evy-trace-route-configuration: listener_https/all
+x-evy-trace-route-service-name: envoyset-translator
+x-evy-trace-served-by-pod: iad02/cms-hs-com-td/envoy-proxy-64c547cdb-mgf94
+x-evy-trace-virtual-host: all
+x-frame-options: DENY
+x-hs-cache-config: BrowserCache-0s-EdgeCache-0s
+x-hs-cfworker-meta: {"contentType":"SITE_PAGE"}
+x-hs-content-id: 194001295991
+x-hs-hub-id: 53
+x-hs-portal-id: 53
+x-hubspot-correlation-id: 45fc94b1-fb03-4e26-b024-02819fc71be9
+x-request-id: 45fc94b1-fb03-4e26-b024-02819fc71be9
+x-wt-stamp: webteam
+x-xss-protection: 1
+server: cloudflare
+

@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://www.dw.com/
+cache-control: max-age=60, s-maxage=300, public
+
+HTTP/2 200 
+strict-transport-security: max-age=31536000
+etag: "1caa-EL8Krehiqpnd2RZ5l7v2tJTdtlE"
+content-type: text/html; charset=utf-8
+content-security-policy: frame-ancestors 'none'
+access-control-allow-origin: *
+onion-location: http://www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/
+cache-control: public, max-age=95, s-maxage=300
+date: Mon, 13 Oct 2025 23:48:52 GMT
+alt-svc: h3=":443"; ma=93600
+server-timing: ak_p; desc="1760399332681_389287788_1613099322_239_502_16_28_15";dur=1
+

@@ -1,0 +1,33 @@
+HTTP/2 301 
+date: Mon, 13 Oct 2025 23:49:25 GMT
+content-type: text/html
+content-length: 169
+location: https://www.change.org/
+cf-ray: 98e2bbc0bfa95776-IAD
+cf-cache-status: DYNAMIC
+strict-transport-security: max-age=15552000; includeSubDomains
+x-content-type-options: nosniff
+set-cookie: _cfuvid=XCbJ0r.OVTLTuRuo0yW.lOVGaW0VnvTiVKCKY2vgnVE-1760399365580-0.0.1.1-604800000; path=/; domain=.change.org; HttpOnly; Secure; SameSite=None
+server: cloudflare
+
+HTTP/2 200 
+date: Mon, 13 Oct 2025 23:49:25 GMT
+content-type: text/html; charset=utf-8
+cf-ray: 98e2bbc3db802425-IAD
+content-security-policy: default-src 'self' blob: 'unsafe-inline' 'unsafe-eval' d18kwxxua7ik1y.cloudfront.net d22r54gnmuhwmk.cloudfront.net *.change.org change-production.s3.amazonaws.com change-public-stuff.s3.amazonaws.com *.google.ca *.googleadservices.com *.youtube.com *.youtube-nocookie.com *.doubleclick.net *.google.com *.googleapis.com *.googletagmanager.com *.google-analytics.com *.gstatic.com *.recaptcha.net *.ytimg.com *.facebook.com *.facebook.net *.fbcdn.net fbrpc://* fb-messenger://* ajax.cdnjs.com cdnjs.cloudflare.com service.force.com *.salesforceliveagent.com *.braintreegateway.com *.paypalobjects.com *.paypal.com *.braintree-api.com *.stripe.com *.dlocal.com *.optimizely.com optimizely.s3.amazonaws.com cdn-assets-prod.s3.amazonaws.com px-cdn.net *.px-cdn.net *.px-client.net *.px-cloud.net pxchk.net *.pxchk.net surveys-web.delighted.com p2a.co js-agent.newrelic.com bam.nr-data.net bam-cell.nr-data.net *.messagebird.com secure.everyaction.com d3rse9xjbp8270.cloudfront.net *.ngpvan.com js2.verygoodvault.com sr-client-cfg.amplitude.com api-sr.amplitude.com api2.amplitude.com *.cloudflarestream.com code.jquery.com player.vimeo.com bat.bing.com soundcloud.com *.soundcloud.com www.instagram.com www.flickr.com *.staticflickr.com *.voteamerica.com *.jotform.com actionnetwork.org *.airbrake.io *.sentry.io browser-update.org *.tiktok.com *.bannerbear.com ads.nextdoor.com flask.nextdoor.com *.maze.co us-central1-niftic-agency.cloudfunctions.net/change-starter-image us-central1-niftic-agency.cloudfunctions.net/openai/generate-draft us-central1-niftic-agency.cloudfunctions.net/openai/generate-image cdn.iframe.ly tiles.openfreemap.org a.tile.openstreetmap.org change.my.salesforce.com help.change.org; font-src 'self' data: *.change.org d18kwxxua7ik1y.cloudfront.net d22r54gnmuhwmk.cloudfront.net fonts.gstatic.com d3rse9xjbp8270.cloudfront.net; img-src * blob: data:; form-action 'self'; frame-ancestors 'self'
+permissions-policy: browsing-topics=(), web-share=(self "https://www.change.org" "https://*.chng.it" "https://chng.it")
+x-frame-options: sameorigin
+x-request-id: 52bbb172-13f9-4e99-81aa-6fdf9e847d99
+set-cookie: _change_session=e8539d8ea92fad29f916666f7055fa52; Path=/; HttpOnly; Secure; SameSite=Lax
+set-cookie: _change_lang=%7B%22locale%22%3A%22en-US%22%2C%22countryCode%22%3A%22US%22%7D; Max-Age=86400; Path=/; Expires=Tue, 14 Oct 2025 23:49:25 GMT; Secure; SameSite=Strict
+set-cookie: _cfuvid=2M9z3TnyzL6KG9qmnxYeO95P6PQVBGf4BFJb.ToaBvM-1760399365977-0.0.1.1-604800000; path=/; domain=.change.org; HttpOnly; Secure; SameSite=None
+x-session-type: legacy
+cache-control: no-cache
+x-change-render-mode: SSR
+x-change-cache: HIT
+etag: W/"58c84-wdGDrRdtgs80Xr0bd41L/KydqpU"
+cf-cache-status: DYNAMIC
+strict-transport-security: max-age=15552000; includeSubDomains
+x-content-type-options: nosniff
+server: cloudflare
+

@@ -1,0 +1,53 @@
+HTTP/2 301 
+date: Mon, 13 Oct 2025 23:45:28 GMT
+server: mw-web.eqiad.main-5d8dbbd7bb-hzmw9
+x-content-type-options: nosniff
+cache-control: s-maxage=1200, must-revalidate, max-age=0
+last-modified: Mon, 13 Oct 2025 23:45:28 GMT
+location: https://en.wikipedia.org/wiki/Main_Page
+content-length: 0
+content-type: text/html; charset=UTF-8
+age: 186
+vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+x-cache: cp1112 miss, cp1112 hit/299
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp1112"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=13-Oct-2025;Path=/;HttpOnly;secure;Expires=Fri, 14 Nov 2025 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=13-Oct-2025;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 14 Nov 2025 12:00:00 GMT
+x-client-ip: 2600:4040:1421:4400:9116:29d4:9273:c31c
+set-cookie: GeoIP=US:VA:Virginia_Beach:36.88:-76.15:v4; Path=/; secure; Domain=.wikipedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+set-cookie: WMF-Uniq=jhzzndQMK8J5HpKRYwHKuQKLAAAAAFvdLRJIuA2RH5gHpMk_1hLxyTHqyKEYKJ23;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Tue, 13 Oct 2026 00:00:00 GMT
+x-request-id: d0d7abee-bb05-411f-91b6-e0a2795160a4
+
+HTTP/2 200 
+date: Mon, 13 Oct 2025 20:22:36 GMT
+server: mw-web.eqiad.main-5d8dbbd7bb-w4dz2
+x-content-type-options: nosniff
+content-language: en
+accept-ch: 
+last-modified: Mon, 13 Oct 2025 20:22:14 GMT
+content-type: text/html; charset=UTF-8
+age: 12358
+accept-ranges: bytes
+x-cache: cp1112 miss, cp1112 hit/23898
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp1112"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=13-Oct-2025;Path=/;HttpOnly;secure;Expires=Fri, 14 Nov 2025 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=13-Oct-2025;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 14 Nov 2025 12:00:00 GMT
+set-cookie: WMF-DP=af1;Path=/;HttpOnly;secure;Expires=Tue, 14 Oct 2025 00:00:00 GMT
+x-client-ip: 2600:4040:1421:4400:9116:29d4:9273:c31c
+cache-control: private, s-maxage=0, max-age=0, must-revalidate, no-transform
+vary: Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
+set-cookie: GeoIP=US:VA:Virginia_Beach:36.88:-76.15:v4; Path=/; secure; Domain=.wikipedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+set-cookie: WMF-Uniq=RrEQ5LzdidMgdLCfB4MLFgKLAAAAAFvdLfJh0IboC-vC-Bi0JKHfkx4YL_MYjT6o;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Tue, 13 Oct 2026 00:00:00 GMT
+content-length: 236955
+x-request-id: 0ccb7864-f50e-4b47-beee-08f2ed6a657c
+

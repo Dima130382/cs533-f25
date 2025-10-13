@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: s-maxage=30, no-cache, max-age=0, must-revalidate
+link: <https://i.giphy.com>; rel="preconnect", <https://media.giphy.com>; rel="preconnect", <https://media0.giphy.com>; rel="preconnect", <https://media1.giphy.com>; rel="preconnect", <https://media2.giphy.com>; rel="preconnect", <https://media3.giphy.com>; rel="preconnect", <https://media4.giphy.com>; rel="preconnect"
+link: </_next/static/media/019b6917686f8f6b-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/media/212c0c0077b7c84d-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/media/3bce2c0df22c7261-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/media/98ed29ff2bc362f9-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2"
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:49:19 GMT
+age: 24
+x-served-by: cache-iad-kcgs7200047-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1760399359.458373,VS0,VE3
+vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding, X-Client-Country-Code, X-Client-Region-Code, X-UA-Device, Fastly-SSL
+strict-transport-security: max-age=15465600
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 318904
+

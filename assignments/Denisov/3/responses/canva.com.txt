@@ -1,0 +1,39 @@
+HTTP/2 301 
+date: Mon, 13 Oct 2025 23:48:42 GMT
+content-type: text/html
+content-length: 167
+location: https://www.canva.com/
+cache-control: max-age=3600
+expires: Tue, 14 Oct 2025 00:48:42 GMT
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=0OG2Npr4YyUsc9mZ2ZIHIml5kZGv%2BwmMy7kzty05nc2K%2FrzqyhU5lRLiN%2BBdI3hXvjxsnI4VHVrSs1w4x8ivVk%2B2tr%2BRviiFdyuIv7xrhu0KfU0aibv86VwHR4r5A8lVer1BLcV4Og%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+server: cloudflare
+cf-ray: 98e2bab718ac1fdd-IAD
+
+HTTP/2 403 
+date: Mon, 13 Oct 2025 23:48:42 GMT
+content-type: text/html; charset=UTF-8
+content-length: 7042
+accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cf-mitigated: challenge
+critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cross-origin-embedder-policy: require-corp
+cross-origin-opener-policy: same-origin
+cross-origin-resource-policy: same-origin
+origin-agent-cluster: ?1
+permissions-policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+referrer-policy: same-origin
+server-timing: chlray;desc="98e2bab7bc75575e"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+set-cookie: __cf_bm=kQ2cYnh7IjmP89ocsGKwewa.kLpM_6_6OvOLvSkZ3o8-1760399322-1.0.1.1-RsMnfaI6.h1W4qHVI_D3asmR.GfPlJrNh_wH7Vj8kKfnpwBSxgusYv5yKAciFdLBYJ17706q_GMfOzBf_spLc0Mg488627z0qH1slvSgf4E; path=/; expires=Tue, 14-Oct-25 00:18:42 GMT; domain=.canva.com; HttpOnly; Secure; SameSite=None
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=vb7qSnlJLvglpncBcb9IjnszYpxankC86Y5Kd8M%2B4sRSTfDIeSZ%2FnmW1eIrLBl0kINljAS7Fy4Y6j3Ja8qe6ARSDfyg5%2FadhZUxgFXaLNZ21EXkGgKGk6MmA2vfCJCHNctULWNLFTWXDzZo%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+server: cloudflare
+cf-ray: 98e2bab7bc75575e-IAD
+

@@ -1,0 +1,52 @@
+HTTP/2 302 
+vary: Accept-Encoding
+location: https://api.whatsapp.com/
+reporting-endpoints: coop_report="https://www.facebook.com/browser_reporting/coop/?minimize=0", coep_report="https://www.facebook.com/browser_reporting/coep/?minimize=0", permissions_policy="https://www.facebook.com/ajax/browser_error_reports/"
+report-to: {"max_age":2592000,"endpoints":[{"url":"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0"}],"group":"coop_report","include_subdomains":true}, {"max_age":86400,"endpoints":[{"url":"https:\/\/www.facebook.com\/browser_reporting\/coep\/?minimize=0"}],"group":"coep_report"}, {"max_age":21600,"endpoints":[{"url":"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/"}],"group":"permissions_policy"}
+x-frame-options: DENY
+content-security-policy: default-src 'self' blob: *.whatsapp.net *.whatsapp.com *.fbcdn.net *.facebook.com *.facebook.net;script-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-XMd7WFJL' 'self' blob: *.fbcdn.net;style-src *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com 'self' blob: *.fbcdn.net *.facebook.net;connect-src *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net 'self' data: blob:;font-src *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net 'self' data: blob:;img-src *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net static.xx.fbcdn.net 'self' data: blob:;media-src *.fbcdn.net 'self' data: blob:;child-src 'self' data: blob:;frame-src *.facebook.com *.whatsapp.com 'self' blob: whatsapp:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src *.whatsapp.com *.whatsapp.net *.facebook.com *.facebook.net 'nonce-XMd7WFJL' 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;require-trusted-types-for 'script';
+document-policy: force-load-at-top
+document-policy: include-js-call-stacks-in-crash-reports
+permissions-policy: accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-dpr=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), ch-viewport-height=(), ch-viewport-width=(), ch-width=(), clipboard-read=(), clipboard-write=(), compute-pressure=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), interest-cohort=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), private-state-token-issuance=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), shared-storage=(), shared-storage-select-url=(), private-state-token-redemption=(), usb=(), unload=(self), window-management=(), xr-spatial-tracking=();report-to="permissions_policy"
+cross-origin-resource-policy: cross-origin
+cross-origin-embedder-policy-report-only: require-corp;report-to="coep_report"
+cross-origin-opener-policy: unsafe-none
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-content-type-options: nosniff
+x-xss-protection: 0
+origin-agent-cluster: ?1
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-type: text/html; charset="utf-8"
+x-fb-debug: 6hi+UKF0b75Wu9fwSASK2yY/JtZ1Jhfr8w3dCgybPk6JKtnIaD1FLWDIUZNAYa8m9M6ZIoLCx1eSaWGqVHaP2g==
+content-length: 0
+date: Mon, 13 Oct 2025 23:49:26 GMT
+x-fb-connection-quality: EXCELLENT; q=0.9, rtt=16, rtx=0, c=15, mss=1380, tbw=3341, tp=-1, tpl=-1, uplat=41, ullat=0
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 400 
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+content-security-policy: default-src 'self' blob:;script-src 'nonce-CinJLkOQ' *.facebook.com *.fbcdn.net *.whatsapp.com *.whatsapp.net https://*.facebook.net 'self' blob:;style-src 'self' 'unsafe-inline' https://static.whatsapp.net data: blob:;connect-src 'self' https://*.whatsapp.com data: blob:;font-src https://*.fbcdn.net https://static.whatsapp.net data:;img-src https://*.fbcdn.net https://*.whatsapp.net 'self' data: blob:;media-src 'self' data: blob:;child-src 'self' data: blob:;frame-src whatsapp: 'self' data: blob:;manifest-src 'self' data: blob:;object-src 'self' data: blob:;worker-src 'nonce-CinJLkOQ' *.facebook.com *.fbcdn.net *.whatsapp.com *.whatsapp.net https://*.facebook.net 'self' data: blob:;block-all-mixed-content;upgrade-insecure-requests;
+document-policy: include-js-call-stacks-in-crash-reports
+x-frame-options: DENY
+x-content-type-options: nosniff
+x-xss-protection: 0
+reporting-endpoints: coop_report="https://www.facebook.com/browser_reporting/coop/?minimize=0", coep_report="https://www.facebook.com/browser_reporting/coep/?minimize=0", default="https://www.whatsapp.com/whatsapp_browser_error_reports/?device_level=unknown&brsid=7560857705877023180&cpp=C3&cv=1028355510&st=1760399366271"
+report-to: {"max_age":2592000,"endpoints":[{"url":"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0"}],"group":"coop_report","include_subdomains":true}, {"max_age":86400,"endpoints":[{"url":"https:\/\/www.facebook.com\/browser_reporting\/coep\/?minimize=0"}],"group":"coep_report"}, {"max_age":259200,"endpoints":[{"url":"https:\/\/www.whatsapp.com\/whatsapp_browser_error_reports\/?device_level=unknown&brsid=7560857705877023180&cpp=C3&cv=1028355510&st=1760399366271"}]}
+cross-origin-embedder-policy-report-only: require-corp;report-to="coep_report"
+cross-origin-opener-policy: same-origin-allow-popups
+vary: Sec-Fetch-Site, Sec-Fetch-Mode
+vary: Accept-Encoding
+origin-agent-cluster: ?1
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-type: text/html; charset="utf-8"
+x-fb-debug: G0BxjXO0Bw1YG6G5q6qAWNb7aejqWB5NOIgYQ5chQ3tjiUkivnGECADJ9RZ6m63Nw/YlAJbVljxCMdVzqJnOjQ==
+content-length: 6278
+proxy-status: http_request_error; e_fb_vipaddr="AcM1EJVX6M7obO_Z4o7d233GP-X5WJteKFKc9vYKhEOoAAyo0Q3sfn1pUVGhjPlGmLQb2toDa14Ru-9S-YUBT0IT59Qup2NnFZ31eQ"; e_clientaddr="AcP6Oc7Jn2_gm_8i2gpoKjVb4_QGTXUkn9bkDqPk94_lRUHuagQMv_B0Oggjb5Cgydiq7bKV4tOfTBKQeQEjtNKr_f3tpMBXO7yScB2ElW09tvQ"; e_upip="AcPDDt1yRCmlMQaCMHf9DVhZFu1FBNtD_d-brw7APtmJEY73djpnhxBDFx7OahBCApnM4PKPvlPDzFtA8VVQZumXEnjYFVYeQbKOnSY"; e_fb_zone="AcPsHfhuSVfKnaNyiNAq9ZQHPO4chZICh6i_yslShBLg7zTxXAavfStsLnsl8DHz"; e_fb_twtaskhandle="AcN45OxFrxerbgpz7mGkSvJAHWA_yEqf5hB2eOA2VC5Dt14jMvJf2e-WkLLQZzKS9ET0rXyYqVWBSaplyoA-NJsKPApUi8WEyF1BTJ420SwBkXg"; e_proxy="AcOCrp6CQHehFpo_jJFnCPvOcXeq0PekL8tOeZKu9Pq57WXuW_fxrJ5wbBdgcAKQMPNJ4fcSseOQ_URsYHo", http_request_error; e_fb_vipaddr="AcORl4ISNGKIG8uMSgcxHdsLx7mkt0Zs3-wCdOeMlhEsmF0sRx48Cp7CsDdkk49TcN5cfLi-Lxl1BA-cEjSaHZYOSIlYakCRCaFz"; e_clientaddr="AcPS24IhkM0M5Mr0u_16gJovcoZi5rqk9RuAx5lD9MLGg82OLQ2NZwibIwfKtO33RisE9wrCVFRubdTX5WqQ14QIxxru_fZ0f5ODDs4RC8kYVqtPA38av30"; e_upip="AcNhDbgsuXneYx7vnnbJa3nUOEe9POD6h8BJL1L5UjOzYB_Mxrht_N2_4wUpUt4tmh-yQkNFm_sw06Kby2uO72KWiAHcslrmJFX4-A"; e_fb_zone="AcPQFs8E53U89gngpi2_Dn6tOFOwq-L-YkELv95FUUu9gYKJIcYNaTzv8Ii6hQ"; e_fb_twtaskhandle="AcMLoQZzrvHr4DFhjxA-rpXXMwS3P7Ws6QKdhr2_8fEQrSI-akiFdbqIcMHu9KRscIBEgK_B6SSBPPGf5W8p0m0vnebQhxonlj-1_A8"; e_proxy="AcNqIUYSC5av9s0lpnGDe7XHhDrhs1uAPekdO6nXnZ-9hZUvzu1WMyhOmIhlam14aYfJe6WUB74VDGo"
+date: Mon, 13 Oct 2025 23:49:26 GMT
+x-fb-connection-quality: EXCELLENT; q=0.9, rtt=16, rtx=0, c=15, mss=1380, tbw=3343, tp=-1, tpl=-1, uplat=34, ullat=1
+alt-svc: h3=":443"; ma=86400
+

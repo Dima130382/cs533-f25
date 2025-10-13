@@ -1,0 +1,33 @@
+HTTP/2 302 
+date: Mon, 13 Oct 2025 23:49:12 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: 98e2bb6bedbe1320-IAD
+set-cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly
+set-cookie: session=3e4992a8aadd681fec7e1fb0482a7cd4; expires=Thu, 16 Oct 2025 23:49:11 GMT; Max-Age=259200; path=/; secure; HttpOnly
+x-ua-compatible: IE=edge
+strict-transport-security: max-age=2592000
+x-frame-options: sameorigin
+x-content-type-options: nosniff
+x-sedo-request-id: ID-659d68874c-lgdh8-d3ae6b9ad6b5c71ad16dd884afe2e072
+pragma: no-cache
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+location: /us/
+cf-cache-status: DYNAMIC
+server: cloudflare
+
+HTTP/2 200 
+date: Mon, 13 Oct 2025 23:49:12 GMT
+content-type: text/html; charset=utf-8
+cf-ray: 98e2bb6ecd0e1320-IAD
+vary: Accept-Encoding
+set-cookie: campaignId=; Max-Age=86400; Path=/; Secure; HttpOnly
+content-language: en
+age: 2739
+strict-transport-security: max-age=2592000
+x-sedo-request-id: ID-659d68874c-lgdh8-619e5be50ece59c4e990535e4c9969a6
+x-content-type-options: nosniff
+x-frame-options: sameorigin
+cf-cache-status: DYNAMIC
+server: cloudflare
+

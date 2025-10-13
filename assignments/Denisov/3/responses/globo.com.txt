@@ -1,0 +1,31 @@
+HTTP/2 301 
+date: Mon, 13 Oct 2025 23:49:22 GMT
+content-type: text/html
+content-length: 178
+location: https://www.globo.com/
+cache-control: max-age=600
+x-request-id: 79fa47d4-7d10-44e0-adab-2f1dde9cd407
+x-thanos: 0AB0C024
+
+HTTP/1.1 200 OK
+Date: Mon, 13 Oct 2025 23:49:23 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2314856
+Connection: keep-alive
+cache-control: max-age=10
+show-page-version: 0
+x-request-id: b0df886a-023f-485a-bde3-a327cd99eb40
+x-mobile: desktop
+x-served-from: Router Home PROD, BS Show Services
+content-security-policy: upgrade-insecure-requests;
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+expires: Mon, 13 Oct 2025 23:49:32 GMT
+x-location-rule: location-barra
+link: <https://s2-home-globo.glbimg.com>; rel="preconnect", <https://s3.glbimg.com>; rel="preconnect"
+age: 0
+vary: X-Forwarded-Proto, User-Agent, Accept-Encoding
+x-bip: 814889414 home-kubecache-oci-prd-int-varnish-server-667964dcbd-scvm9
+via: KubeCache 2.0
+accept-ranges: bytes
+

@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 13 Oct 2025 23:49:19 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Keep-Alive: timeout=20
+Location: https://www.sendspace.com/
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 13 Oct 2025 23:49:20 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Keep-Alive: timeout=20
+Vary: Accept-Encoding
+Set-Cookie: SID=rbt77q07drkvo758bvidcvu865; path=/; domain=.sendspace.com
+Set-Cookie: ssui=30f0f0a3402c7d4dea0fbb24d681f0bf; expires=Sat, 12-Oct-2030 23:49:20 GMT; Max-Age=157680000; path=/; domain=.sendspace.com
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Expires: 0
+Pragma: no-cache
+Last-Modified: Mon, 13 Oct 2025 23:49:20 GMT
+Cache-Control: no-cache,no-store,max-age=0,s-maxage=0,must-revalidate
+

@@ -1,0 +1,17 @@
+HTTP/2 200 
+link: </redesign/_next/static/media/17eb15577b649ee3-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </redesign/_next/static/media/3483eb270027278b-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </redesign/_next/static/media/93e1ac3032d81ed9-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </redesign/_next/static/media/dd7058fb19cdfd9e-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </redesign/_next/static/media/eae88bb71c39602e-s.p.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2"
+server: Google Frontend
+cache-control: public, max-age=300, stale-while-revalidate=60, stale-if-error=86400
+x-powered-by: Next.js
+via: 1.1 google, 1.1 varnish
+content-type: text/html; charset=utf-8
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:49:22 GMT
+age: 66
+x-served-by: cache-iad-kjyo7100119-IAD, cache-iad-kcgs7200045-IAD
+x-cache: MISS, HIT
+x-cache-hits: 0, 1
+x-timer: S1760399362.052195,VS0,VE5
+vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding
+content-length: 1248460
+

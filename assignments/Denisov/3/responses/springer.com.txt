@@ -1,0 +1,51 @@
+HTTP/2 301 
+retry-after: 0
+cache-control: max-age=3600
+location: https://www.springer.com/
+server: ee-www-redirect
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:49:12 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kiad7000042-IAD
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1760399353.615878,VS0,VE0
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 303 
+age: 0
+location: https://www.springer.com/us
+server: Oscar Platform 0.1849.0
+set-cookie: springercomcountry=us; Path=/; Domain=springer.com
+x-vcap-request-id: 3fdae7d9-486c-477e-5857-92ba3695b34b
+via: 1.1 google, 1.1 varnish
+x-cdn-origin: SNPaaS
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:49:12 GMT
+x-served-by: cache-10587794-internal, cache-iad-kiad7000169-IAD
+x-cache: MISS, MISS
+x-cache-hits: 0
+x-timer: S1760399353.723337,VS0,VE107
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 200 
+accept-ranges: bytes
+age: 0
+cache-control: private,must-revalidate,max-age=0,no-store
+content-type: text/html; charset=utf-8
+server: Oscar Platform 0.1849.0
+set-cookie: springercomcountry=us; Path=/; Domain=springer.com
+strict-transport-security: max-age=31536000;preload
+x-vcap-request-id: c7813d8a-c496-4250-70f4-c6217e423f17
+via: 1.1 google, 1.1 varnish
+x-cdn-origin: SNPaaS
+date: Mon, 13 Oct 2025 23:49:13 GMT
+x-served-by: cache-047dc0ba-internal, cache-iad-kiad7000169-IAD
+x-cache: MISS, MISS
+x-cache-hits: 0
+x-timer: S1760399353.884656,VS0,VE141
+vary: Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+

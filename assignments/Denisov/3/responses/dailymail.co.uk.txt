@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.dailymail.co.uk/ushome/index.html
+Date: Mon, 13 Oct 2025 23:49:07 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+server: AkamaiGHost
+mime-version: 1.0
+content-type: text/html
+content-length: 402
+expires: Mon, 13 Oct 2025 23:49:07 GMT
+date: Mon, 13 Oct 2025 23:49:07 GMT
+content-security-policy-report-only: block-all-mixed-content; report-uri https://dmgm.report-uri.com/r/t/csp/reportOnly
+vary: User-Agent
+set-cookie: gab=5f0d31b7e5d14021a0169a1d9cbb029e; path=/; domain=.www.dailymail.co.uk; Secure
+server-timing: ak_p; desc="1760399347186_389047445_1057930281_14_8696_21_28_15";dur=1
+

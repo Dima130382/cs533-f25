@@ -1,0 +1,34 @@
+HTTP/2 301 
+content-length: 0
+location: https://www.msn.com/
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-msedge-ref: Ref A: 0EE9205C2CA84EB1B5FC808273CF9AD9 Ref B: ASHEDGE1313 Ref C: 2025-10-13T23:49:18Z
+date: Mon, 13 Oct 2025 23:49:18 GMT
+
+HTTP/2 404 
+content-length: 0
+server: Kestrel
+cache-control: no-store,no-cache
+pragma: no-cache
+x-ceto-ref: 68ed8ffec42f4d9496c586cd7e3abebd|AFD:68ed8ffec42f4d9496c586cd7e3abebd|2025-10-13T23:49:18.521Z
+date: Mon, 13 Oct 2025 23:49:18 GMT
+set-cookie: _C_ETH=1; domain=.msn.com; path=/; secure; httponly
+set-cookie: _C_Auth=
+set-cookie: sptmarket=en-us||us|en-us|en-us|en||reason=RevIP:us|cf=8|RefA=68ed8ffec42f4d9496c586cd7e3abebd.RefC=2025-10-13T23:49:18Z; expires=Wed, 13 Oct 2027 23:49:18 GMT; path=/
+set-cookie: MUID=0A0C3DF6A12767333FDF2B72A0D7660C; expires=Sat, 07 Nov 2026 23:49:18 GMT; domain=.msn.com; path=/; secure; samesite=none
+set-cookie: MUIDB=0A0C3DF6A12767333FDF2B72A0D7660C; expires=Sat, 07 Nov 2026 23:49:18 GMT; path=/; httponly
+set-cookie: _EDGE_S=F=1&SID=3786B00A973E6C213AAAA68E96CE6DBF; domain=.msn.com; path=/; httponly
+set-cookie: _EDGE_V=1; expires=Sat, 07 Nov 2026 23:49:18 GMT; domain=.msn.com; path=/; httponly
+alt-svc: h3=":443"; ma=93600
+akamai-request-bc: [a=23.48.200.176,b=319764100,c=g,n=US_VA_ASHBURN,o=20940],[c=c,n=US_VA_CHANTILLY,o=20940],[a=202,c=o]
+x-msedge-ref: 130f3684 | 68ed8ffec42f4d9496c586cd7e3abebd|AFD:68ed8ffec42f4d9496c586cd7e3abebd|2025-10-13T23:49:18.521Z | 2025-10-13T23:49:18
+x-cdn-ref: 130f3684 | 68ed8ffec42f4d9496c586cd7e3abebd|AFD:68ed8ffec42f4d9496c586cd7e3abebd|2025-10-13T23:49:18.521Z | 2025-10-13T23:49:18
+server-timing: clientrtt; dur=16, clienttt; dur=13, origin; dur=9, cdntime; dur=4, wpo;dur=0,1s;dur=0
+akamai-cache-status: NotCacheable from child
+akamai-server-ip: 23.48.200.176
+akamai-request-id: 130f3684
+timing-allow-origin: *
+akamai-grn: 0.b0c83017.1760399358.130f3684
+vary: Origin
+

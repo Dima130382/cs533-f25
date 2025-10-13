@@ -1,0 +1,73 @@
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+location: https://www.huffingtonpost.com/
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:48:48 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kiad7000066-IAD
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1760399329.836841,VS0,VE0
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+referrer-policy: no-referrer-when-downgrade
+x-xss-protection: 1; mode=block
+cache-control: max-age=3600
+content-length: 0
+
+HTTP/2 301 
+content-type: text/plain; charset=utf-8
+document-policy: js-profiling
+location: https://www.huffpost.com/
+server: nginx
+x-hp-webp: false
+x-powered-by: Express
+x-request-id: a10b5809bbd8d49ccd071b8c1396056d
+accept-ranges: bytes
+age: 509
+date: Mon, 13 Oct 2025 23:48:48 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kiad7000068-IAD
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1760399329.950892,VS0,VE8
+vary: Accept, Accept-Encoding, X-BF-Canary, X-BF-Canary-Site-Router, X-BF-Canary-Perimeter
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+referrer-policy: no-referrer-when-downgrade
+x-xss-protection: 1; mode=block
+cache-control: max-age=3600
+content-length: 59
+
+HTTP/2 200 
+expires: 0
+x-hp-webp: false
+content-type: text/html; charset=utf-8
+x-varnish-cambria-ttl: 5s
+server: nginx
+document-policy: js-profiling
+x-powered-by: Express
+x-request-id: de0d07cef4de7c00c105816b34d1490c
+x-hp-page-version: 316878
+cache-control: no-store, no-cache, must-revalidate
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:48:49 GMT
+via: 1.1 varnish
+age: 302
+content-security-policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation; frame-ancestors 'self' *.huffpost.com *.huffingtonpost.com *.huffpost.net *.buzzfeed.com clients.opinary.com compass.pressekompass.net *.newsbreak.com *.newsbreakapp.com *.upday-content.com *.upday.com *.samsung-news.com; report-uri https://huffpost.report-uri.com/r/d/csp/enforce;
+set-cookie: bf-geo-country=US; expires=Tue, 14 Oct 2025 23:48:49 GMT; path=/; domain=www.huffpost.com;
+set-cookie: bf-geo-region=VA; expires=Tue, 14 Oct 2025 23:48:49 GMT; path=/;  domain=www.huffpost.com;
+set-cookie: ccpa=true; expires=Mon, 27 Oct 2025 23:48:49 GMT; path=/; domain=www.huffpost.com;
+timing-allow-origin: *
+x-served-by: cache-iad-kiad7000140-IAD, cache-iad-kcgs7200049-IAD
+x-cache: MISS, HIT
+x-cache-hits: 0, 1
+x-timer: S1760399329.052768,VS0,VE9
+vary: Accept-Encoding
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+referrer-policy: no-referrer-when-downgrade
+x-xss-protection: 1; mode=block
+content-length: 1415711
+

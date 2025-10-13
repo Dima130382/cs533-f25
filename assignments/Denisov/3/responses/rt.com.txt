@@ -1,0 +1,26 @@
+HTTP/2 301 
+server: ddos-guard
+set-cookie: __ddg8_=x4H5akcg9Lsp50vf; Domain=.rt.com; Path=/; Expires=Tue, 14-Oct-2025 00:09:13 GMT
+set-cookie: __ddg10_=1760399353; Domain=.rt.com; Path=/; Expires=Tue, 14-Oct-2025 00:09:13 GMT
+set-cookie: __ddg9_=96.249.234.57; Domain=.rt.com; Path=/; Expires=Tue, 14-Oct-2025 00:09:13 GMT
+content-security-policy: upgrade-insecure-requests;
+set-cookie: __ddg1_=Xa67A0pHJHZbT3WRxAjM; Domain=.rt.com; HttpOnly; Path=/; Expires=Tue, 13-Oct-2026 23:49:13 GMT
+date: Mon, 13 Oct 2025 23:49:13 GMT
+content-type: text/html
+location: https://www.rt.com/
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-security-policy: upgrade-insecure-requests
+
+HTTP/2 200 
+server: nginx
+date: Mon, 13 Oct 2025 23:49:14 GMT
+content-type: text/html; charset=UTF-8
+x-4fna: 7brfna
+x-4vcta: H2845R
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-security-policy: upgrade-insecure-requests
+

@@ -1,0 +1,33 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Mon, 13 Oct 2025 23:48:42 GMT
+Content-Type: text/html
+Content-Length: 138
+Connection: keep-alive
+Location: https://www.3ds.com/products/netvibes
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+HTTP/2 200 
+server: nginx
+content-type: text/html;charset=utf-8
+last-modified: Mon, 13 Oct 2025 23:48:14 GMT
+etag: W/"WR2WmV7RkR"
+x-powered-by: Nuxt
+via: 1.0 frontoffice-prd.itvpc.3ds.com, 1.1 varnish
+strict-transport-security: max-age=63072000
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors https://r1132100004725-eu1-ifwe.3dexperience.3ds.com https://r1132100257819-eu1-ifwe.3dexperience.3ds.com https://dsext001-eu1-215dsi0708-ifwe.3dexperience.3ds.com https://r1132100381839-eu1-academia-ifwe.3dexperience.3ds.com https://dspart004-eu1-partners-ifwe.3dexperience.3ds.com https://dspart011-eu1-partners-ifwe.3dexperience.3ds.com https://my.3dexperience.3ds.com; base-uri 'self'
+permissions-policy: accelerometer=(), geolocation=(self), fullscreen=(self "https://www.youtube.com" "https://player.youku.com" "https://*.3ds.com" "https://*.solidworks.com" "https://*.draftsight.com" "https://delmiaworks.com" "https://blog.3dexperienceworks.com" "https://edrawingsviewer.com" "https://3dexperienceworld.com" "https://3dexperienceworks.com"), ambient-light-sensor=(), autoplay=(self), battery=(), camera=(self), display-capture=(), encrypted-media=(), gyroscope=(), layout-animations=(), legacy-image-formats=(), magnetometer=(), microphone=(self), midi=(), oversized-images=(), payment=(self), picture-in-picture=(self), publickey-credentials-get=(), sync-xhr=(), usb=(), wake-lock=(), xr-spatial-tracking=(), notifications=(self), speaker=(self), vibrate=(), push=(self), interest-cohort=()
+referrer-policy: strict-origin-when-cross-origin
+x-cdn: Imperva
+x-iinfo: 12-23220002-23220005 NNNN CT(91 100 0) RT(1760399322278 1) q(0 1 2 2) r(3 3) U24
+cache-control: no-cache, must-revalidate, no-store
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:48:42 GMT
+x-served-by: cache-iad-kiad7000084-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1760399322.275844,VS0,VE299
+x-cdn-forward: fastly
+

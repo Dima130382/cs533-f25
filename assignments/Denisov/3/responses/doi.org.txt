@@ -1,0 +1,32 @@
+HTTP/2 301 
+date: Mon, 13 Oct 2025 23:48:37 GMT
+content-length: 0
+location: https://www.doi.org/
+server: cloudflare
+vary: Origin
+permissions-policy: interest-cohort=(),browsing-topics=()
+age: 5636
+cache-control: max-age=14400
+cf-cache-status: HIT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xVEAchRVcIEKqfXOr3qi%2BkKvmgRFVeUzeszLhPR4a6jshiCzVb0laNyo9KZuBxmO%2BHCtOl%2BAAJo1VwBy6IRaVoRvEqPfFe3os3U%2BizCVYLGwRw%3D%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: 98e2ba947d85e5cb-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+content-type: text/html
+content-length: 7326
+date: Mon, 13 Oct 2025 23:48:38 GMT
+last-modified: Tue, 07 Oct 2025 08:13:32 GMT
+etag: "c7778869a69b394759704b939eb64cd2"
+x-amz-server-side-encryption: AES256
+x-amz-meta-md5chksum: c7778869a69b394759704b939eb64cd2
+content-encoding: gzip
+accept-ranges: bytes
+server: AmazonS3
+x-cache: Miss from cloudfront
+via: 1.1 93505d0837f90597221fbc26d33143de.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD55-P10
+x-amz-cf-id: jI4a0uJOJVQsGSy12yTdvD3vaaET8w004lapsm9DFU4-mdBjDmgCag==
+

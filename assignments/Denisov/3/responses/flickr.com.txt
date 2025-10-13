@@ -1,0 +1,17 @@
+HTTP/2 200 
+content-type: text/html
+content-length: 46611
+date: Mon, 13 Oct 2025 23:49:33 GMT
+pragma: no-cache
+last-modified: Mon, 13 Oct 2025 18:41:16 GMT
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: same-origin
+cross-origin-opener-policy: same-origin-allow-popups
+cache-control: no-cache, max-age=0, must-revalidate, no-store
+x-cache: Miss from cloudfront
+via: 1.1 f5527f719bbc0d2932043daaeff80252.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK50-P5
+x-amz-cf-id: x1erN7qJuwChn3EZirD8BsW1uGHXQw_zF6Znkd70xSNybd4WtoaS4w==
+

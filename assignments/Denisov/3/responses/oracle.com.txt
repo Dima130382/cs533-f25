@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 13 Oct 2025 23:48:56 GMT
+Content-Type: text/html
+Content-Length: 175
+Connection: keep-alive
+Location: https://www.oracle.com/
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000; includeSubDomains
+last-modified: Mon, 13 Oct 2025 15:50:15 GMT
+x-oracle-dms-ecid: 006GGktR5hsFw0KimTWvkJ001VOx001aja
+custom_cache_rule_location: Default
+x-oracle-dms-rid: 0:1
+device_type: Any
+x-content-type-options: nosniff
+host_service: FutureTenseContentServer:12c
+custom_akamai_autopurge: NO
+content-language: en-US
+content-length: 55441
+mpulse_cdn_cache: HIT
+mpulse_origin_time: 0
+cache-control: max-age=1800
+expires: Tue, 14 Oct 2025 00:18:56 GMT
+date: Mon, 13 Oct 2025 23:48:56 GMT
+akamai-request-bc: [a=23.62.155.208,b=931960337,c=g,n=US_VA_ASHBURN,o=20940]
+akamai-grn: 0.d09b3e17.1760399336.378c9611
+set-cookie: akaas_aud-seg-ocom-prod=2147483647~rv=57~id=eeec7e66bfb69970680f3fd70c945272; path=/; Secure; SameSite=None
+x-frame-options: sameorigin
+content-security-policy: frame-ancestors 'self' https://my.oracle.com https://eeho.fa.us2.oraclecloud.com https://blogs.oracle.com *.khapps.com *.khapps.jp *.lsapps.oracle.com *.lsapps.oracle.jp *.dev-lsapps.oracle.com https://oraclesso.sharepoint.com https://oracle.sharepoint.com https://partners.oracle.com https://partners-stage.oracle.com https://partners-test.oracle.com https://partners-sit.oracle.com https://partners-dev.oracle.com
+x-content-type-options: nosniff
+x-xss-protection: 1
+origin-cache-control: NO_HEADER_PRESENTED
+origin-edge-control: NO_HEADER_PRESENTED
+actual-object-ttl: 432000
+server-timing: ak_p; desc="1760399336539_389979088_931960337_77_18173_16_29_15";dur=1
+

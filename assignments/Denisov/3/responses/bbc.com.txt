@@ -1,0 +1,57 @@
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:49:15 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kcgs7200081-IAD
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1760399356.688226,VS0,VE0
+location: https://www.bbc.com/
+nel: {'report_to':'default','max_age': 2592000,'include_subdomains':true,'failure_fraction':0.05}
+report-to: {'group':'default','max_age':2592000,'endpoints':[ {'url':'https://default.bbc-reporting-api.app/report-endpoint','priority':1} ],'include_subdomains':true}
+req-svc-chain: FASTLY
+strict-transport-security: max-age=31536000; preload
+cache-control: public,max-age=604800,stale-while-revalidate=3600,stale-if-error=3600
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+belfrage-cache-status: HIT
+bid: sally
+brequestid: 486844d97223428b9e9fcf323b88966d
+bsig: dd6c607f7f127572020f1095728d0b29
+cache-control: public, stale-if-error=90, stale-while-revalidate=30, max-age=30
+etag: "r2ok4t249qbdtg"
+referrer-policy: no-referrer-when-downgrade
+req-svc-chain: FASTLY,GTM,BELFRAGE,BBCX
+via: 1.1 BBC-GTM, 1.1 Belfrage, 1.1 varnish
+x-content-type-options: nosniff
+x-correlation-id: 3a054d57-fd6c-4dd1-8713-4d1a97f3a44c
+x-envoy-upstream-service-time: 268
+x-frame-options: SAMEORIGIN
+origin-agent-cluster: ?0
+nel: {"report_to":"default","max_age":2592000,"include_subdomains":true,"failure_fraction":0.25}
+x-bbc-edge-cache-status: STALE
+report-to: {"group":"default","max_age":2592000,"endpoints":[{"url":"https://default.bbc-reporting-api.app/report-endpoint","priority":1}],"include_subdomains":true}
+server: BBC-GTM
+strict-transport-security: max-age=31536000; preload
+x-robots-tag: bingbot: noarchive
+fastly-restarts: 1
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:49:15 GMT
+x-fastly-cache-status: HIT-CLUSTER
+x-served-by: cache-iad-kiad7000027-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1760399356.922918,VS0,VE43
+x-fastly-pre-flight-cache: MISS, MISS
+x-fastly-pre-flight-cache-status: MISS-CLUSTER
+x-cache-age: 29
+x-lb-nocache: true
+vary: X-BBC-Edge-Scheme,Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 531522
+

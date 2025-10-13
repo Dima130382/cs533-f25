@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx/1.24.0 (Ubuntu)
+Date: Mon, 13 Oct 2025 23:48:40 GMT
+Content-Type: text/html
+Content-Length: 5114
+Last-Modified: Fri, 01 Aug 2025 20:33:38 GMT
+Connection: keep-alive
+ETag: "688d24a2-13fa"
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Accept-Ranges: bytes
+

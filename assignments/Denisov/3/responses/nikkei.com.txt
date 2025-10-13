@@ -1,0 +1,27 @@
+HTTP/2 302 
+server: awselb/2.0
+date: Mon, 13 Oct 2025 23:48:35 GMT
+content-type: text/html
+content-length: 110
+location: https://www.nikkei.com:443/
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+nikkei-app-version: 0-1-1054
+cache-control: no-cache
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:48:37 GMT
+set-cookie: RNikkeiAuth=deleted; expires=Thu, 01 Jan 1970 00:00:00 GMT
+set-cookie: RNikkeiUserInfo=deleted; expires=Thu, 01 Jan 1970 00:00:00 GMT
+set-cookie: RNikkeiAuth=deleted; domain=nikkei.com; expires=Thu, 01 Jan 1970 00:00:00 GMT
+set-cookie: RNikkeiUserInfo=deleted; domain=nikkei.com; expires=Thu, 01 Jan 1970 00:00:00 GMT
+content-security-policy: frame-ancestors 'self'
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: ch-ua-platform-version=(self "https://*.nikkei.com"), ch-ua-model=(self "https://*.nikkei.com"), ch-ua-full-version-list=(self "https://*.nikkei.com"), ch-ua-arch=(self "https://*.nikkei.com"), join-ad-interest-group=("https://td.doubleclick.net")
+strict-transport-security: max-age=63072000
+accept-ch: Sec-CH-UA-Platform-Version,Sec-CH-UA-Model,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Arch
+x-content-type-options: nosniff
+vary: Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 641084
+

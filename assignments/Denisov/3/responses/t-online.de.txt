@@ -1,0 +1,31 @@
+HTTP/2 301 
+content-length: 0
+location: https://www.t-online.de/
+x-request-id: 0199dffa-49d9-7eff-b6f8-09a8341d0d56
+cache-control: public,max-age=300
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 1296148
+date: Mon, 13 Oct 2025 23:48:15 GMT
+x-envoy-upstream-service-time: 0
+cache-control: max-age=90, stale-while-revalidate=30, stale-if-error=86400
+etag: W/"vetagfc2cde4b4c818d12808af3ed418f67ecd567df5d860bd239154bae272a8b9f02"
+accept-ranges: bytes
+server: envoy
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 5c2a8f663f6fd9a0cb8424c72fd50e58.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK52-P9
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: HHhpd11LPv6LNm8u0_e3Rl6ltymCnoYqFa-noC2m_mJ-hD_TCxM34g==
+age: 57
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: frame-ancestors 'self' https://*.t-online.de;
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Origin
+server-timing: cdn-cache-hit,cdn-pop;desc="JFK52-P9",cdn-rid;desc="HHhpd11LPv6LNm8u0_e3Rl6ltymCnoYqFa-noC2m_mJ-hD_TCxM34g==",cdn-hit-layer;desc="Origin Shield",cdn-downstream-fbl;dur=139
+
