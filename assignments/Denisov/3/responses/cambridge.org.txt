@@ -1,0 +1,22 @@
+HTTP/2 301 
+date: Mon, 13 Oct 2025 23:49:28 GMT
+content-type: text/html
+content-length: 167
+location: https://www.cambridge.org
+cache-control: max-age=3600
+expires: Tue, 14 Oct 2025 00:49:28 GMT
+set-cookie: __cf_bm=l.uwVze31t4QmjZW8duW7H5J0S0LGnfF9twC6RQHRiA-1760399368-1.0.1.1-K.1E2Ma9U.a9BfKOTfZaA0e0nmB5cRuIPDiwSV2V2W6w6_fKzm.fP352wQS9S9MF..Nhg28gqj3vqJNomWnVh1wiEnVFlJYnJBnp32xqNOA; path=/; expires=Tue, 14-Oct-25 00:19:28 GMT; domain=.cambridge.org; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 98e2bbd7590bd6a4-IAD
+
+HTTP/2 403 
+date: Mon, 13 Oct 2025 23:49:29 GMT
+content-type: text/html; charset=UTF-8
+x-frame-options: SAMEORIGIN
+referrer-policy: same-origin
+cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+set-cookie: __cf_bm=4Ra193YFAYrsOGPqmzHi0UKPm7bNkFxuucd2sJOtdDk-1760399369-1.0.1.1-davPLcz7S1TjR5vKh88zWiWwm1IzQs845iu0Bf2MPG02b4umvlpFILqudlUr9DKkEb.R8f_8KsdDFfgGUr3KjRFJVaE0RCrEqa9rDNatzms; path=/; expires=Tue, 14-Oct-25 00:19:29 GMT; domain=.cambridge.org; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 98e2bbd84dec8651-IAD
+

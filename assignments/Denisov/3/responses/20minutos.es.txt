@@ -1,0 +1,24 @@
+HTTP/2 301 
+content-length: 0
+location: https://www.20minutos.es/
+date: Mon, 13 Oct 2025 23:49:15 GMT
+x-cache: Miss from cloudfront
+via: 1.1 0afec277ba3e75e96fa6b4c76d8e130c.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK50-P4
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: _s5nC3sOC5EIvg8nr_ORi0VvHTWiTNIqf2kcgqa1RokajJ6ZB-Bz2g==
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+date: Mon, 13 Oct 2025 23:49:15 GMT
+accept-ranges: bytes
+x-frame-options: sameorigin
+referrer-policy: strict-origin-when-cross-origin
+cache-control: max-age=120, public
+vary: Accept-Encoding
+x-cache: Miss from cloudfront
+via: 1.1 157ebd6865840045fc8b5ed1cce7e466.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD89-C3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: VNXDGY9XCVkEzcH7grGySogFd6xpOgHZ1VZwaayVL3dImpQNdX9qhQ==
+

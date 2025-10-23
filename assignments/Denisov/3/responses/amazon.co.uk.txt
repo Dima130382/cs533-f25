@@ -1,0 +1,20 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Mon, 13 Oct 2025 23:48:40 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.amazon.co.uk/
+
+HTTP/2 200 
+content-type: text/html
+date: Mon, 13 Oct 2025 23:48:40 GMT
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+server: Server
+x-amz-rid: BMYH4V626XQKK92T29D2
+vary: Content-Type,Accept-Encoding,User-Agent
+x-cache: Miss from cloudfront
+via: 1.1 81d2bbed6d967470f490f7ed09936a1c.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD61-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: YbZf4HzIJGhWSdWw0BGx9LpYdjjx3ERCuhtEIAUAz4OPeFdiXIHptQ==
+

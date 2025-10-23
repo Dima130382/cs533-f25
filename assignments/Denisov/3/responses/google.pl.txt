@@ -1,0 +1,45 @@
+HTTP/2 301 
+location: https://www.google.pl/
+content-type: text/html; charset=UTF-8
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-qKowAF7vACqfOgskJ2MeKg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}
+permissions-policy: unload=()
+date: Mon, 13 Oct 2025 23:48:51 GMT
+expires: Wed, 12 Nov 2025 23:48:51 GMT
+cache-control: public, max-age=2592000
+server: gws
+content-length: 219
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-owlO_sWaIpFtXtGX5HE1NA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}
+accept-ch: Sec-CH-Prefers-Color-Scheme
+accept-ch: Downlink
+accept-ch: RTT
+accept-ch: Sec-CH-UA-Form-Factors
+accept-ch: Sec-CH-UA-Platform
+accept-ch: Sec-CH-UA-Platform-Version
+accept-ch: Sec-CH-UA-Full-Version
+accept-ch: Sec-CH-UA-Arch
+accept-ch: Sec-CH-UA-Model
+accept-ch: Sec-CH-UA-Bitness
+accept-ch: Sec-CH-UA-Full-Version-List
+accept-ch: Sec-CH-UA-WoW64
+permissions-policy: unload=()
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+date: Mon, 13 Oct 2025 23:48:51 GMT
+server: gws
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+expires: Mon, 13 Oct 2025 23:48:51 GMT
+cache-control: private
+set-cookie: AEC=AaJma5ugppJEEr_WgUcljwR_SVAZ8lQLJklk8fQU_87q7X43W1J9bkUX5Q; expires=Sat, 11-Apr-2026 23:48:51 GMT; path=/; domain=.google.pl; Secure; HttpOnly; SameSite=lax
+set-cookie: NID=525=bilcr6bu5By2-b1HdcEb5DF2oXkJcYSeMbIPgAEvSTw7zfF7jRPDOT4hQJZelZSp_c5nv92JVSaVy8GwqJC3x4tikDr-YHHlrOJioHyLz3w3JwmIIqXKVfo1TU5S1l0dAKI-frT4AOd2Vp7hB53hzM5z4ym_cfn7MqjA4gPhyyiY80f6RY6pt-N37iGvzY-u4imONdWcHXInml5TVkmW; expires=Tue, 14-Apr-2026 23:48:51 GMT; path=/; domain=.google.pl; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

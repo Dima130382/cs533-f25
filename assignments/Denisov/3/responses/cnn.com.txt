@@ -1,0 +1,45 @@
+HTTP/2 301 
+retry-after: 0
+cache-control: max-age=300, public
+location: https://www.cnn.com/
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:48:41 GMT
+via: 1.1 varnish
+set-cookie: countryCode=US; Domain=cnn.com; Path=/; SameSite=None; Secure
+set-cookie: stateCode=VA; Domain=cnn.com; Path=/; SameSite=None; Secure
+set-cookie: geoData=virginia beach|VA|23455|US|NA|-400|broadband|36.890|-76.140|544; Domain=cnn.com; Path=/; SameSite=None; Secure
+x-served-by: cache-iad-kiad7000054-IAD
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1760399322.558107,VS0,VE6
+vary: Origin
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 0
+
+HTTP/2 200 
+x-content-hub: build-env=prod; unique-deployment-key=rn09246z; build-version=v6.9.28-0-gf579c32272; build-commit-hash=f579c32272a2a3e2e24f4d8f6060303c17f1c502
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-type: text/html; charset=utf-8
+cache-control: max-age=60
+access-control-allow-origin: *
+content-security-policy: default-src 'self' blob: https://*.cnn.com:* http://*.cnn.com:* *.cnn.io:* *.cnn.net:* *.turner.com:* *.turner.io:* *.ugdturner.com:* courageousstudio.com *.vgtf.net:*; script-src 'unsafe-eval' 'unsafe-inline' 'self' *; style-src 'unsafe-inline' 'self' blob: *; child-src 'self' blob: *; frame-src 'self' *; object-src 'self' *; img-src 'self' data: blob: *; media-src 'self' data: blob: *; font-src 'self' data: *; connect-src 'self' data: *; frame-ancestors 'self' https://*.cnn.com:* http://*.cnn.com https://*.cnn.io:* http://*.cnn.io:* *.turner.com:* courageousstudio.com;
+x-last-modified: Mon, 13 Oct 2025 23:38:52 GMT
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:48:41 GMT
+via: 1.1 varnish
+age: 566
+set-cookie: SecGpc=0; Domain=.cnn.com; Path=/; SameSite=None; Secure
+set-cookie: countryCode=US; Domain=.cnn.com; Path=/; SameSite=None; Secure
+set-cookie: stateCode=VA; Domain=.cnn.com; Path=/; SameSite=None; Secure
+set-cookie: geoData=virginia beach|VA|23455|US|NA|-400|broadband|36.890|-76.140|544; Domain=.cnn.com; Path=/; SameSite=None; Secure
+set-cookie: FastAB=0=322,1=107,2=257,3=495,4=329,5=310,6=285,7=434,8=882,9=778,10=821,11=682,12=434,13=443,14=114,15=400,16=575,17=122,18=582,19=277; Domain=.cnn.com; Path=/; Expires=Tue, 13 Oct 2026 23:48:41 GMT; HttpOnly; SameSite=None; Secure
+set-cookie: wbdFch=436b2cb4d08c901b55f8942d948376156669a5da; Domain=www.cnn.com; Path=/; Max-Age=30; SameSite=None; Secure
+x-served-by: cache-iad-kcgs7200113-IAD, cache-iad-kiad7000132-IAD
+x-cache: MISS, HIT
+x-cache-hits: 0, 76
+x-timer: S1760399322.653958,VS0,VE6
+vary: Accept-Encoding,Origin,Accept-Language
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 5160069
+

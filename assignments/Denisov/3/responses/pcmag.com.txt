@@ -1,0 +1,26 @@
+HTTP/2 301 
+date: Mon, 13 Oct 2025 23:49:34 GMT
+content-type: text/html
+content-length: 167
+location: https://www.pcmag.com/
+cache-control: max-age=3600
+expires: Tue, 14 Oct 2025 00:49:34 GMT
+referrer-policy: no-referrer-when-downgrade
+server: cloudflare
+cf-ray: 98e2bbf82a4cc92a-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Mon, 13 Oct 2025 23:49:34 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: 98e2bbf8db391dd5-IAD
+cache-control: public, max-age=1800
+strict-transport-security: max-age=31536000; includeSubDomains
+cf-cache-status: HIT
+age: 1159
+last-modified: Mon, 13 Oct 2025 23:30:15 GMT
+expires: Tue, 14 Oct 2025 00:19:34 GMT
+referrer-policy: no-referrer-when-downgrade
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

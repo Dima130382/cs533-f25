@@ -1,0 +1,32 @@
+HTTP/2 301 
+server: nginx
+date: Mon, 13 Oct 2025 23:49:16 GMT
+content-type: text/html; charset=UTF-8
+location: https://www.thesun.co.uk/
+x-hacker: If you're reading this, you should visit https://join.a8c.com/viphacker and apply to join the fun, mention this header.
+x-powered-by: WordPress VIP <https://wpvip.com>
+host-header: a9130478a60e5f9135f765b23f26593b
+x-redirect-by: WordPress
+x-rq: dca6 0 40 9980
+x-cache: HIT
+strict-transport-security: max-age=31536000
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 771537
+date: Mon, 13 Oct 2025 23:49:17 GMT
+server: nginx/1.25.3
+x-generated-by: @newsint/nu-sun-helios 1.1516.0
+cache-control: max-age=30, s-maxage=30, stale-if-error=600, public
+x-rendered-from: pagebuilder
+etag: W/"bc5d1-ptfmyM/jpExAJ0DagQgAQS0RBAw"
+set-cookie: nuk_customer_country_code=US; Path=/; Secure; SameSite=None
+set-cookie: _ngn_pb_p=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..JGqbfYLeM_9BvVtC.0pFbjvU8ApHBHPKMtEhzHZcXR2lzdyCB05tLzyPmHAniDbyMlOGDLN6CQ68rxgsmLVQ-NNb7maIX_YMMHv4l_vhKsAh5l8VaKfsNwCKO5L1G3qqzERs3D-9MQrP4X1p6DkRA8vOSEPg2xbtaSv-N_28hPH8UHWtk_1_4yh3AO0pHxp_JDckK5T--a0j5S4Qhmr2KaG6JXpomlcKEn19e3U6GXu8d5lwWRWYfbH-Y5Fp3QHaAzHOm1GfJbpRFUAvfMfhl5fZUKdx7RHLdkUuWOaxoTZWfM0YvxQzS_nA9Bneq.apOerK3v2UZ_uo6qxm3JFw; Max-Age=86400; Path=/
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+vary: Accept-Encoding
+via: 1.1 a5acaf2dfa8333861f68733a0be7ead0.cloudfront.net (CloudFront)
+alt-svc: h3=":443"; ma=86400
+x-cache: Miss from cloudfront
+x-amz-cf-pop: IAD89-P3
+x-amz-cf-id: PMtTHfCZGsZAKpUxSNZyq27Mypb4Ofm4fek7dz5yx4RvmaRhRw_E0A==
+

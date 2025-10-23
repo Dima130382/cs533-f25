@@ -1,0 +1,6 @@
+HTTP/2 405 
+content-type: text/html
+date: Mon, 13 Oct 2025 23:49:30 GMT
+server: Parking/1.0
+content-length: 556
+

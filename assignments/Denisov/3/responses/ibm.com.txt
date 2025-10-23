@@ -1,0 +1,35 @@
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.ibm.com/
+cache-control: max-age=0
+expires: Mon, 13 Oct 2025 23:49:21 GMT
+date: Mon, 13 Oct 2025 23:49:21 GMT
+strict-transport-security: max-age=3600
+
+HTTP/2 303 
+server: AkamaiGHost
+content-length: 0
+location: https://www.ibm.com/us-en
+date: Mon, 13 Oct 2025 23:49:21 GMT
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+content-security-policy: upgrade-insecure-requests
+strict-transport-security: max-age=31536000
+set-cookie: _abck=8A26BE3BFB87B36874D57CA526C18097~-1~YAAQyZs+FxAD5aGZAQAASIb63w7mBXXgS+DnZ8hv651ep/wRKLfkUCawInZc4mp1GPivv9X2ivFCjmwCh80+zKX1LDp2Pl33gAsgzDzWQsqhfwI82pdXEr0bemklAjlexyXlFjQzgZHW6A29BsBH5rtOdGMR7P8smh53LjPNQFuGlmNiB9U0C4kgTGrVqLQYszuMTaP6jUlQo/Y3ZBed9L9ePQfKnNlXDTxPqaJlLKrOU6eccusvZJBXXDnKwi41VGNQ/yIGxMY9KQ5EDWbS2Ani9fl9n8CXmf5d+05PFgdlYsdlfmerlsh6V7feokwyEvPS692rMLDRQsuARju4qTNMFi6RXRdOWutxWMBr8nK81u5hk5p4cpMpX8gumSatuKOnDbzK+aqev954iY60Stu6IM4J0P9nHbxesJg+yGwmAAjLk/t+so6BYuMatofywm0=~-1~-1~-1~-1~-1; Domain=.ibm.com; Path=/; Expires=Tue, 13 Oct 2026 23:49:21 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=7849EE5989D595761DEAA4527E3E63D5~YAAQyZs+FxED5aGZAQAASIb63x0pGjHs8UqYW70cjWfDLTD68cvv3JQ6DDyzSJMytGhoA+lxOP3rRWDtAmolhAIKa3YpSsfo0h07TWfM2ft8l8eWrb6uwO6ghIuQdkTjsMgYQhLYlmojAHeY2sMy8D/Ho8Ll85SCN5yKiLZuNAtCZI3Ys2lu5l5G/tAKZoJYEA4p7X6fUqgFVePBn2F5yinVx23c2c00YD3YUOEGyc/i2pz4r/Kx/Brm62BV8OcqbHgJHWucBDwW44mlcd4o5QhLbG71zDElq6iuBkxD038Bp0S6d5gJ/XZNCLc4g8zXAlWg4LJdNz/a6U71VXi/6asnDj7lRzH/c9WVXHuFfW+ZgH6GMECZqoFtU6vO32/pQWdBkLJRgP64R5/X~4471089~3225924; Domain=.ibm.com; Path=/; Expires=Tue, 14 Oct 2025 03:49:21 GMT; Max-Age=14400
+
+HTTP/2 200 
+content-security-policy: upgrade-insecure-requests
+x-frame-options: SAMEORIGIN
+last-modified: Mon, 13 Oct 2025 23:05:25 GMT
+etag: "2e4aa-641124d7caa2b-gzip"
+content-type: text/html;charset=utf-8
+x-content-type-options: nosniff
+cache-control: max-age=600
+expires: Mon, 13 Oct 2025 23:59:21 GMT
+date: Mon, 13 Oct 2025 23:49:21 GMT
+strict-transport-security: max-age=31536000
+set-cookie: _abck=FEA9D3CCF7F99D034B144512B5FB4943~-1~YAAQyZs+FxMD5aGZAQAAiYf63w6QjtMRB4gCY16EJB0Jio3uOG1HmhsfMbxjzUI75pfRTv9Xo5bw7ZZq82lIfFhWR4o08aLy7B4n8cOlW7y0UmFr7o8Jycs8xlePTntxeL0G6xAusnko0zPRhtC8SQuMexWuDW9vOSmV/kh5qjbm5FzVOUtDbuHW9FaBU8xMHUx9JJDTW9cp7m98RHcXvbACrP+dSfvp3y8nDNkrR8BIwylLjP/45ts2fezYbYjZGz5eg1dRXNiCslxwlarDklg2uKmBtRVNlibDyWDr6xFQc3dVRiG0D9/9wG/EPPMTRFqg4ioZBvnhaEgGPSNdIamnec4ayeBHY3vzApxyBHS56tgdWjlYF4Ex63U9GNQTjY9zYJCDggvxcovbU349PLOFruYQ07TfX6wobUvWFomN1KnzqLbo0T5fa53R9mc9YMk=~-1~-1~-1~-1~-1; Domain=.ibm.com; Path=/; Expires=Tue, 13 Oct 2026 23:49:21 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=841FA11D07E097EA94F42BC4D37CF4E5~YAAQyZs+FxQD5aGZAQAAiYf63x0+QTumlT0ESe4AgMhOozWflGo0LwJCOpdvfMGVmSKeFks5I1vPhyZp/okt7tB0Wqt1AVxlEf78YzJGDGlpfnSSynLqMVQLavxPKxtds5ghDYoYivIRayrdaIWS82biDNiJlZkmnBKCTk2YVRS84UemD12Zigx/0n16nLwTc7RiLr8PxAsKa6lDE+af6bRd2msN8mDVf+uEE6zRbuB/YSh/AAXuw3R0tc5HHgLqBYIDE5onxVKI+F8rU6E5Htd8NFqOmcYuGJTLEe0h5YBWxWj5p4WyH0d9s7E0g5rw8GvYgh2c8vFyO8UuU1M9p4g8WheGjKBg/EuLBJivyWqd67z+DmGMVblnZzSpZmZikFpUPxW+hmsFlSkC~4471089~3225924; Domain=.ibm.com; Path=/; Expires=Tue, 14 Oct 2025 03:49:21 GMT; Max-Age=14400
+

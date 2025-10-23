@@ -1,0 +1,30 @@
+HTTP/2 301 
+content-type: text/html
+location: https://www.cbsnews.com/cbslocal/
+accept-ranges: bytes
+date: Mon, 13 Oct 2025 23:49:20 GMT
+via: 1.1 varnish
+age: 218
+fastly-restarts: 0
+content-length: 166
+
+HTTP/2 200 
+x-content-type-options: nosniff
+link: <https://assets1.cbsnewsstatic.com>; rel="preconnect", <https://assets2.cbsnewsstatic.com>; rel="preconnect", <https://assets3.cbsnewsstatic.com>; rel="preconnect", </fly/bundles/cbsnewscontent/fonts/ProximaNova-Regular/ProximaNova-Regular.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/fonts/ProximaNova-Bold/ProximaNova-Bold.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/fonts/PublicoHeadline-Bold/PublicoHeadline-Bold.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/fonts/PublicoHeadline-Black/PublicoHeadline-Black.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/fonts/PublicoText/PublicoText.woff2>; rel="preload"; as="font"; crossorigin, </fly/bundles/cbsnewscontent/css/responsive.min.css?v=d8092c2b660f2f8a2d2111515cf92772>; rel="preload"; as="style", <https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.js?v=d8092c2b660f2f8a2d2111515cf92772>; rel="preload"; as="script", <https://www.cbsnews.com/fly/bundles/cbsnewscore/js-build/main.responsive.js?v=d8092c2b660f2f8a2d2111515cf92772>; rel="preload"; as="script"
+cache-control: max-age=90, public
+last-modified: Mon, 13 Oct 2025 23:44:42 GMT
+content-type: text/html; charset=UTF-8
+core-api-cache-key: 5e755b43-02aa-4440-8267-26e681d5a15f
+x-xss-protection: 1; mode=block
+x-device: desktop
+x-edge-forwarded-proto: https
+accept-ranges: bytes
+age: 278
+date: Mon, 13 Oct 2025 23:49:20 GMT
+via: 1.1 varnish
+vary: Accept-Encoding, X-Device, X-Edge-Forwarded-Proto
+set-cookie: fly_device=desktop; expires=Mon, 13 Oct 2025 23:54:20 GMT; path=/; domain=.cbsnews.com
+set-cookie: fly_geo={"countryCode": "US", "region": "VA", "dma": "544", "connection": { "type": "broadband"}}; expires=Mon, 13 Oct 2025 23:54:20 GMT; path=/; domain=.cbsnews.com
+fastly-restarts: 0
+content-length: 696316
+

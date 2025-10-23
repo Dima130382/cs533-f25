@@ -1,0 +1,29 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://www.reuters.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/2 401 
+server: CloudFront
+date: Mon, 13 Oct 2025 23:48:53 GMT
+content-type: text/html;charset=utf-8
+content-length: 771
+x-datadome: protected
+accept-ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+charset: utf-8
+cache-control: max-age=0, private, no-cache, no-store, must-revalidate
+pragma: no-cache
+access-control-allow-credentials: true
+access-control-expose-headers: x-dd-b, x-set-cookie
+access-control-allow-origin: *
+x-datadome-cid: AHrlqAAAAAMA7DJ6zyeyYWMA9DaWVw==
+x-dd-b: 1
+set-cookie: datadome=xtN1WkJUwjc1M4w_dBf~wph8jyG5TVXA9cctP67PhpLeaa3zCIunfktniLOOmrDcWRJaiPbu6fIDqARaQot4WQpj~rSZrN9fs4RhIv3Gn7DN~HueNqvNq3S9G9MgvJY5; Max-Age=31536000; Domain=.reuters.com; Path=/; Secure; SameSite=Lax
+x-cache: LambdaGeneratedResponse from cloudfront
+via: 1.1 dd02f81d770406d1d5f9d2e199b1cd1a.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD55-P10
+x-amz-cf-id: kFAASk7XtfBngpDySDj9He_CZQagIs8Qg68IW6_D_zqJXnNeF8JqrQ==
+content-security-policy: frame-ancestors 'self'; report-uri https://reuters.report-uri.com/r/t/csp/enforce; report-to report-uri
+report-to: {"endpoints":[{"url":"https://reuters.report-uri.com/a/t/g"}],"group":"report-uri","include_subdomains":true,"max_age":31536000}
+

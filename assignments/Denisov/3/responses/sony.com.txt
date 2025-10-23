@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Mon, 13 Oct 2025 23:48:37 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.sony.com:443/
+
+HTTP/2 302 
+server: AkamaiGHost
+content-length: 0
+location: https://www.sony.com/en/
+expires: Mon, 13 Oct 2025 23:48:37 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Mon, 13 Oct 2025 23:48:37 GMT
+content-security-policy: frame-ancestors 'self' *.force.com *.salesforce.com *.lightning.com *.sony.com https://zingtree.com
+x-content-type-options: nosniff
+strict-transport-security: max-age=15768000
+set-cookie: _abck=061207700D2BD053B2E527FE245F547E~-1~YAAQhoEyF2+fQd6ZAQAAxtv53w7u5D9b4fs7YNxyStAJcxICSEHF6hpF3LJY9N4u8JvXq5gcFhnJmMY3SVEgjEKN0XiuEYVPXs8Zcv3zOCBlKvUdzmSCRpEzIgf2TnNys7BQwKkNf8EQ9jTDO+gGVFT312X2YrZMvpJDrm/KqyhcvQ1Tvuhcc+aiCieFbXNfelIwvuRsoskvy9JUsVAv8GNWAHuFOIzer7uZIcV4hUVcD3hryaYGbX1++g6ZWAbKk1EhchV/u//vGjZoXwLvRaIsGAS2ZLmAgbvQCsCYljpRrn6+IgweJLJb9xAeEaQmAfIH6E68OL+FNEgiY6CzpVlmWpaLfQ1HalnyK8iBeYvHd2X+aPz7d232F/T0zLSYD2QWbfzLnE56XLMfNm+WpoyjxziAbohrEVozhkil02rcaX+tPNeheav44aIOFMW1J8YT8g==~-1~-1~-1~-1~-1; Domain=.sony.com; Path=/; Expires=Tue, 13 Oct 2026 23:48:37 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=A4CD1E2E820B80A0BF8F1F05915473C5~YAAQhoEyF3CfQd6ZAQAAxtv53x2bg6DasWnB+Qycws4O2gipLStsyb+bv245KrWp5xQkUNcZ3jJPz8DWCR7SQO3m7RRlRSJiOTX+frf5cTmlgIJ5zAME5+EAA/afHzdaI8g7Xib4TmIvccOzttPaSO2Z5sO7iGLlN17gqbcypatUH5Z3KnCdk3RlXe57OoPtSzK/Z4rJvZlv+Sqs8YJRKa5+w5tcbUxldlR2oURUTwT30TISodTDP55Ac0w4RDaJiTpQxXmrE4lNXJ5cJWaTMJyVpkjsOIXiVJoWoHn8fFuPYKXg8CbOI2pVnrsDxUnuxkBX2TNAMtTgkDjam4pY92TDVQMoMFEthvcgNOCK/bna9vnVRB2/rXVDGuwBssaBT5Vgdr0Ek+kki2ZpcALmfxlq/CN/eQTn6Stl8G0=~3294534~4277317; Domain=.sony.com; Path=/; Expires=Tue, 14 Oct 2025 03:48:37 GMT; Max-Age=14400
+
+HTTP/2 403 
+content-type: text/html
+content-length: 183
+date: Mon, 13 Oct 2025 23:48:37 GMT
+

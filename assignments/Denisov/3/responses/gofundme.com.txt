@@ -1,0 +1,32 @@
+HTTP/2 301 
+content-type: text/html
+content-length: 162
+location: https://www.gofundme.com/
+date: Mon, 13 Oct 2025 23:49:28 GMT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+server: nginx
+content-security-policy-report-only: frame-ancestors gofundme.com *.gofundme.com *.hopin.com pillar.io *.pillar.io takethemameal.com *.takethemameal.com kudoboard.com *.kudoboard.com werememberdev.com *.werememberdev.com weremember.com *.weremember.com forevermissed.com *.forevermissed.com fm-stage.com *.fm-stage.com fm-qa.com *.fm-qa.com;
+via: 1.1 55b12da2f11ad43ff6ba0165ec2762d4.cloudfront.net (CloudFront)
+set-cookie: gdid=28b833a2-8886-4384-9403-4a5170b52144; max-age=315360000; path=/; domain=gofundme.com
+x-cache: Miss from cloudfront
+x-amz-cf-pop: JFK50-P15
+x-amz-cf-id: OTJ9s7Zy-g6GD8LHQ7jLd4Sff8sNvJnYsUL1CyQJfV-yMah96kwFPw==
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 1261336
+date: Mon, 13 Oct 2025 23:44:25 GMT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+server: nginx
+set-cookie: visitor={"locale":"en_US","shimLocale":"en_US","country":"US"}; path=/; domain=.gofundme.com
+set-cookie: gdid=ccc861d5-f410-4cdb-ab30-477b06245f3e; max-age=315360000; path=/; domain=.gofundme.com
+cache-control: max-age=120, s-maxage=120, stale-while-revalidate=3600, stale-if-error=86400
+etag: "30vzuygb2ar091"
+content-security-policy-report-only: frame-ancestors gofundme.com *.gofundme.com *.hopin.com pillar.io *.pillar.io takethemameal.com *.takethemameal.com kudoboard.com *.kudoboard.com werememberdev.com *.werememberdev.com weremember.com *.weremember.com forevermissed.com *.forevermissed.com fm-stage.com *.fm-stage.com fm-qa.com *.fm-qa.com;
+vary: Accept-Encoding
+via: 1.1 2cd91b399d7db009d02ca3e5944f2eca.cloudfront.net (CloudFront)
+age: 303
+x-cache: Hit from cloudfront
+x-amz-cf-pop: IAD61-P4
+x-amz-cf-id: 2a6AzXy9uB26EVpuogdVmrOIbQTVkCd7QqQY54ztB92MHMPHyASStw==
+

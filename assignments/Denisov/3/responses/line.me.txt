@@ -1,0 +1,27 @@
+HTTP/1.1 302 Moved Temporarily
+Server: openresty
+Date: Mon, 13 Oct 2025 23:49:36 GMT
+Content-Type: text/html
+Content-Length: 142
+Connection: keep-alive
+Location: https://www.line.me/en/
+Strict-Transport-Security: max-age=43200
+
+HTTP/2 200 
+content-type: text/html
+content-length: 36224
+server: VOS
+date: Mon, 13 Oct 2025 23:48:20 GMT
+accept-ranges: bytes
+last-modified: Tue, 26 Aug 2025 04:39:14 GMT
+x-rgw-object-type: Normal
+cache-control: public,max-age=300
+strict-transport-security: max-age=15768000
+etag: "68a301114dc39dafa7a0d9ababb6ac22"
+vary: Accept-Encoding,Origin
+x-cache: Hit from cloudfront
+via: 1.1 d524fd53067e060a838db45329abc4c0.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD55-P1
+x-amz-cf-id: gP0mr1AH_O_qpYhXnYUgn8FyNrw3eTOunZwMYX4Ma37JElvZ7PUIsg==
+age: 77
+

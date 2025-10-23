@@ -1,0 +1,30 @@
+HTTP/2 302 
+content-type: text/html; charset=utf-8
+content-length: 573
+location: https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20Chrome%2F124%20Safari%2F537.36&_rand=1760399325598&sudaref=
+date: Mon, 13 Oct 2025 23:48:45 GMT
+vary: Origin
+set-cookie: XSRF-TOKEN=JKbNmKiD7ksf-GiRxSrGx6Gf; path=/; secure
+x-login-visitor: true
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-download-options: noopen
+x-readtime: 1
+proc_node: weibopro-node-beta-web-hj4-55dc49d9c7-bj8ln
+server: SHANHAI-SERVER
+lb: 36.51.224.126
+ssl_node: msre-10-81-97-70.hk.intra.weibo.cn
+
+HTTP/2 200 
+server: nginx
+date: Mon, 13 Oct 2025 23:48:47 GMT
+content-type: text/html
+vary: Accept-Encoding
+cache-control: no-cache, must-revalidate
+expires: Sat, 26 Jul 1997 05:00:00 GMT
+pragma: no-cache
+pragma: no-cache
+content-security-policy: upgrade-insecure-requests
+strict-transport-security: max-age=31536000; includeSubDomains
+x-via-ssl: ssl.79.sinag1.hyds.lb.sinanode.com
+

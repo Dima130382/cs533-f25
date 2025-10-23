@@ -1,0 +1,32 @@
+HTTP/2 301 
+location: https://www.android.com/
+x-content-type-options: nosniff
+server: sffe
+content-length: 221
+x-xss-protection: 0
+date: Mon, 13 Oct 2025 23:24:55 GMT
+expires: Mon, 13 Oct 2025 23:54:55 GMT
+cache-control: public, max-age=1800
+content-type: text/html; charset=UTF-8
+age: 1433
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 200 
+accept-ranges: bytes
+vary: Accept-Encoding
+content-type: text/html
+content-length: 168442
+content-security-policy: script-src  'nonce-eSEdCX2rQrGZJsaTasQn1w' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/android; base-uri 'self'
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/android
+cross-origin-opener-policy-report-only: same-origin; report-to="uxe-owners-acl/android"
+report-to: {"group":"uxe-owners-acl/android","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/uxe-owners-acl/android"}]}
+date: Mon, 13 Oct 2025 23:48:48 GMT
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+last-modified: Fri, 10 Oct 2025 19:48:00 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

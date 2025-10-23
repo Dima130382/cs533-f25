@@ -1,0 +1,30 @@
+HTTP/2 302 
+content-length: 0
+location: http://www.hp.com/
+server: CloudFront
+date: Mon, 13 Oct 2025 23:48:58 GMT
+x-cache: Miss from cloudfront
+via: 1.1 6bef97fa092ebad8a3e6fb5b4018fd70.cloudfront.net (CloudFront)
+x-amz-cf-pop: MCI50-P4
+x-amz-cf-id: aNUz7vFt5hYCGjslofOUW2Y8czyFLpRm1YAftdx8D-zOXxP-UWmHuA==
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy: default-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'; object-src 'none'
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+
+HTTP/1.1 503 Service Unavailable
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 282
+Expires: Mon, 13 Oct 2025 23:48:59 GMT
+Date: Mon, 13 Oct 2025 23:48:59 GMT
+Connection: keep-alive
+Set-Cookie: aka_client_code=US-
+Akamai-GRN: 0.4adfda17.1760399339.876e699e
+Set-Cookie: c_hp_filter=e57aa55438134ecfb5f02411e7d4ec5b; path=/; domain=.www.hp.com
+Set-Cookie: _abck=006BCA816BA1572CA6473A40297F47A0~-1~YAAQSt/aF5Mh0qWZAQAAfy763w4ozd7tcJrh2e7nHpeQPsXmrRpqJIZjxZRk1BYh0D8ed46zcITCZQCcC1PWnRt+PzLrSLoNEGsb1USkLRb7j6vXAC6gQxcd6e8ZZnqGDPH77F4jqe3Pu/7v6BUbZ1y10W2CzewhdCAuVLokNPVG+LXGL4lWP1jQLV92JEXr5xtKWOldQzE6qU5jidhb5ub7jrbZVMdp1kLoo4DgPrbWg2+LBBoNCbAPLncdQFSrL9D2DKHuoEyetNjb8ysXLi2G/5RRFjdn870GEo8n7j7Uq8s1niv6aJ4XYSw/imLD6N5holVieT82IFJGB2318IOsHo5t+lXOZXV2NPX5c5H+QxhhaWapndFgJvC+H9Ozxw==~-1~-1~-1~-1~-1; Domain=.hp.com; Path=/; Expires=Tue, 13 Oct 2026 23:48:59 GMT; Max-Age=31536000
+Set-Cookie: bm_sz=6FEAACD0158287A9596763441CF41FC8~YAAQSt/aF5Qh0qWZAQAAfy763x2/0MEm6BStD+ET+BrUIBejfZgec+KZEWPYjf1DdRpW4znJQyOrZsXwhlH0o4r9K0eJmZODYEqVxyxgqFL4I/Gbqo0sqlnNoa+PuzJwEbtTroBFW7Gz0V3coV1C1dRO1/9OnMT1Eq3UW5emGgO7sIGP6DI38hZ1oGbK/qsnne2l4Adg/8Z5DIv7KVYoxwl+56N43RjVNQy5cgrv6fmar1kUtgfdups4Ytgl64OXXGFN5bw7GTzZYm/vJbErbHrq5qgi6CVTwMVcB1knpTntQ+XOuT6D5yR/WV70LYUwkCEkl0tum6t9SZ67llS9zuyZAGRlldi8yx+XDa+3Qy+Jgr5uuNtl7zI1RtBDOyjE2G0u~4274501~3752753; Domain=.hp.com; Path=/; Expires=Tue, 14 Oct 2025 03:48:59 GMT; Max-Age=14400
+Server-Timing: ak_p; desc="1760399339115_400219978_2272160158_41_18345_139_0_-";dur=1
+

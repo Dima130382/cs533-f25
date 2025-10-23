@@ -1,0 +1,20 @@
+HTTP/2 403 
+date: Mon, 13 Oct 2025 23:49:00 GMT
+perf: 7402827104
+server: cloudflare tsa_b
+x-powered-by: Express
+cache-control: no-cache, no-store, max-age=0
+x-transaction-id: 713eac639da5baed
+strict-transport-security: max-age=631138519; includeSubdomains
+origin-cf-ray: 98e2bb24ea1ec997-IAD
+x-served-by: tsa_b
+x-response-time: 17
+x-connection-hash: f68b5461b2190418288909934e977d064e45c9dec8a2eedb966f7e6003f13fd8
+cf-cache-status: DYNAMIC
+set-cookie: guest_id_marketing=v1%3A176039934032605833; SameSite=None; Secure; Path=/; Domain=twitter.com; Max-Age=63072000; Expires=Wed, 13 Oct 2027 23:49:00 GMT
+set-cookie: guest_id_ads=v1%3A176039934032605833; SameSite=None; Secure; Path=/; Domain=twitter.com; Max-Age=63072000; Expires=Wed, 13 Oct 2027 23:49:00 GMT
+set-cookie: personalization_id="v1_v+w5UNo7O3MO8mDo8wnWSQ=="; SameSite=None; Secure; Path=/; Domain=twitter.com; Max-Age=63072000; Expires=Wed, 13 Oct 2027 23:49:00 GMT
+set-cookie: guest_id=v1%3A176039934032605833; SameSite=None; Secure; Path=/; Domain=twitter.com; Max-Age=63072000; Expires=Wed, 13 Oct 2027 23:49:00 GMT
+set-cookie: __cf_bm=mEQUsM0wE024jV5qDPTxpTGVOXKwTBppPxUiz7CFNnE-1760399340.3019497-1.0.1.1-PkvJ1qHZqTZ5WzobU.g9Q16DLgrI5z_1peNPilryklwz2HnQnS17yK3dotQjuhuu.tVvlS5Je8pPDqtwUjSOi5fOJYFsD8ocBFu4eHurOij1suK6G0Rqrb6YIl7gFelU; HttpOnly; Secure; Expires=Tue, 14 Oct 2025 00:19:00 GMT
+cf-ray: 98e2bb24ea1ec997-IAD
+

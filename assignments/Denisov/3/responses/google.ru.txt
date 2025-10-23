@@ -1,0 +1,45 @@
+HTTP/2 301 
+location: https://www.google.ru/
+content-type: text/html; charset=UTF-8
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-WF_cIpuMLrNClihByEBWsQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}
+permissions-policy: unload=()
+date: Mon, 13 Oct 2025 23:48:49 GMT
+expires: Wed, 12 Nov 2025 23:48:49 GMT
+cache-control: public, max-age=2592000
+server: gws
+content-length: 219
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-rlgILyTDTFgrfe-syFKmuQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}
+accept-ch: Sec-CH-Prefers-Color-Scheme
+accept-ch: Downlink
+accept-ch: RTT
+accept-ch: Sec-CH-UA-Form-Factors
+accept-ch: Sec-CH-UA-Platform
+accept-ch: Sec-CH-UA-Platform-Version
+accept-ch: Sec-CH-UA-Full-Version
+accept-ch: Sec-CH-UA-Arch
+accept-ch: Sec-CH-UA-Model
+accept-ch: Sec-CH-UA-Bitness
+accept-ch: Sec-CH-UA-Full-Version-List
+accept-ch: Sec-CH-UA-WoW64
+permissions-policy: unload=()
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+date: Mon, 13 Oct 2025 23:48:49 GMT
+server: gws
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+expires: Mon, 13 Oct 2025 23:48:49 GMT
+cache-control: private
+set-cookie: AEC=AaJma5t7GQS7wbqtCC4mcjs97i9NpDLWQ4VCDesz2XaAR91Ls2YTCxEqZd4; expires=Sat, 11-Apr-2026 23:48:49 GMT; path=/; domain=.google.ru; Secure; HttpOnly; SameSite=lax
+set-cookie: NID=525=nbgIxP9oUhunLTeq8keFDOIvlGmArbHYGMu-NNxQ15KyHVHIoHJAV2O7ppnMdTfQVFGvTBkQKODnNh5hqlrdI18z3jWEFDGnpqFs9_wmbTz1OYjcwGj5LPc58z59gUOMg72c9J2TpXNSzBa65ElTJuF4MRSADAyht7A7mL8CN1jgYT7jWNKCzqCT8JlHGcjOjMnt8SVwfQLAc-_Jf4nD; expires=Tue, 14-Apr-2026 23:48:49 GMT; path=/; domain=.google.ru; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

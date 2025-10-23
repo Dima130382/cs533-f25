@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Mon, 13 Oct 2025 23:49:33 GMT
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, must-revalidate
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=604800
+pragma: no-cache
+content-type: text/html; charset=UTF-8
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+x-content-type-options: nosniff
+server: OFE/0.1
+set-cookie: NID=525=cLg-4SJs_Aj6RsRHkXmLIkOtinu1A5_HELRXmdRfOI5X31Uh1ACCMMObI3H5KsPP_Tgr_R7Tw82InNuDVWD5pOa864aEbu4sOas3Asz-JD2af_DUMRdHyFnL38kZnLe5x6SCo6UcSMgHxyJ7jWHXTqQmWiCgiWoJSZUiAcBf2jxkAb_uE1u9kms-GT45km4hfQH8Lo0; expires=Tue, 14-Apr-2026 23:49:33 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

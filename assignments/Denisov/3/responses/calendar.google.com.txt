@@ -1,0 +1,109 @@
+HTTP/2 302 
+content-type: application/binary
+timing-allow-origin: https://calendar.google.com
+expires: Mon, 13 Oct 2025 23:49:24 GMT
+date: Mon, 13 Oct 2025 23:49:24 GMT
+cache-control: private, max-age=7776000
+location: https://calendar.google.com/calendar/u/0/r
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=525=TurY-ILClr27_rHFQ9GMwdUsD-q2g5srKIQhE6bADpdIFXe_0UNIDjqt-kStWdu8Canh6nmdR_z4kH5Mvug7e1a-2oDkrWDPTP2RAmkUdxv13An6CgJDM0fCbcaJG6pzhKWsN6_Xk5Q58tDIG-borqOROj9xERZp1x7dkyH2yMPT7JLZEP47ysUCbniKPOaeCA9Wta0; expires=Tue, 14-Apr-2026 23:49:24 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+x-l2-request-path: l2-managed-14
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+location: https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&osid=1&continue=https://calendar.google.com/calendar/u/0/r&followup=https://calendar.google.com/calendar/u/0/r&emr=1
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+report-to: {"group":"calendar_coop_coep","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/calendar"}]}
+cross-origin-embedder-policy-report-only: require-corp; report-to="calendar_coop_coep"
+content-security-policy: require-trusted-types-for 'script';report-uri /calendar/u/0/cspreport
+content-security-policy: script-src 'report-sample' 'nonce-HRrLxTv0gQKIDYJzL6vnyQ' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /calendar/u/0/cspreport
+content-security-policy: require-trusted-types-for 'script';report-uri /calendar/u/0/cspreport
+cross-origin-opener-policy-report-only: same-origin-allow-popups; report-to="calendar_coop_coep"
+date: Mon, 13 Oct 2025 23:49:24 GMT
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=525=ABIiIui6xhxxtVhroFV5ZK93pUtyu-O9i1aYqd2C_KBkDxi5ihAG8CiKTyLv2Vhm3A2XfMiKlmgAAI5fBrmnl2Sqw2YaWNmbVFCrG8M0eGh_1r3j4taYnX-nTgpXNu1RS5EP1gNKpBlN4-o9hS9Mxczb7WD_xeL16zQOJ_dlPedpbQ0Gol-bc_15YkEWSA387d53; expires=Tue, 14-Apr-2026 23:49:24 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+x-l2-request-path: l2-managed-14
+
+HTTP/2 302 
+content-type: application/binary
+set-cookie: __Host-GAPS=1:Uq3dNm4jVVZQTfAOpLaBByddxdu7zA:Uo8zbDRtkxPf5CD3; Expires=Wed, 13-Oct-2027 23:49:24 GMT; Path=/; Secure; HttpOnly; Priority=HIGH
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 13 Oct 2025 23:49:24 GMT
+location: https://accounts.google.com/InteractiveLogin?continue=https://calendar.google.com/calendar/u/0/r&emr=1&followup=https://calendar.google.com/calendar/u/0/r&osid=1&passive=1209600&service=cl&dsh=S823154515:1760399364820026&ifkv=AfYwgwWuIXlxCrT3w8tvRBw4PlQJpXcZu24MufJucWIRWuRfPG1iVx6URoeoCauStdg7bMtyC6_TRw
+content-length: 0
+strict-transport-security: max-age=31536000; includeSubDomains
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+content-security-policy: script-src 'report-sample' 'nonce-Qgqt5pFuvswM8DCtn5YMPQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AccountsSigninPassiveLoginHttp/cspreport;worker-src 'self'
+content-security-policy: script-src 'unsafe-inline' 'unsafe-eval' blob: data: 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://www.google-analytics.com;report-uri /_/AccountsSigninPassiveLoginHttp/cspreport/allowlist
+content-security-policy: require-trusted-types-for 'script';report-uri /_/AccountsSigninPassiveLoginHttp/cspreport
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: unsafe-none
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+set-cookie: __Host-GAPS=1:fN3M_OjwWDco7ZRiIyCgFoId3Iv77g:e6EhKDE4fKJlCAP7;Path=/;Expires=Wed, 13-Oct-2027 23:49:24 GMT;Secure;HttpOnly;Priority=HIGH
+x-frame-options: DENY
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 13 Oct 2025 23:49:24 GMT
+location: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fu%2F0%2Fr&dsh=S823154515%3A1760399364820026&emr=1&followup=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fu%2F0%2Fr&ifkv=AfYwgwUrF_ZXbJtQlthjuwgAM-1_85CpP2gZlD_1SOPVBRs5y_6cLJvr_R04kOrNwqQVOyXI84bpXg&osid=1&passive=1209600&service=cl&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+content-length: 629
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: script-src 'report-sample' 'nonce-tyiU8ghtylGpGoRVvw957w' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+content-security-policy: require-trusted-types-for 'script';report-uri /cspreport
+report-to: {"group":"coop_gse_qebhlk","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gse_qebhlk"}]}
+cross-origin-opener-policy-report-only: same-origin; report-to="coop_gse_qebhlk"
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+set-cookie: __Host-GAPS=1:SL0Df9NY96yXX8C29ltKyAxu8iTayA:Sw4HX1mCmXMgiJXg; Expires=Wed, 13-Oct-2027 23:49:25 GMT; Path=/; Secure; HttpOnly; Priority=HIGH
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-auto-login: realm=com.google&args=service%3Dcl%26continue%3Dhttps://calendar.google.com/calendar/u/0/r
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 13 Oct 2025 23:49:25 GMT
+content-length: 0
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-opener-policy-report-only: same-origin; report-to="AccountsSignInUi"
+report-to: {"group":"AccountsSignInUi","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/AccountsSignInUi"}]}
+content-security-policy: require-trusted-types-for 'script';report-uri /v3/signin/_/AccountsSignInUi/cspreport
+content-security-policy: script-src 'report-sample' 'nonce-2scEcT7gWbx1rQa-7IWLfA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /v3/signin/_/AccountsSignInUi/cspreport;worker-src 'self'
+content-security-policy: script-src 'unsafe-inline' 'unsafe-eval' blob: data: 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://www.google-analytics.com https://www.google.com/tools/feedback/ https://www.gstatic.com/feedback/js/ https://www.gstatic.com/inproduct_help/ https://www.gstatic.com/support/content/ https://www.gstatic.com/uservoice/feedback/client/web/live/ https://www.gstatic.com/uservoice/surveys/resources/prod/js/survey/ https://support.google.com/inapp/;report-uri /v3/signin/_/AccountsSignInUi/cspreport/allowlist
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+content-security-policy-report-only: script-src 'unsafe-inline' 'unsafe-eval' blob: data: https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js https://translate.google.com/translate_a/element.js https://www.google.com/recaptcha/api.js https://www.google.com/recaptcha/enterprise.js https://www.gstatic.com/recaptcha/ https://www.google.com/tools/feedback/chat_load.js https://www.google.com/tools/feedback/help_api.js https://www.google.com/tools/feedback/load.js https://www.google.com/tools/feedback/open.js https://www.google.com/tools/feedback/open_to_help_guide_lazy.js https://www.gstatic.com/feedback/js/ https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js https://www.gstatic.com/inproduct_help/api/main.min.js https://www.gstatic.com/inproduct_help/chatsupport/chatsupport_button_v2.js https://www.gstatic.com/inproduct_help/service/lazy.min.js https://www.gstatic.com/uservoice/feedback/client/web/live/ https://www.gstatic.com/uservoice/surveys/resources/prod/js/survey/ https://www.gstatic.com/_/mss/boq-one-google/_/ https://www.gstatic.com/og/_/js/ https://apis.google.com/js/api.js https://apis.google.com/js/client.js https://www.googletagmanager.com/gtag/js https://www.google-analytics.com/analytics.js https://www.googletagmanager.com/gtag/destination https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.UwNl_dhpf7w.es5.O/ https://apis.google.com/_/scs/abc-static/_/js/ https://translate.googleapis.com/_/translate_http/_/js/ https://www.gstatic.com/recaptcha/releases/;report-uri /v3/signin/_/AccountsSignInUi/cspreport/fine-allowlist
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+cross-origin-resource-policy: same-site
+reporting-endpoints: default="/v3/signin/_/AccountsSignInUi/web-reports?context=eJwNwztIQmEYBmA5-f2KNYRIhBGUixmYFxCEaJCQwDxQQ4iDmOIRhVA7XiCjBkFoLbLBSWgoooaWgmgxjKwo8hKo6RAEIi3hIAQNvQ88iltuVqGWrM6oJXeaG87m-eLseDTS4_JYuu5xZcw2XymHC2dvZMPQeoU2sB-r0ABNU1WyYTRfpTg6XTVawePDGp3gvqpOORTH65RBnbVOevQX3imIJV2DythPN0i53aDFQYOW0C9rkoimhyZZMJVsURotxRbZsfvcom8ca32QGqXzbZKjL9kmAR_rbXpBibZDUrw0aFkR11QO5sbOk4N94u7BMsvgqd7JztH362QCTrp4No3uHZ55cOiCZzL8K_FMcs8z5bA8W7h6YKN7P90JjcEf3fSGA0IkEU5sBcVoJCFEAr5kIpQMxwUxJYhes9FsMRlN5jmj1Rsz_gMv75W_"
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

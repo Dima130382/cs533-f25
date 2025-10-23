@@ -1,0 +1,43 @@
+HTTP/2 302 
+content-type: application/octet-stream
+content-length: 0
+location: https://alexa.amazon.com/home
+server: awselb/2.0
+date: Mon, 13 Oct 2025 23:49:23 GMT
+x-cache: Hit from cloudfront
+via: 1.1 de8b5f44ffbaf97a58ad36dbe4a4a7c0.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD55-P8
+x-amz-cf-id: aNYqejT8Sov-89dR_Mjv0qvnZfLdmrCYqj55AreRoIrfXR3n4iE9VA==
+age: 15
+
+HTTP/2 302 
+location: https://www.amazon.com/dp/B0DCCNHWV5?ref=aucc_web_red_xaa_evgn_tx_0002&nodl=0
+server: Server
+date: Mon, 13 Oct 2025 23:49:38 GMT
+vary: Content-Type,Accept-Encoding,User-Agent
+x-amz-rid: M4A3CR0WQYQNGGZVR5D3
+set-cookie: session-id=130-7257508-7928866; Domain=.amazon.com; Expires=Tue, 01 Jan 2036 08:00:01 GMT; Path=/; Secure
+set-cookie: session-id-time=2082787201l; Domain=.amazon.com; Expires=Tue, 01 Jan 2036 08:00:01 GMT; Path=/; Secure
+access-control-allow-headers: accept, origin, x-requested-with, content-type, anti-csrftoken-a2z, csrf
+access-control-allow-methods: GET, OPTIONS, POST, PUT, DELETE
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-cache: Miss from cloudfront
+via: 1.1 869402f2ecee156c63cb7eb71b47e990.cloudfront.net (CloudFront)
+x-amz-cf-pop: ATL58-P11
+x-amz-cf-id: np1QUM87wo8H5EAPGu-NkTaOHvqiP5V8oLJeuk2stMzcj3SuDJ13Kg==
+
+HTTP/2 200 
+content-type: text/html
+date: Mon, 13 Oct 2025 23:49:38 GMT
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+server: Server
+x-amz-rid: R4XR1FAZYHXC3ZH2X9ZQ
+vary: Content-Type,Accept-Encoding,User-Agent
+x-cache: Miss from cloudfront
+via: 1.1 d0b1b17498c1678f6186279daddd31d2.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD61-P10
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: m2yRUONXXu7mRLkeV0dWEMszIft57gEWkYrU0epX0hesCpo-mF37_A==
+

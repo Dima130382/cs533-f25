@@ -1,0 +1,48 @@
+HTTP/2 301 
+server: CloudFront
+date: Mon, 13 Oct 2025 23:49:24 GMT
+content-length: 0
+location: https://www.academia.edu/
+x-cache: LambdaGeneratedResponse from cloudfront
+via: 1.1 312cc2b2351d4d9512783521cd4a9fcc.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD55-P10
+x-amz-cf-id: oHuaRtaPF6ExuBCdSSm6erL_NimaUw8glw-gJUzh0AoyYcSbtb_7bA==
+timing-allow-origin: https://www.academia.edu
+x-accelerating: The World's Research
+server-timing: cdn-cache-hit,cdn-pop;desc="IAD55-P10",cdn-rid;desc="oHuaRtaPF6ExuBCdSSm6erL_NimaUw8glw-gJUzh0AoyYcSbtb_7bA==",cdn-hit-layer;desc="REC",cdn-downstream-fbl;dur=28
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+date: Mon, 13 Oct 2025 23:49:24 GMT
+server: nginx
+status: 200 OK
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+x-hit-user-id: 
+x-hit-loginstatus: 0
+x-hit-route: home#show
+link: <//a.academia-assets.com/assets/landing-bbec118e3f7b4b488aa8498f18ff5ed6f06984a753d12494715478c1d8d726bf.css>; rel=preload; as=style; nopush,<//a.academia-assets.com/assets/design_system/button-4d6745f84a0a0d8316c46d93a0bc87b9c96d3bce729ca2b864b618764cddd832.css>; rel=preload; as=style; nopush,<//a.academia-assets.com/assets/design_system/heading-95367dc03b794f6737f30123738a886cf53b7a65cdef98a922a98591d60063e3.css>; rel=preload; as=style; nopush,<//a.academia-assets.com/assets/design_system/body-c50f5ab98832f511df8842993148351135752147645352dc0b07c369bcb29ab7.css>; rel=preload; as=style; nopush,<//a.academia-assets.com/fonts/design_system/DM-Sans_100-1000_normal_latin.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<//a.academia-assets.com/fonts/design_system/Gupter_400_normal_latin.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://a.academia-assets.com/webpack_bundles/js/runtime-1c9f67a1fc50cb0f7e75.js>; rel=preload; as=script; nopush
+set-cookie: request_id=9EMyj8pCv25et5V-5T2X6JzTKVaudsH4aYbJfEFGEs5YxjgmqeQ4tw%3D%3D; max-age=600; secure
+set-cookie: overridden_user_tests=%7B%7D; domain=academia.edu; path=/; expires=Tue, 13 Oct 2026 23:49:24 GMT; secure
+set-cookie: auvid=MTc2MDM5OTM2NDI5MjowLjg4MjUwNjQyMTMzOTcyNDE%3D; domain=.academia.edu; path=/; expires=Tue, 13 Oct 2026 23:49:24 GMT; SameSite=Lax; secure
+set-cookie: single_request_tracker=null; domain=academia.edu; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT; SameSite=Lax; secure
+set-cookie: _cookie_session=SefLFVCl5D39lWFniekQBxAuBAQPqXShi0sKDraW3s8xCEigJs%2FWgjTVpqZkkEZooMGHkVvQbG7XQ%2BWbrPteQLjMUhVzQ0kqcQzkKf5Vjrdj%2FpROei6nCbYp%2BnhQ8RtqgOz8Q2Rba7YKO%2Bg%2Bso6RaNYUSu4CE1Z6ZDmrABr3oqp0BUvKjD%2BnffgMumnxGGCe4xBNgZlp84NwSSuKSJfTASs5VD%2BSjVmBvc29Lw2uVHUQf%2BKKMd90ZFOoreXyCnQnV%2B7js3Kw8mjC%2FY7lW%2FrXvLraei5%2Fzk35PrVgeMRGLpyYj0ZhRFIdELuuynl5a2YDycpLmwSdsSH3RhUH90uQXaKM086%2B7kAa3rmvW57L%2B5ehGmB64bK6r%2BeredGK3j8%3D--Am%2BKPHIMQtWsBYuT--t1%2FWXjIurDCK7z0M9OFFug%3D%3D; domain=.academia.edu; path=/; secure; HttpOnly; SameSite=None
+x-logged-in: false
+cache-control: max-age=0, private, must-revalidate
+x-request-id: 9da6d493-7f82-47d7-9f5b-2334181e4742
+x-runtime: 0.155880
+strict-transport-security: max-age=63072000; includeSubDomains
+expires: 0
+pragma: no-cache
+timing-allow-origin: https://www.academia.edu
+x-accelerating: The World's Research
+vary: Accept-Encoding
+via: 1.1 434e1d253124c6f9517c35a2c6014518.cloudfront.net (CloudFront)
+server-timing: cdn-upstream-layer;desc="REC",cdn-upstream-dns;dur=0,cdn-upstream-connect;dur=0,cdn-upstream-fbl;dur=162,start_processing.action_controller;dur=0.01, cache_read.active_support;dur=0.28, cache_fetch_hit.active_support;dur=0.03, render.view_component;dur=37.18, render_partial.action_view;dur=127.09, render_template.action_view;dur=127.24, render_layout.action_view;dur=140.01, process_action.action_controller;dur=149.46, sql.active_record;dur=0.73, nginx.request_duration;dur=160.00,cdn-cache-miss,cdn-pop;desc="IAD55-P10",cdn-rid;desc="9EMyj8pCv25et5V-5T2X6JzTKVaudsH4aYbJfEFGEs5YxjgmqeQ4tw==",cdn-downstream-fbl;dur=195
+x-cache: Miss from cloudfront
+x-amz-cf-pop: IAD55-P10
+x-amz-cf-id: 9EMyj8pCv25et5V-5T2X6JzTKVaudsH4aYbJfEFGEs5YxjgmqeQ4tw==
+

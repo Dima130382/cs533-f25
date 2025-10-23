@@ -1,0 +1,31 @@
+HTTP/2 301 
+server: CloudFront
+date: Mon, 13 Oct 2025 23:48:34 GMT
+content-length: 0
+location: https://www.liberation.fr/
+x-cache: LambdaGeneratedResponse from cloudfront
+via: 1.1 c638953b8f2f5aaf22f3f10794d5aeac.cloudfront.net (CloudFront)
+x-amz-cf-pop: CDG50-P3
+x-amz-cf-id: uUNmYIwa5yOSgbUFemSlZNcuB6jKoup_JK-Fkj7-5L52zQSsj-ESww==
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: openresty
+etag: W/"145890-Jts02AKD3VBB3jFPqTIB0VWv7IM"
+x-arc-pb-mx-id: 00000000
+x-arc-pb-request-id: 43be093d-b5ad-452d-9448-8a34a67e0ae7
+last-modified: Mon, 13 Oct 2025 23:47:04 GMT
+cache-control: private, max-age=60
+expires: Mon, 13 Oct 2025 23:49:34 GMT
+date: Mon, 13 Oct 2025 23:48:34 GMT
+content-security-policy: upgrade-insecure-requests
+x-arc-ttl: 120
+x-arc-request-id: 0.ca643717.1760399314.a7c550bb
+set-cookie: datadome=KpPHQ7o_0QSOEVyT38Xk~LCMVhvFnJGYPL_D76WTZS948jiljjESBbC5okK0eqqhgFVAjBP4LuwNBcSulY3B02C_HXbf4p_vvJ2KnXn9UV93lSoQ9_BAaaA0zSKqGvPb; Max-Age=31536000; Domain=.liberation.fr; Path=/; Secure; SameSite=Lax
+accept-ch: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+x-datadome: protected
+x-arc-edgecontroller: 1.1.0
+
