@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:43:36 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 06 Oct 2025 18:43:36 GMT
+Location: https://www.kickstarter.com/
+Set-Cookie: __cf_bm=.nXTCiqHl3.fpwib9zKGfbG7jbpBFzmP2gfIgz0T9Z8-1759772616-1.0.1.1-tBY3cXPVThLNGiXJTCt_vasacdY3G3NhbQdPiyMjMZTH3.bRpk0GSSsE6kvo9wdPdF6H_LU8nW0hFOtjPBwFHCh6DQApBTxAPSj.1sIeCrQ; path=/; expires=Mon, 06-Oct-25 18:13:36 GMT; domain=.kickstarter.com; HttpOnly
+Server: cloudflare
+CF-RAY: 98a6f642ff91d6d8-IAD
+
+HTTP/1.1 403 Forbidden
+Date: Mon, 06 Oct 2025 17:43:36 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 7049
+Connection: close
+accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cf-mitigated: challenge
+critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cross-origin-embedder-policy: require-corp
+cross-origin-opener-policy: same-origin
+cross-origin-resource-policy: same-origin
+origin-agent-cluster: ?1
+permissions-policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+referrer-policy: same-origin
+server-timing: chlray;desc="98a6f6440c523ae7"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=7p2.8QA91tiTwvBRxa.l7g9ADSAsZGqjO2Y4SRoBv6w-1759772616-1.0.1.1-6MrMoodhvxwN_bz4l47yFl8wYwjnSVPRI.0K.gmCcBi_O0b253EQTV434NNEmqrYuhy6omDhp_KCIePsMjlh31sTU3R7ULtTtMet3WILzoE; path=/; expires=Mon, 06-Oct-25 18:13:36 GMT; domain=.kickstarter.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+CF-RAY: 98a6f6440c523ae7-IAD
+

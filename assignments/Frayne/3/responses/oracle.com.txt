@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:44:47 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+Location: https://oracle.com:443/
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:44:47 GMT
+Content-Type: text/html
+Content-Length: 175
+Connection: keep-alive
+Location: https://www.oracle.com/
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Last-Modified: Mon, 06 Oct 2025 14:50:47 GMT
+X-ORACLE-DMS-ECID: 0000Pabbuz9Fc5MUmM_uWJ1crmAt00000A
+custom_cache_rule_location: Default
+X-ORACLE-DMS-RID: 0:111552:1
+device_type: Any
+X-Content-Type-Options: nosniff
+host_service: FutureTenseContentServer:12c
+custom_akamai_autopurge: NO
+Content-Language: en-US
+Content-Length: 55488
+MPULSE_CDN_CACHE: HIT
+MPULSE_ORIGIN_TIME: 0
+Cache-Control: max-age=1800
+Expires: Mon, 06 Oct 2025 18:14:48 GMT
+Date: Mon, 06 Oct 2025 17:44:48 GMT
+Connection: keep-alive
+Akamai-Request-BC: [a=23.52.15.73,b=1283887810,c=g,n=US_VA_ASHBURN,o=20940]
+Akamai-GRN: 0.490f3417.1759772688.4c8692c2
+Set-Cookie: akaas_aud-seg-ocom-prod=2147483647~rv=19~id=2d379c5b3f893fefd58fe0fe778ac570; path=/; Secure; SameSite=None
+X-Frame-Options: sameorigin
+Content-Security-Policy: frame-ancestors 'self' https://my.oracle.com https://eeho.fa.us2.oraclecloud.com https://blogs.oracle.com *.khapps.com *.khapps.jp *.lsapps.oracle.com *.lsapps.oracle.jp *.dev-lsapps.oracle.com https://oraclesso.sharepoint.com https://oracle.sharepoint.com https://partners.oracle.com https://partners-stage.oracle.com https://partners-test.oracle.com https://partners-sit.oracle.com https://partners-dev.oracle.com
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1
+Origin-Cache-Control: NO_HEADER_PRESENTED
+Origin-Edge-Control: NO_HEADER_PRESENTED
+Actual-Object-TTL: 432000
+Server-Timing: ak_p; desc="1759772688036_389287753_1283887810_28_9893_19_30_-";dur=1
+

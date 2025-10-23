@@ -1,0 +1,54 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://wikimedia.org/
+server: HAProxy
+x-cache: cp1114 int
+x-cache-status: int-tls
+connection: close
+
+HTTP/1.1 301 Moved Permanently
+date: Mon, 06 Oct 2025 14:10:35 GMT
+server: mw-web.eqiad.main-5f758f48c6-dfr7k
+location: https://www.wikimedia.org/
+cache-control: max-age=2592000
+expires: Wed, 05 Nov 2025 14:10:35 GMT
+content-length: 234
+content-type: text/html; charset=iso-8859-1
+age: 12741
+vary: X-Forwarded-Proto
+x-cache: cp1114 miss, cp1114 hit/1615
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp1114"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=06-Oct-2025;Path=/;HttpOnly;secure;Expires=Fri, 07 Nov 2025 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=06-Oct-2025;Path=/;Domain=.wikimedia.org;HttpOnly;secure;Expires=Fri, 07 Nov 2025 12:00:00 GMT
+x-client-ip: 108.39.66.144
+set-cookie: GeoIP=US:VA:Virginia_Beach:36.83:-76.02:v4; Path=/; secure; Domain=.wikimedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+x-analytics: 
+
+HTTP/1.1 200 OK
+date: Mon, 06 Oct 2025 16:55:02 GMT
+cache-control: s-maxage=3600, must-revalidate, max-age=0
+server: ATS/9.2.11
+etag: W/"bb42-6407f5157d980"
+last-modified: Mon, 06 Oct 2025 15:43:50 GMT
+content-type: text/html
+age: 2874
+accept-ranges: bytes
+x-cache: cp1114 hit, cp1114 hit/433
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp1114"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=06-Oct-2025;Path=/;HttpOnly;secure;Expires=Fri, 07 Nov 2025 12:00:00 GMT
+x-client-ip: 108.39.66.144
+set-cookie: GeoIP=US:VA:Virginia_Beach:36.83:-76.02:v4; Path=/; secure; Domain=.wikimedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+set-cookie: WMF-Uniq=k22G_XGzbQmoRbfeCiC9DAKEAAAAAFvdARvJiS8dCW_Q3VyewO7Bcvco6gYBqz26;Domain=www.wikimedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=Tue, 06 Oct 2026 00:00:00 GMT
+content-length: 47938
+x-analytics: 
+

@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:42:49 GMT
+Content-Type: text/html
+Connection: keep-alive
+CF-RAY: 98a6f520ac3b392e-IAD
+Location: https://thenai.org/
+cf-cache-status: DYNAMIC
+Set-Cookie: __cf_bm=AwaRkMJrXel9vDJJIczGlq54KTXrfc.yjK1BYJX2DX8-1759772569-1.0.1.1-sOvWhiRESoGoABEGFU8AIA9fbUWTphZeG.8IdQbvrizWzHm.CySPR8qsLExxYVSzZutih0IwC1hZxJVedxSbL6juiz6eDlwY8oz0jaEn4ps; path=/; expires=Mon, 06-Oct-25 18:12:49 GMT; domain=.thenai.org; HttpOnly
+Server: cloudflare
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Mon, 06 Oct 2025 17:42:49 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+CF-RAY: 98a6f521cf0ff26c-IAD
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+Link: <https://thenai.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://thenai.org/wp-json/wp/v2/pages/126>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://thenai.org/>; rel=shortlink
+X-Et-Api-Origin: https://thenai.org
+X-Et-Api-Root: https://thenai.org/wp-json/tribe/tickets/v1/
+X-Et-Api-Version: v1
+X-Powered-By: WP Engine
+X-Tec-Api-Origin: https://thenai.org
+X-Tec-Api-Root: https://thenai.org/wp-json/tribe/events/v1/
+X-Tec-Api-Version: v1
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 88
+X-Cache-Group: normal
+cf-cache-status: DYNAMIC
+Set-Cookie: __cf_bm=nnl7TGAz874XKxXfszgY8SB.BdGHjuL5y8C6l0.r7mc-1759772569-1.0.1.1-zWMWYInr.eyix2HK3RylNhJ5MHAoh.lz42wN8ppXlbmoJ4A.heGqZqr_U1KZFt6_VlPfB8OCwUO39QGWvzUMIvNb9HaFYhAsKRoDx9uQEAo; path=/; expires=Mon, 06-Oct-25 18:12:49 GMT; domain=.thenai.org; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

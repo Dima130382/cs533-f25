@@ -1,0 +1,57 @@
+HTTP/1.1 308 Permanent redirect
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+cache-control: max-age=86400
+Location: http://www.smh.com.au/
+Accept-Ranges: bytes
+Date: Mon, 06 Oct 2025 17:43:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000100-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1759772587.658059,VS0,VE0
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.smh.com.au/
+Accept-Ranges: bytes
+Date: Mon, 06 Oct 2025 17:43:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kcgs7200059-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1759772587.777779,VS0,VE0
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 1210603
+report-to: {"endpoints":[{"url":"https://csp.ffx.io/"}],"group":"csp-endpoint","include_subdomains":true,"max_age":7884000}
+x-content-type-options: nosniff
+x-varnish-grace: normal(limited)
+uber-trace-id: baa3cb3d8b58c3ea:baa3cb3d8b58c3ea:0:0
+cache-control: public, max-age=20, no-transform
+accept-ch: sec-ch-ua-model,sec-ch-ua-platform-version
+x-brand-short-name: smh
+x-xss-protection: 0
+strict-transport-security: max-age=31536000
+content-type: text/html; charset=utf-8
+content-security-policy: frame-ancestors 'self' *.ffxblue.com.au *.ffx.io *.smh.com.au *.theage.com.au *.brisbanetimes.com.au *.watoday.com.au *.cdn.ampproject.org *.platform.ink; upgrade-insecure-requests
+permissions-policy: camera=(), geolocation=(), microphone=()
+content-security-policy-report-only: child-src blob: data: https:; connect-src https: wss:; default-src blob: data: https: 'report-sample' 'unsafe-eval' 'unsafe-inline'; font-src data: https:; form-action https:; frame-src data: https:; img-src blob: data: https:; media-src blob: data: https:; object-src https:; script-src https: 'unsafe-eval' 'unsafe-inline'; style-src https: 'unsafe-inline'; report-uri https://csp.ffx.io/; report-to csp-endpoint
+x-frame-options: sameorigin
+x-render-name: rw
+referrer-policy: no-referrer-when-downgrade
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Age: 19
+Date: Mon, 06 Oct 2025 17:43:07 GMT
+X-Served-By: cache-syd10178-SYD, cache-syd10173-SYD, cache-iad-kcgs7200147-IAD
+X-Cache: MISS, HIT, MISS
+X-Cache-Hits: 0, 17, 0
+Vary: Accept-Encoding, app-vary, app-vary
+

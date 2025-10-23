@@ -1,0 +1,59 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:43:49 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 06 Oct 2025 18:43:49 GMT
+Location: https://vistaprint.com/
+Set-Cookie: __cf_bm=2x9AAm_15PqR6enkyMePkPwLUazFEQ07nRLr5_.A33k-1759772629-1.0.1.1-V3S9GLT4rVd9EmLH63z39iM23OFlqq48.QmH8H0q6lsk7cT.7gS05rgq0acBd107RVqzlhgf0bgLq.j32TRU_iblEJXgYvxQocbNzN.CFYg; path=/; expires=Mon, 06-Oct-25 18:13:49 GMT; domain=.vistaprint.com; HttpOnly
+Server: cloudflare
+CF-RAY: 98a6f6978bf69c5b-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:43:49 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 06 Oct 2025 18:43:49 GMT
+Location: https://www.vistaprint.com/
+Set-Cookie: __cf_bm=YIDsbGkIPLq6yFD3wD6il_XqWnOL8KdWZCbyKZbRqYo-1759772629-1.0.1.1-bHt46jKUsH3iZWy21fncKj764tMcrpMbFqLovS7FA1bpRWLhipVpbveJw7LniNY4xtCA0STFQoUYjuXPSjU3eKuiALVauiSrED56hqexmVw; path=/; expires=Mon, 06-Oct-25 18:13:49 GMT; domain=.vistaprint.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+Server: cloudflare
+CF-RAY: 98a6f6986f0ee6ec-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Mon, 06 Oct 2025 17:43:50 GMT
+Content-Type: text/html
+Connection: keep-alive
+Server: cloudflare
+CF-Ray: 98a6f6997fe058ce-IAD
+CF-Cache-Status: DYNAMIC
+Cache-Control: no-cache, private, max-age=0
+Expires: Thu, 01 Jan 1970 00:00:00 UTC
+Set-Cookie: _ub-s=-937058257; Path=/
+Set-Cookie: userContext={%22ctc%22:{%22v1%22:[%22map_bd7727%22%2C%22anonymous_users%22%2C%22login_prompt_not_logged_in_customers%22%2C%22no_account%22%2C%22map_25daa0%22%2C%22map_4eacbd%22%2C%22map_ea8c04%22%2C%22map_a04e0b%22%2C%22map_9dbe28%22%2C%22design_services_hub_inspiration%22%2C%222025_de_unrecognized%22%2C%22excludes_rnb_test_ca_uk%22%2C%22es_payment_before_brief_test%22%2C%22everyone%22%2C%222025_FR_Unrecognized%22%2C%22map_110087%22%2C%22map_92ba34%22%2C%22map_16de31%22%2C%22map_fbae2c%22%2C%22map_505954%22%2C%22map_7e8738%22%2C%22map_a833d4%22%2C%22map_84269f%22%2C%22map_bf6159%22%2C%22map_b5d500%22%2C%22map_aa5905%22%2C%22map_17c425%22%2C%22map_9b6d87%22%2C%22map_aee56b%22%2C%22map_5609f9%22%2C%22map_ac21ed%22%2C%22map_9aa48e%22%2C%22map_b444d0%22%2C%22map_ac03ac%22%2C%22map_344359%22%2C%22map_cdf934%22%2C%22map_ea7723%22%2C%22map_7a1cb1%22%2C%22map_bf3e5b%22%2C%22map_b64637%22%2C%22map_775ebf%22%2C%22map_90515b%22%2C%22map_6795d3%22%2C%22map_467351%22%2C%22map_cb6427%22%2C%22map_32d6db%22%2C%22map_27e4ec%22%2C%22map_f8f049%22%2C%22map_d89af0%22%2C%22map_f92e8b%22%2C%22map_27a61b%22%2C%22map_637d5c%22%2C%22map_0a21de%22%2C%22site_tagging_new_customer%22%2C%22new_user_registered_nonregistered%22%2C%22new_customer_fr_de_nl%22]}%2C%22userProfile%22:{%22v1%22:{%22culture%22:%22en-US%22}}}; path=/; domain=.vistaprint.com; expires=Tue, 07 Oct 2025 05:43:50 GMT
+Set-Cookie: ucSearchParams=%7B%7D; path=/; domain=.vistaprint.com; expires=Wed, 05 Nov 2025 17:43:50 GMT
+Set-Cookie: testUserId=_8e29f931-8b44-4dc6-908a-1614cb5e1605; path=/; domain=.vistaprint.com; Max-Age=15552000
+Set-Cookie: optimizelyEndUserId=; path=/; domain=.vistaprint.com; Max-Age=0
+Set-Cookie: ftContext=; path=/; domain=.vistaprint.com; Max-Age=0
+Set-Cookie: cf-region-code=VA; Secure; Path=/; SameSite=None
+Set-Cookie: cf-ipcountry=US; Secure; Path=/; SameSite=None
+Set-Cookie: vp-bot-score=1; Secure; Path=/; SameSite=None
+Set-Cookie: vp-bot-verified=false; Secure; Path=/; SameSite=None
+Set-Cookie: vp-bot-category=; Secure; Path=/; SameSite=None
+Set-Cookie: __cf_bm=tza3dUr6ZzAo_1y9Cn0XBAyXxNvY2QcYxmCDHYpVZ_Q-1759772630-1.0.1.1-vkmoeumrkOIXeBBCiXlowAc5icJ_Xksun9n7NxLlsE9mFXZbxMS0beyIBMMF4CafWww3jFZ8LPVyk6Abx7dq3QEn_QKj_NbH9aADYQQOxpA; path=/; expires=Mon, 06-Oct-25 18:13:50 GMT; domain=.vistaprint.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Pragma: no-cache
+server-timing: pre-render-fragment-info; dur=0.78, pre-render-fragment-map; dur=0.85, overrides-applied; dur=1.1, import-map; dur=9.78, pre-render-import-map; dur=9.89, pre-render-user-context; dur=10.11, pre-render-template; dur=10.88, pre-render-template; dur=10.93, url-metadata; dur=0.11, create-style; dur=0.13, create-page-head-footer; dur=4.66, core-bookends; dur=12.71, core-comms-bar; dur=12.89, home-experiments-mab-experiment-tracker; dur=12.97, main-sections-banner; dur=13.09, main-sections-home-slim-banner; dur=13.23, main-sections-categories; dur=13.38, main-sections-recommendations; dur=13.47, main-sections-feature-tile-row; dur=13.64, main-sections-feature-tile-row; dur=13.77, main-sections-feature-tile-row; dur=13.84, main-sections-banner; dur=13.95, main-sections-feature-tile-row; dur=14.11, main-sections-feature-tile-row; dur=14.22, core-social-curation; dur=14.63, marketing-email-subscription-component; dur=14.74, main-sections-seo-zone; dur=14.81, core-bookends; dur=14.93, finish-render-template; dur=22.67
+vp-ingress-route: Default
+x-powered-by: UBIK
+X-Ranked-Treatments: map_90515b
+x-skipper-location: us-east-1
+x-ubik-location: eu-west-1
+alt-svc: h3=":443"; ma=86400
+

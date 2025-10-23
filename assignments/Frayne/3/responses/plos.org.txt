@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:43:25 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: cloudflare
+Location: https://plos.org/
+CF-Ray: 98a6f5fd6d16e63f-IAD
+CF-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+ki-cache-type: None
+Ki-CF-Cache-Status: BYPASS
+ki-edge: v=22.3.1;mv=5.0.16
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+Set-Cookie: __cf_bm=fIrH6Aw_pEHL_bjQrIZeIgLverMKcx0TPV8GXIpVleg-1759772605-1.0.1.1-pDT9m34_hqTvEOjXlUo1_vxd8GFQKzlWyi_AV6N4T5qlewjVktAnaVWHDtHXdbGNuPAzMco6r5w_rpZpoDflzeD9AyfXK2n7RHYyubRZqcc; path=/; expires=Mon, 06-Oct-25 18:13:25 GMT; domain=.plos.org; HttpOnly
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=jSSFPOM0fZ84embRBw0gUzEFJlsg6JgmhfLMpzZ7EiSXycBTPlHuaQEhawJKFOlFR%2BN%2BL1UzAt%2Bwmj3mkuSXq5DsV4PFwMVlKHcSzF1WHRxz3zVlgmJAatHQ"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Mon, 06 Oct 2025 17:43:25 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Server: cloudflare
+CF-Ray: 98a6f5fe48313af3-IAD
+CF-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+Link: <https://plos.org/wp-json/>; rel="https://api.w.org/", <https://plos.org/wp-json/wp/v2/pages/51>; rel="alternate"; title="JSON"; type="application/json", <https://plos.org/>; rel=shortlink
+Vary: Accept-Encoding
+ki-cache-type: None
+Ki-CF-Cache-Status: BYPASS
+ki-edge: v=22.3.1;mv=5.0.16
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+x-kinsta-cache: HIT
+Set-Cookie: __cf_bm=vmxU46DD.8nGtv3ANem_BFb60_RJRFvtej6iqvaiuPg-1759772605-1.0.1.1-I3i7FeHXj4Y1xce3vaAmc3Q981ueVGpS_lWoA0FofWLXxU_dQ9mwq5AuiPVOye3ELz8ic5yo_JH5NbH6v1T8EhbkaMrp22iSTpiqen12scY; path=/; expires=Mon, 06-Oct-25 18:13:25 GMT; domain=.plos.org; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ZtJIa%2B%2BLYLBDYPQYe3Plp6%2Fu9J0G9PQdmB%2Fg%2B2mtrEOU7LU3Xxw7PWe5Qn5AjNDumbs%2BqLcIR689HgKIhhLS48lxGCtm3Gw5leK9hCef%2FHdfMfxUqOUeuiiy"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+alt-svc: h3=":443"; ma=86400
+

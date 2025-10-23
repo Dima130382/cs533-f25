@@ -1,0 +1,46 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Location: https://mozilla.org:443/
+Content-Length: 0
+Date: Mon, 06 Oct 2025 17:43:52 GMT
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 301 Moved Permanently
+cache-control: max-age=3600
+Content-Length: 162
+content-type: text/html
+date: Mon, 06 Oct 2025 17:43:52 GMT
+location: https://www.mozilla.org/
+server: nginx
+strict-transport-security: max-age=60; includeSubDomains
+x-backend-server: TS
+via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 46876
+via: 1.1 google, 1.1 varnish, 1.1 varnish
+etag: "f8846dc17d48bc1b8faebacc22a686b9"
+x-content-type-options: nosniff
+x-clacks-overhead: GNU Terry Pratchett
+expires: Mon, 06 Oct 2025 17:44:59 GMT
+x-frame-options: DENY
+referrer-policy: strict-origin-when-cross-origin
+cross-origin-opener-policy: same-origin
+server: granian
+content-type: text/html; charset=utf-8
+x-backend-server: bedrock-657947c8f7-gz424.gcp-us-west1
+content-security-policy: font-src 'self' www.mozilla.org; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://accounts.firefox.com/ https://basket.mozilla.org o1069899.ingest.sentry.io o1069899.sentry.io region1.google-analytics.com www.google-analytics.com www.googletagmanager.com www.mozilla.org/submit/bedrock/; form-action 'self' https://accounts.firefox.com/ https://basket.mozilla.org; frame-src 'self' accounts.firefox.com js.stripe.com www.google-analytics.com www.googletagmanager.com www.youtube.com; base-uri 'none'; media-src 'self' assets.mozilla.net videos.cdn.mozilla.net www.mozilla.org; img-src 'self' blog.mozilla.org data: images.ctfassets.net www.google-analytics.com www.googletagmanager.com www.mozilla.org; style-src 'self' 'unsafe-inline' www.mozilla.org; default-src 'self' *.mozilla.org; script-src 'self' 'unsafe-eval' 'unsafe-inline' js.stripe.com s.ytimg.com tagmanager.google.com www.google-analytics.com www.googletagmanager.com www.mozilla.org www.youtube.com; object-src 'none'
+cache-control: max-age=600
+content-security-policy-report-only: font-src 'self' www.mozilla.org; frame-ancestors 'none'; upgrade-insecure-requests; connect-src 'self' https://accounts.firefox.com/ https://basket.mozilla.org o1069899.ingest.sentry.io o1069899.sentry.io region1.google-analytics.com www.google-analytics.com www.googletagmanager.com www.mozilla.org/submit/bedrock/; form-action 'self' https://accounts.firefox.com/ https://basket.mozilla.org; frame-src 'self' accounts.firefox.com js.stripe.com www.google-analytics.com www.googletagmanager.com www.youtube.com; base-uri 'none'; media-src 'self' assets.mozilla.net videos.cdn.mozilla.net www.mozilla.org; img-src 'self' blog.mozilla.org data: images.ctfassets.net www.google-analytics.com www.googletagmanager.com www.mozilla.org; style-src 'self' www.mozilla.org; default-src 'self' *.mozilla.org; script-src 'self' 'unsafe-eval' 'unsafe-inline' js.stripe.com s.ytimg.com tagmanager.google.com www.google-analytics.com www.googletagmanager.com www.mozilla.org www.youtube.com; object-src 'none'
+strict-transport-security: max-age=31536000
+Accept-Ranges: bytes
+Date: Mon, 06 Oct 2025 17:43:52 GMT
+Age: 533
+X-Served-By: cache-iad-kiad7000139-IAD, cache-iad-kiad7000053-IAD
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1759772633.883689,VS0,VE1
+Vary: Accept-Language, Accept-Encoding
+

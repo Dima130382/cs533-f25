@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:44:49 GMT
+Server: Kestrel
+Location: http://www.microsoft.com/net
+Strict-Transport-Security: max-age=31536000
+
+HTTP/1.1 307 Temporary Redirect
+Content-Type: text/html
+Content-Length: 0
+Location: https://casoneroutegold-prod-bggfgca0dkaag8a8.b01.azurefd.net/net
+x-azure-ref: 20251006T174450Z-178ff9878ffwzvrvhC1TEBes2s00000006wg00000000dhn8
+Date: Mon, 06 Oct 2025 17:44:50 GMT
+Connection: keep-alive
+TLS_version: UNKNOWN
+ms-cv: CASMicrosoftCV10b78cc7.0
+ms-cv-esi: CASMicrosoftCV10b78cc7.0
+X-RTag: OneRoute_Default
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:44:51 GMT
+Connection: keep-alive
+Location: https://dotnet.microsoft.com/
+Strict-Transport-Security: max-age=31536000
+x-azure-ref: 20251006T174451Z-1668dccb65dm8dtghC1BL1qy6n0000000aq0000000000p76
+X-AFD: WWWRule
+X-Cache: CONFIG_NOCACHE
+
+HTTP/1.1 403 Forbidden
+Date: Mon, 06 Oct 2025 17:44:51 GMT
+Content-Type: text/html
+Content-Length: 1484
+Connection: close
+Cache-Control: no-store
+x-azure-ref: 20251006T174451Z-1668dccb65d8f9x8hC1BL1xbg00000001y0000000000bnxw
+X-Cache: CONFIG_NOCACHE
+

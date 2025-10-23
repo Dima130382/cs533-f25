@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.fandom.com/explore
+Accept-Ranges: bytes
+Date: Mon, 06 Oct 2025 17:43:26 GMT
+X-Served-By: cache-iad-kiad7000062-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1759772607.712453,VS0,VE2
+Vary: Accept-Encoding
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 698593
+x-envoy-upstream-service-time: 448
+cache-control: max-age=60,stale-while-revalidate=86400,stale-if-error=86400
+content-security-policy-report-only: default-src https: 'self' data: blob:; script-src https: 'self' data: 'unsafe-inline' 'unsafe-eval' blob:; style-src https: 'self' 'unsafe-inline' blob:; report-uri https://services.fandom.com/csp-logger/csp/upstream
+content-security-policy: upgrade-insecure-requests
+content-type: text/html; charset=UTF-8
+server: envoy
+link: <https://www.fandom.com/wp-json/>; rel="https://api.w.org/"
+link: <https://www.fandom.com/?p=3211>; rel=shortlink
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Age: 0
+Date: Mon, 06 Oct 2025 17:43:27 GMT
+X-Served-By: cache-sjc1000096-SJC, cache-sjc1000096-SJC, cache-iad-kiad7000155-IAD
+X-Cache: MISS, MISS, MISS
+X-Cache-Hits: 0, 0, 0
+X-Timer: S1759772607.820712,VS0,VE652
+Vary: X-Vary-String, Fastly-SSL, X-Vary-String, Fastly-SSL, Accept-Language,Geo-Region,Accept-Encoding
+Set-Cookie: wikia_beacon_id=glsn6FL1A6; domain=.fandom.com; path=/; expires=Sat, 04 Apr 2026 17:43:27 GMT; SameSite=None; Secure;
+Set-Cookie: _b2=YOTpfxqaPV.1759772606821; domain=.fandom.com; path=/; expires=Wed, 06 Oct 2027 17:43:27 GMT; SameSite=None; Secure;
+Set-Cookie: exp_bucket=v6-97; domain=.fandom.com; path=/; expires=Wed, 06 Oct 2027 17:43:27 GMT;
+Set-Cookie: exp_bucket_2=v5-77; domain=.fandom.com; path=/; expires=Wed, 06 Oct 2027 17:43:27 GMT;
+Set-Cookie: Geo={%22region%22:%22VA%22%2C%22city%22:%22virginia beach%22%2C%22country_name%22:%22united states%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/; domain=.fandom.com; SameSite=None; Secure;
+

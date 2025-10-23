@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:43:30 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 06 Oct 2025 18:43:30 GMT
+Location: https://www.standard.co.uk/
+Server: cloudflare
+CF-RAY: 98a6f61d7962b964-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Mon, 06 Oct 2025 17:43:30 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Server: cloudflare
+CF-Ray: 98a6f61ede46c990-IAD
+CF-Cache-Status: HIT
+Age: 0
+Cache-Control: stale-if-error=604800, public, stale-while-revalidate=3600, max-age=60, s-maxage=10800
+Strict-Transport-Security: max-age=63072000;  preload
+Vary: Origin,Accept-Encoding
+access-control-allow-credentials: true
+content-security-policy: frame-ancestors 'self' https://*.brightsites.co.uk;
+permissions-policy: camera=(), geolocation=(), microphone=(), midi=()
+speculation-rules: "/speculationrules.json"
+surrogate-key: standard.co.uk v2.7.7 section_28 web_standard_prod_section_28_publication_1 standard_prod web_standard_prod web_standard_prod_section_28 web_standard_prod_publication_1 web_standard_prod_2025-10-06 web_standard_prod_2025-10-06_publication_1 standard.co.uk_v2.7.7 v2.7.7_section standard.co.uk_v2.7.7_section
+x-content-type-options: nosniff
+Set-Cookie: __cf_bm=.PllL2QwjjdQGDpPKM5e5ds_VxW9P39ljx_gzc9eEpQ-1759772610-1.0.1.1-TeuCwdWBCdDIBUmsc7OcvAYsCPyXFsVZhXK97ccSXpqZF5A2HFkaClmbZAEPwGKHz.CKdyLkZLhP73TyC.OjOYdAoyOrrF7EfJ4VGbNns8w; path=/; expires=Mon, 06-Oct-25 18:13:30 GMT; domain=.www.standard.co.uk; HttpOnly; Secure; SameSite=None
+alt-svc: h3=":443"; ma=86400
+

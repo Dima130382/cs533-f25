@@ -1,0 +1,47 @@
+HTTP/1.1 301 Moved permanently
+set-cookie: is_gdpr=0; Path=/; Domain=.yandex.com; Expires=Wed, 06 Oct 2027 17:44:25 GMT
+set-cookie: is_gdpr_b=CK3jUhDM2wIoAg==; Path=/; Domain=.yandex.com; Expires=Wed, 06 Oct 2027 17:44:25 GMT
+set-cookie: _yasc=PrM8MvHMFrDgRP1K3bYVFvIknXUSBjuYHfYa6HqDzPeIE9LMtQ1ZWtG4Er+nPfoe2Q==; domain=.yandex.com; path=/; expires=Thu, 04 Oct 2035 17:44:25 GMT; secure
+set-cookie: bh=YPn/j8cGagPE8AI=; Path=/; Domain=.yandex.com; Expires=Tue, 10 Nov 2026 17:44:25 GMT
+X-Content-Type-Options: nosniff
+Cache-Control: max-age=86400,private
+Portal: Home
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Sec-CH-Viewport-Width, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width, Sec-Ch-Viewport-Height
+Date: Mon, 06 Oct 2025 17:44:25 GMT
+Location: https://yandex.com/
+X-Yandex-Req-Id: 1759772665771737-1617982873834623984-balancer-l7leveler-kubr-yp-sas-207-BAL
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+
+HTTP/1.1 200 Ok
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Sec-CH-Viewport-Width, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width, Sec-Ch-Viewport-Height
+Set-Cookie: yandex_gid=21206; Path=/; Domain=yandex.com; Expires=Wed, 05 Nov 2025 17:44:26 GMT
+Set-Cookie: yp=1762364666.ygu.1; Path=/; Domain=yandex.com; Expires=Thu, 04 Oct 2035 17:44:26 GMT
+Set-Cookie: is_gdpr=0; Path=/; Domain=.yandex.com; Expires=Wed, 06 Oct 2027 17:44:26 GMT
+Set-Cookie: is_gdpr_b=CK3jUhDM2wIoAg==; Path=/; Domain=.yandex.com; Expires=Wed, 06 Oct 2027 17:44:26 GMT
+Set-Cookie: _yasc=xiHmB9FDQAZGUNJd0/TINlrsYcCIo3fwNBET3+e8xZ/3Gq08qcfR06QaN+4bRoxuCw==; domain=.yandex.com; path=/; expires=Thu, 04 Oct 2035 17:44:26 GMT; secure
+Set-Cookie: i=uJFNDWRZa2Mtrqsl/I/2n1xZhy6v5sKZFS0rnvVBNhw62Xvskfu1l3GcPKLV8TZz5NuepaOwFMwqXjfpg0TI9zXSrmI=; Expires=Wed, 06-Oct-2027 17:44:26 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly
+Set-Cookie: yandexuid=2460159841759772666; Expires=Wed, 06-Oct-2027 17:44:26 GMT; Domain=.yandex.com; Path=/; Secure
+Set-Cookie: yashr=9823945171759772666; Path=/; Domain=.yandex.com; Expires=Tue, 06 Oct 2026 17:44:26 GMT; Secure; HttpOnly; Partitioned
+Set-Cookie: bh=YPr/j8cGagPE8AI=; Path=/; Domain=.yandex.com; Expires=Tue, 10 Nov 2026 17:44:26 GMT
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+X-Frame-Options: DENY
+X-Yandex-Req-Id: 1759772666291075-1463012525846015984-balancer-l7leveler-kubr-yp-sas-120-BAL
+X-Content-Type-Options: nosniff
+Content-Security-Policy: connect-src https://*.strm.yandex.net https://mc.yandex.com https://yandex.com https://surveys.yandex.ru https://yastatic.net https://yastat.net https://mc.yandex.ru https://*.mc.yandex.ru https://adstat.yandex.ru https://mc.admetrica.ru https://yandexmetrica.com:* https://*.yandex.net https://an.yandex.ru https://yandex.ru;img-src https://*.verify.yandex.ru https://*.ya.ru https://*.yandex.ru https://ya.ru https://yabs.yandex.by https://yabs.yandex.com.tr https://yabs.yandex.kz https://yabs.yandex.ru https://yabs.yandex.uz https://yandex.ru https://yandex.com https://favicon.yandex.net https://yastatic.net https://avatars.mds.yandex.net blob: data: 'self' https://mc.admetrica.ru https://mc.yandex.com https://*.mc.yandex.ru https://adstat.yandex.ru https://mc.yandex.ru;script-src 'unsafe-inline' https://mc.yandex.com https://yandex.com https://surveys.yandex.ru https://yastatic.net https://mc.yandex.ru https://*.mc.yandex.ru https://adstat.yandex.ru 'unsafe-eval';frame-src https://*.ya.ru https://*.yandex.ru https://ya.ru https://yandex.ru https://yandex.com https://mc.yandex.ru https://mc.yandex.md https://mc.yandex.com https://*.ya.ru https://*.yandex.ru https://ya.ru https://yandex.ru;style-src 'unsafe-inline' https://yastatic.net;report-uri https://csp.yandex.net/csp?project=morda&from=morda.big.com&showid=1759772666291075-1463012525846015984-balancer-l7leveler-kubr-yp-sas-120-BAL&h=home-mordago-stable-web-backend-70.vla.yp-c.yandex.net&yandexuid=2460159841759772666&&version=2025-10-06-959&adb=0;media-src https://yastatic.net;object-src 'none';base-uri 'none';default-src 'self' https://yastatic.net https://yastat.net;font-src https://yastatic.net
+Reporting-Endpoints: default="https://yandex.com/portal/front/reports/?slots=912284%2C0%2C7&region=21206&reqid=1759772666291075-1463012525846015984-balancer-l7leveler-kubr-yp-sas-120-BAL&dc=vla&page=desktop.global&enableOtherTypes=0"
+Link: <//yastatic.net/s3/frontend/yandex-int/mini-suggest/_/ZoL3iMzi.js>;  rel="preload"; as="script"; crossorigin="anonymous";
+Link: <https://yastatic.net/react/19.1.0/react-with-dom.min.js>;  rel="preload"; as="script"; crossorigin="anonymous";
+Link: <https://yastatic.net/s3/home-static/_/nova/6eb964faeb9c7cdf83130f31ad5cd5ce9cfda2f39578cd1690c35fc0e6e9d78a.js>;  rel="preload"; as="script"; crossorigin="anonymous";
+Link: <https://yastatic.net/s3/home-static/_/nova/c1f06228e70414bc626212631d55e4e08fbcce738679400962ddd1e647ea1133.js>;  rel="preload"; as="script"; crossorigin="anonymous";
+Link: <https://yastatic.net/s3/home-static/_/nova/ee7135547596165e78e25b110a6ebf292f70b39654ebd4f087ca1dc95720cf51.js>;  rel="preload"; as="script"; crossorigin="anonymous";
+Date: Mon, 06 Oct 2025 17:44:26 GMT
+Expires: Mon, 06 Oct 2025 17:44:26 GMT
+Vary: Cookie,Accept-Language,Accept-Encoding
+Last-Modified: Mon, 06 Oct 2025 17:44:26 GMT
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+

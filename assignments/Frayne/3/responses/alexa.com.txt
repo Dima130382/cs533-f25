@@ -1,0 +1,57 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Mon, 06 Oct 2025 17:43:47 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://alexa.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 e96ed109dde78412c6b4651755281804.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD55-P8
+X-Amz-Cf-Id: jgRGGSTEmT35Vspm41fKSWPY7wkNC5vjWIKaVnIWOSFN80G_9tRUIw==
+
+HTTP/1.1 302 Moved Temporarily
+Content-Type: application/octet-stream
+Content-Length: 0
+Connection: keep-alive
+Server: awselb/2.0
+Date: Mon, 06 Oct 2025 17:43:28 GMT
+Location: https://alexa.amazon.com/home
+X-Cache: Hit from cloudfront
+Via: 1.1 556fb8386f039ca8ee6a5b3f9ad1828c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD55-P8
+X-Amz-Cf-Id: iO4C98VVqyWW87uudOq6kmsbgIHIJAehnjObdyRYc5pSAE8rTb7_9Q==
+Age: 19
+
+HTTP/1.1 302 Found
+Connection: keep-alive
+Server: Server
+Date: Mon, 06 Oct 2025 17:43:47 GMT
+Vary: Content-Type,Accept-Encoding,User-Agent
+x-amz-rid: 6FQNPRN6NZ8GP31NWC1V
+Set-Cookie: session-id=133-8351455-4638241; Domain=.amazon.com; Expires=Tue, 01 Jan 2036 08:00:01 GMT; Path=/; Secure
+Set-Cookie: session-id-time=2082787201l; Domain=.amazon.com; Expires=Tue, 01 Jan 2036 08:00:01 GMT; Path=/; Secure
+Access-Control-Allow-Headers: accept, origin, x-requested-with, content-type, anti-csrftoken-a2z, csrf
+Access-Control-Allow-Methods: GET, OPTIONS, POST, PUT, DELETE
+Location: https://www.amazon.com/dp/B0DCCNHWV5?ref=aucc_web_red_xaa_evgn_tx_0002&nodl=0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Cache: Miss from cloudfront
+Via: 1.1 4d8384431ad0b8e60c79585b2d139316.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P4
+X-Amz-Cf-Id: pno2KktheBGigyG1YvIJmPEglD9g3Px8HRNVbmFZ779ZLp4I1Bs02w==
+
+HTTP/1.1 503 Service Unavailable
+Content-Type: text/html
+Connection: keep-alive
+Date: Mon, 06 Oct 2025 17:43:47 GMT
+expires: -1
+cache-control: no-cache
+pragma: no-cache
+X-Cache: Error from cloudfront
+Via: 1.1 87e6563b344d9d0eb9b5aa233652bc74.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD61-P2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 16xNrxkft6OsMULoBdoOA3azS4aRRhB6ftxJJXzOltsm_aLGq9CCXg==
+

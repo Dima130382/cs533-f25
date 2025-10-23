@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:42:53 GMT
+Content-Type: text/html
+Content-Length: 128
+Connection: keep-alive
+Location: https://www.namecheap.com/
+ETag: "68b1b744-80"
+Server: namecheap-web
+Strict-Transport-Security: max-age=16000000
+
+HTTP/1.1 403 Forbidden
+Date: Mon, 06 Oct 2025 17:42:53 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 7046
+Connection: close
+accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cf-mitigated: challenge
+critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+cross-origin-embedder-policy: require-corp
+cross-origin-opener-policy: same-origin
+cross-origin-resource-policy: same-origin
+origin-agent-cluster: ?1
+permissions-policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+referrer-policy: same-origin
+server-timing: chlray;desc="98a6f536a9007fd5"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=3JLyIKvak4DQ.N3OabIyu4q5tchTRtsg_NxXgqetuHo-1759772573-1.0.1.1-GhsIHYlOfyXEWlMaeXqr.EfGZM936QD7e6Ta0UnoJoFvfEMmOjteN_nKN9sIjoq_i_epYStPnt66KyACockp9ZEsGNnAzOuaNJ1QETikP_Q; path=/; expires=Mon, 06-Oct-25 18:12:53 GMT; domain=.namecheap.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Server: cloudflare
+CF-RAY: 98a6f536a9007fd5-IAD
+

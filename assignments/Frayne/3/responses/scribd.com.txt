@@ -1,0 +1,61 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://scribd.com/
+Accept-Ranges: bytes
+Date: Mon, 06 Oct 2025 17:43:56 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kcgs7200077-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+Vary: 
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.scribd.com/
+Accept-Ranges: bytes
+Date: Mon, 06 Oct 2025 17:43:56 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000072-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+Vary: 
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Set-Cookie: scribd_ubtc=u%3D5f1b0b8f-1033-4d70-b289-56eb6810c613%26h%3DlYNhNPBqfhoB1eCA43bD4X3eRyJ17D68RNpELUcuXRI%3D; Domain=.scribd.com; Path=/; Expires=Wed, 12 Sep 2125 17:43:56 GMT; SameSite=None; Secure
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 1354375
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, no-cache
+Content-Security-Policy: frame-ancestors 'self'
+Etag: W/"48d4567daa92a74c52e5c95034a92368"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: envoy
+Status: 200 OK
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Envoy-Upstream-Service-Time: 1301
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 0c2e97f30eb9d3b67dab572abc624faec9f2e09a0a1364d94866437d9f9e9dba
+X-Runtime: 0.316469
+X-Xss-Protection: 1; mode=block
+Accept-Ranges: bytes
+Date: Mon, 06 Oct 2025 17:43:56 GMT
+Via: 1.1 varnish
+Age: 16755
+X-Served-By: cache-iad-kiad7000127-IAD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1759772636.437972,VS0,VE4
+Vary: X-Language-Locale,X-Scribd-Country-Code,X-Bot,Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Set-Cookie: scribd_ubtc=u%3Dea6166f2-ac76-4787-a416-f347ff047d5f%26h%3Dh3kt31rhj8uhTnTQIV%2FGrfkD4%2FyBHI8dJ4rHmh4OawU%3D; Domain=.scribd.com; Path=/; Expires=Wed, 12 Sep 2125 17:43:56 GMT; SameSite=None; Secure
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+

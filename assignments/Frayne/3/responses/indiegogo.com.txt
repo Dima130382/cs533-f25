@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 06 Oct 2025 17:43:51 GMT
+Content-Type: text/html
+Content-Length: 162
+Location: https://www.indiegogo.com/
+Via: 1.1 google
+
+HTTP/1.1 200 OK
+Date: Mon, 06 Oct 2025 17:43:51 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Server: nginx
+content-security-policy: frame-ancestors 'self'
+set-cookie: cohort=; path=/; expires=Mon, 13 Oct 2025 17:43:51 GMT
+set-cookie: visitor_id=a13fcef997bc25531e965d82a8042c8578386462f940f6a255a23a20a35e6552; path=/; expires=Fri, 06 Oct 2045 17:43:51 GMT
+set-cookie: analytics_session_id=cad988262f940f3d94894b8bd8e6c1fc3fdff76ef9a09fe8d7ea944375c73da5; path=/; expires=Mon, 06 Oct 2025 18:13:51 GMT
+set-cookie: accessibilityNoticeRenderedOnce=true; path=/; expires=Tue, 06 Oct 2026 17:43:51 GMT
+set-cookie: recent_project_ids=; path=/; expires=Fri, 06 Oct 2045 17:43:51 GMT
+set-cookie: _session_id=f48c39eb8527bea7b6011561c620dcd0; path=/; expires=Tue, 06 Oct 2026 17:43:51 GMT; secure; HttpOnly
+x-request-id: ba7c69dc-c0c0-4446-8e6e-1487087ca583
+x-frame-options: SAMEORIGIN
+x-download-options: noopen
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+etag: W/"2052a6905ae7ab9afda63ff4ff2c186f"
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.474104
+Set-Cookie: x-spec-id=253a4fe691eab81f20b9b57a6ed7885f; Max-Age=320000000; Path=/; Domain=indiegogo.com; SameSite=None; Secure;
+

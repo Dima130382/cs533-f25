@@ -1,0 +1,57 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Mon, 06 Oct 2025 17:44:32 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://booking.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 a1f9184f86aacfcb380aff6f877cd89a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL51-P3
+X-Amz-Cf-Id: 1JI123wJLQyj6U9og7pWdbsLDTtDX0lKQNbjpZuBCATDzGQOlKKTVQ==
+Accept-CH: ECT
+
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+server: nginx
+date: Mon, 06 Oct 2025 17:44:33 GMT
+location: https://www.booking.com/
+nel: {"max_age":604800,"report_to":"default","failure_fraction":0.1}
+report-to: {"endpoints":[{"url":"https://nellie.booking.com/report"}],"group":"default","max_age":604800}
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+content-security-policy-report-only: frame-ancestors 'none'; report-uri https://nellie.booking.com/csp-report-uri?type=report&tag=112&pid=dc577cc0428c0342&e=UmFuZG9tSVYkc2RlIyh9YdPFJGDFjZSqK4Z-4dNTMVsB95CMq6hkaGwIt0GUqR9eeggZtG6wZz4
+x-terms-of-service: https://www.booking.com/content/terms.html
+x-xss-protection: 1; mode=block
+set-cookie: bkng_sso_auth=CAIQm8CWywYaZtUH9viFcTfEGt/yKJR7Gi01j6DkW8tUjGFHBLuHrjP76uiZCEzBnEwWhhXTosUIBzR8AwXPkXmjbnsLK2ejEwJxRNCGiwBOzWWLoLx7CLOEKWAiH6lX7ILgRBhS5dGOEPivw9AgFg==; Domain=.booking.com; Path=/; Expires=Wed, 06 Oct 2027 17:44:33 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: pcm_consent=analytical%3Dtrue%26countryCode%3DUS%26consentId%3D52a46c26-f8db-4d9b-aa06-4d93ad1113ee%26consentedAt%3D2025-10-06T17%3A44%3A33.105Z%26expiresAt%3D2026-04-04T17%3A44%3A33.105Z%26implicit%3Dtrue%26marketing%3Dtrue%26regionCode%3DVA%26regulation%3Dnone%26legacyRegulation%3Dnone; Domain=.booking.com; Path=/; Expires=Tue, 06 Oct 2026 17:44:33 GMT; HttpOnly; Secure; SameSite=Lax
+X-Cache: Miss from cloudfront
+Via: 1.1 75e6abfbc0fa1366e1af36850a56c78e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL51-P3
+X-Amz-Cf-Id: DePaFAyurEre_Sg8JrpzE-qQTkZO3bTMG_pKeBwmSqYOo_LuMVHVMQ==
+Accept-CH: ECT
+Server-Timing: cdn-upstream-layer;desc="REC",cdn-upstream-dns;dur=0,cdn-upstream-connect;dur=0,cdn-upstream-fbl;dur=101,cdn-cache-miss,cdn-pop;desc="PHL51-P3",cdn-rid;desc="DePaFAyurEre_Sg8JrpzE-qQTkZO3bTMG_pKeBwmSqYOo_LuMVHVMQ==",cdn-downstream-fbl;dur=126
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+server: nginx
+date: Mon, 06 Oct 2025 17:44:33 GMT
+nel: {"max_age":604800,"report_to":"default","failure_fraction":0.1}
+report-to: {"endpoints":[{"url":"https://nellie.booking.com/report"}],"group":"default","max_age":604800}
+set-cookie: _implmdnbl=2__1__0; path=/; expires=Wed, 07-Oct-2020 17:44:33 GMT; HttpOnly
+set-cookie: bkng=11UmFuZG9tSVYkc2RlIyh9Yaa29%2F3xUOLbKE7bjkbYWznlSlRZNNCt3oDfb0DQp0Arv%2FDCZeVsjHyD%2FlAJYpIFoa3D1waliemw599Rnux5swgDNQ8KryG0OnMKOmoNfSyHslQ5wzpTfzzYPr8Mv3dNW6xmxuXXiuo4eVtsTPN6lIIQV7UKsIVNkOm8DXauzVQy; domain=.booking.com; path=/; expires=Sat, 05-Oct-2030 17:44:33 GMT; Secure; HTTPOnly; SameSite=None
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-recruiting: Like HTTP headers? Come write ours: https://careers.booking.com
+content-security-policy-report-only: base-uri 'none'; object-src 'none'; report-uri https://nellie.booking.com/csp-report-uri?type=report&tag=146&pid=a8c87cc0312d0d31&e=UmFuZG9tSVYkc2RlIyh9YYYdGuViorKPZBRHyqtyTt2k_PJw5jJ1w5kr-3Q8DPjG; script-src 'self' 'nonce-298LLAZCefIhjpJ' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: 'sha256-47mKTaMaEn1L3m5DAz9muidMqw636xxw7EFAK/YnPdg=' 'sha256-iry7oJKoKJ+9HSjmU3E1TlRlpSesJWZ1vapuUz2MP38='
+x-terms-of-service: https://www.booking.com/content/terms.html
+x-xss-protection: 1; mode=block
+set-cookie: bkng_sso_auth=CAIQm8CWywYaZvpeh7u/fB4LzTXhjECU8aFN0Mx3z88OnU2t2UtIuB7TZLEJi5MZihoqxo87CAZp8EMONx4odoR6wgzqjjbguj4UoKP9P8QI+zaijDqQ3v+8lfofEe09jxmCPum2V0qoqnXa7+s1yw==; Domain=.booking.com; Path=/; Expires=Wed, 06 Oct 2027 17:44:33 GMT; HttpOnly; Secure; SameSite=Lax
+set-cookie: pcm_consent=analytical%3Dtrue%26countryCode%3DUS%26consentId%3Dfe6bf59e-bb55-4885-903e-60a4d8262997%26consentedAt%3D2025-10-06T17%3A44%3A33.353Z%26expiresAt%3D2026-04-04T17%3A44%3A33.353Z%26implicit%3Dtrue%26marketing%3Dtrue%26regionCode%3DVA%26regulation%3Dnone%26legacyRegulation%3Dnone; Domain=.booking.com; Path=/; Expires=Tue, 06 Oct 2026 17:44:33 GMT; HttpOnly; Secure; SameSite=Lax
+X-Cache: Miss from cloudfront
+Via: 1.1 75f253014e9c4f54299b19eb4e0fc168.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL51-P3
+X-Amz-Cf-Id: QDl7SBju6D5t111zCwRSDDl4_xuhSvtYctX_pnkeABHegdjbI9oksg==
+Accept-CH: ECT
+Server-Timing: cdn-upstream-layer;desc="REC",cdn-upstream-dns;dur=0,cdn-upstream-connect;dur=0,cdn-upstream-fbl;dur=665,cdn-cache-miss,cdn-pop;desc="PHL51-P3",cdn-rid;desc="QDl7SBju6D5t111zCwRSDDl4_xuhSvtYctX_pnkeABHegdjbI9oksg==",cdn-downstream-fbl;dur=702
+

@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:43:04 GMT
+Connection: keep-alive
+Location: https://tvtropes.org/
+Server: cloudflare
+CF-RAY: 98a6f57ffa960604-IAD
+
+HTTP/1.1 200 OK
+Date: Mon, 06 Oct 2025 17:43:05 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Server: cloudflare
+vary: Accept-Encoding
+Cache-Control: public, s-maxage=180, max-age=0
+link: <https://assets.tvtropes.org/design/assets/bundle.css?rev=8dc2ef2b86ce864f0e6e4b541bec2c2e99d9869a>; rel=preload; as=style;
+x-frame-options: DENY
+CF-Cache-Status: HIT
+Age: 20
+Last-Modified: Mon, 06 Oct 2025 17:42:45 GMT
+CF-RAY: 98a6f580aea82d21-IAD
+

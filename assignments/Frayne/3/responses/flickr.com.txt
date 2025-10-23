@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Mon, 06 Oct 2025 17:44:22 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://flickr.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 f9efe5e72b7e5cc47bf34a0b0debcbe2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: j5AXAwEUy9PNAE3A4laR6-XcCWn6F90iNrgY8WUSVGvEIKXXKePQIQ==
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 46518
+Connection: keep-alive
+Date: Mon, 06 Oct 2025 17:44:22 GMT
+pragma: no-cache
+last-modified: Mon, 06 Oct 2025 04:36:44 GMT
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+referrer-policy: same-origin
+cross-origin-opener-policy: same-origin-allow-popups
+cache-control: no-cache, max-age=0, must-revalidate, no-store
+X-Cache: Miss from cloudfront
+Via: 1.1 7f7e359e1c06a914d3d305785359b84c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: L-JChig6Gv4g5FqEaGSTwldJo0h_eDDEgZROHCfkptwJcbg5axO7sA==
+

@@ -1,0 +1,50 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:43:05 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: keep-alive
+ER-Request-ID: 6993fb25fb4388578be410257aa58bd7
+Pragma: no-cache
+Cache-Control: no-store, max-age=0
+X-Content-Type-Options: nosniff
+Location: https://tmz.com/
+Server: EasyRedir
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:43:05 GMT
+Content-Type: text/html
+Content-Length: 155
+Connection: keep-alive
+ER-Request-ID: 3315961c1c1d2abadbff994881764e94
+Pragma: no-cache
+Cache-Control: no-store, max-age=0
+X-Content-Type-Options: nosniff
+ER-Rule-Id: r-006bd06f-a30a-4117-97f7-edd8de7e158a
+Location: https://www.tmz.com/
+Server: EasyRedir
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Date: Mon, 06 Oct 2025 17:43:03 GMT
+Server: Apache
+Cache-Control: max-age=30, public, s-maxage=60
+Link: <https://imagez.tmz.com>; rel="preconnect"; crossorigin="anonymous",<https://static.tmz.com>; rel="preconnect"; crossorigin="anonymous",<https://strike.fox.com>; rel="preconnect",<https://prod-foxkit.kts.fox>; rel="preconnect",<https://prod-foxkit.kts.fox>; rel="preconnect"
+x-fpc-key: 9e4e124dd26ff10f21514103a1262bfd855aed20a2e0b371a6cd3c6d983d027d
+x-fpc: hit
+Content-Security-Policy: upgrade-insecure-requests;
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: unsafe-url
+X-Frame-Options: SAMEORIGIN
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-mobile=*, ch-ua-model=*, ch-ua-platform-version=*, ch-ua-platform=*, ch-ua=*
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Platform, Sec-CH-UA
+Vary: CloudFront-Viewer-Country,Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 649b4de6ebe50fb3c542f3d95c8ed8ba.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: R0qOAU_8pyd8Sz3Y-3FbAs00Yzbw66uNGY3FfymPCvYLg2LnDoHAkA==
+Age: 3
+

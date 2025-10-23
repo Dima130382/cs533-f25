@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:42:43 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://terra.com.br/
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 06 Oct 2025 17:42:44 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 233
+Connection: keep-alive
+X-Http-Reason: Moved Permanently
+Location: https://www.terra.com.br/
+Cache-Control: max-age=604800
+Expires: Thu, 02 Oct 2025 19:26:46 GMT
+X-Mt-Cache: HIT
+X-Xact-Uuid: eb380880-0f98-434c-bd3f-3f64c096d280
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+X-Xact-Uuid: 8dbdaf47-671d-4937-8c6a-bc8fae9e6eb8
+X-Xact-Montador-Time: 1759772562
+X-Http-Reason: OK
+X-Cache-Profile: terra360-cover
+Cache-Control: max-age=60, stale-if-error=864000
+X-Cms-Delivery-Uuid: 3d7dc5dc-2ba1-4d83-a8c0-5771342d2c80
+X-Original-Ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+X-Mt-Cache: HIT
+X-Frame-Options: SAMEORIGIN
+Date: Mon, 06 Oct 2025 17:42:52 GMT
+Connection: keep-alive
+Akamai-GRN: 0.2dcd3617.1759772572.720c3243
+Strict-Transport-Security: max-age=63072000 ; includeSubDomains
+Set-Cookie: _abck=F6261846C40630F3EA2A96BD54A3DB17~-1~YAAQLc02F9Z0ZaGZAQAAs3qeug4Ar3wuWSEHXSHe/2lrk6eonSh30nZdR0Fc5ryyw2eE+rZ0QbDaATCOuf1nr8Nbqje5XP5G7moy+2GPOi8sx2Ule1HjZGLSb60KUannwJ3SncqKZXwtyo7Pt27nryEBmeNEy81IJKId0ox2c8f7IGcMqussq4ekleI2INSfZg9J7nS52ELMO1Bq2jzY+zC/+qd6AAC8xtfmG9XecT/J8DUD/5EJle4shfJbYHZ6Bm6ymgi/yXx8EfpHhI9Gi0hKazp4C1HlOSrhyeXphvbiTpk5ODWxQpGN1sg/DXPhhTCXZRSFOmyBHTH6tqVEX76WwjD7eG17X5AZkB9515Ptk9cLg0BQ96/TVW/vULWacTRPL94aNRxd5tbpWvC6QuijRFy8oc0M3xWJIaMo8XAhBk24nMX4/UXS/rSAeDb5d1PFLSTGOA==~-1~-1~-1~-1~-1; Domain=.terra.com.br; Path=/; Expires=Tue, 06 Oct 2026 17:42:52 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=BB2762909E55D0F565323A48365147C6~YAAQLc02F9d0ZaGZAQAAs3qeuh0ZnVINSo+Yv4RVR1Sb/aNEpOHssMAOMx6YAXx5SQOb95nBkpNDhcEXsMe1svM0OjUL6hTwJ03aGz3ZiRVbH2sTlszy8cAecVVWsPK2FdW5dOQna4IPnJE6jBu+mjVpBzq74LOc8wtQYMKm+Usscb71wnefvYjlkgW4GbcvjMzIUL0XxfDpgy2MH2wrp2yAhZWIY1gdSpqg+umKfT4NfeuulN6Qen1iNp/tdesZAzYzosb/0WuglxoSpUbyygxRAtLLUnB5MdUO6lxKhgotZz/UdWn3V/f4A1tNKE3BT7dlmUy4Xk9ELkTpz958GGNqDVxkLi2e53dAs52WzQ==~4342836~4469571; Domain=.terra.com.br; Path=/; Expires=Mon, 06 Oct 2025 21:42:52 GMT; Max-Age=14400
+Server-Timing: ak_p; desc="1759772572224_389467437_1913401923_842_7246_21_99_-";dur=1
+
