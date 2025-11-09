@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Wed, 22 Oct 2025 23:15:36 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.sony.com:443/
+
+HTTP/2 302 
+server: AkamaiGHost
+content-length: 0
+location: https://www.sony.com/en/
+expires: Wed, 22 Oct 2025 23:15:36 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Wed, 22 Oct 2025 23:15:36 GMT
+content-security-policy: frame-ancestors 'self' *.force.com *.salesforce.com *.lightning.com *.sony.com https://zingtree.com
+x-content-type-options: nosniff
+strict-transport-security: max-age=15768000
+set-cookie: _abck=BF1A7FA3A6C82FDD0755231E4B98AD7A~-1~YAAQV9/aF6aaMOmZAQAAmdw0Dg7oL58UB/Sznl6Fqfjc9E8xGf34O/VFuCfpTiLWvqOGYcIwHH+ynZjHl0TZwhL18tp27Rua7G+JjdbyIcDgzDj8VhVFIFTTx3iISFUGIX6O9MGfq+uHmljy5Y9dg9PcQy2PzwTlGa8qPLtayF8tDlGuRwuWsXi49YPblYkFNp7nfwD978rR4y+5u5OnZZ1hlrHWfGelh6Xb4aRAlsn6hPbfdolyw8gHIdQQyq3EQ5TP4CRYliWJvsqfmLVn6pSy/RAztJDSvqVzunAy61FkT/auxehKppH7dx7Hwwm0E0dFb2E0qEMo8f6all2T69ANS7mlnPf106Xy3MmurvrVS3hnehxh1MAFjbv3BuXzAMH7UXseagERgM5nqa1wI1F7PAGOFMWpNAlG0WajtLM30yB4s3lT39wcfoVp/s4sVWVk1OL4vclNpjjZD5UfNvVY3rEzFHpoQzGs~-1~-1~-1~-1~-1; Domain=.sony.com; Path=/; Expires=Thu, 22 Oct 2026 23:15:36 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=7A51588A65368ABE8441BBC4EBF8A67F~YAAQV9/aF6eaMOmZAQAAmtw0Dh0t0YOw4h5gVy7TA0SHYKLuyXDIfPw4PbuXsZZpndh1q20BUrEoN/Wyv1TbasUQ8Eg5H3AiqN3iMowlxbIOU3DC7vZCiy+EbLN8wwGd5HD4UT3vzET8vgTd0/vLqcMwOlHaQiCLXN7N1rTtc/wzSlK2OOp9cQb2tMM1zjgMid6kgK+spaIu061hvMTQuz9R4KlJujXdp1mvV/0KMdwc/J3aVLtZtMnm5YeAqqSO+eISYtJIJo73wjDSPy5sEcG5P3pi0MXSZB3hoAjzapehj8BZvQ3uUfgFf2t2aeACz1i9sh7y2ZKeDU1uEBU/LSg4/di9HLv65CnEH91NoSdjylKqm7K5577FlHkfkTYH00YJnD67W5cliQUZpIMYI/4zfNEVUAQ4ALAP6qNt~3555894~3159620; Domain=.sony.com; Path=/; Expires=Thu, 23 Oct 2025 03:15:36 GMT; Max-Age=14400
+
+HTTP/2 403 
+content-type: text/html
+content-length: 184
+date: Wed, 22 Oct 2025 23:15:36 GMT
+
+<html>
+<head>
+<title>Access Denied</title>
+</head>
+<body>
+<h1>Access Denied</h1>
+You don't have permission to access this page.
+Reference 0.57dfda17.1761174936.4a3a2fb1
+</body>
+</html>

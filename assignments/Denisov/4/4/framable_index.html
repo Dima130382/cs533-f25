@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Framable test index</title></head>
+<body style="font-family:system-ui">
+<h1>Framable results (local aggregation)</h1>
+<button id="load">Load results</button>
+<button id="clear">Clear results</button>
+<button id="download">Download JSON</button>
+<pre id="out" style="white-space:pre-wrap"></pre>
+
+<script>
+function summarize(arr){
+  const map = {};
+  arr.forEach(r => { map[r.target] = r; }); // keep latest
+  const list = Object.values(map);
+  const framable = list.filter(x=>x.result==='FRAMABLE');
+  const notframable = list.filter(x=>x.result!=='FRAMABLE');
+  return {list, framable, notframable};
+}
+
+document.getElementById('load').addEventListener('click', () => {
+  const raw = localStorage.getItem('framable-results');
+  if(!raw){ document.getElementById('out').textContent = 'No results found. Open your /framable/*.html pages first.'; return; }
+  const arr = JSON.parse(raw);
+  const { list, framable, notframable } = summarize(arr);
+  document.getElementById('out').textContent = 
+    'Total tested: ' + list.length + '\\n' +
+    'Framable: ' + framable.length + '\\n' +
+    'Not framable: ' + notframable.length + '\\n\\n' +
+    '--- Framable ---\\n' + framable.map(x=>x.target + ' // ' + (x.info||'')).join('\\n') +
+    '\\n\\n--- Not Framable ---\\n' + notframable.map(x=>x.target + ' // ' + (x.info||'')).join('\\n');
+});
+
+document.getElementById('clear').addEventListener('click', () => {
+  localStorage.removeItem('framable-results');
+  document.getElementById('out').textContent = 'Cleared.';
+});
+
+document.getElementById('download').addEventListener('click', () => {
+  const raw = localStorage.getItem('framable-results') || '[]';
+  const blob = new Blob([raw], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = Object.assign(document.createElement('a'), {href:url, download:'framable-results.json'});
+  document.body.appendChild(a); a.click(); a.remove();
+  URL.revokeObjectURL(url);
+});
+</script>
+</body>
+</html>

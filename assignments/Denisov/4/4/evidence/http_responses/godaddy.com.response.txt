@@ -1,0 +1,39 @@
+HTTP/1.1 301 Redirect
+Date: Wed, 22 Oct 2025 23:15:33 GMT
+Connection: keep-alive
+Server: ATS/9.2.3
+Cache-Control: no-store
+Location: https://www.godaddy.com/
+Content-Type: text/html
+Content-Language: en
+Content-Length: 306
+
+HTTP/2 403 
+server: AkamaiGHost
+mime-version: 1.0
+content-type: text/html
+content-length: 369
+expires: Wed, 22 Oct 2025 23:15:33 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Wed, 22 Oct 2025 23:15:33 GMT
+set-cookie: market=en-US; expires=Thu, 22-Oct-2026 23:15:33 GMT; path=/; domain=.godaddy.com
+set-cookie: isc=gdwelcome; expires=Thu, 23-Oct-2025 00:15:33 GMT; path=/; domain=.godaddy.com
+set-cookie: currency=USD; expires=Thu, 22-Oct-2026 23:15:33 GMT; path=/; domain=.godaddy.com
+x-frame-options: DENY
+x-origin-tag: frontdoor
+set-cookie: akaas_godaddy-com-wildcard=2147483647~rv=99~id=3782ed2ef85965e42cea502ca67ff51f~rn=; path=/; Secure; SameSite=None
+x-arc: 2
+x-arc: 6a
+server-timing: ak_p; desc="1761174933309_389979083_1098563208_22_21436_18_19_15";dur=1
+
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;godaddy&#46;com&#47;" on this server.<P>
+Reference&#32;&#35;18&#46;cb9b3e17&#46;1761174933&#46;417abe88
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;cb9b3e17&#46;1761174933&#46;417abe88</P>
+</BODY>
+</HTML>

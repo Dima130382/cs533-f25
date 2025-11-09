@@ -1,0 +1,53 @@
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.news.com.au/
+date: Wed, 22 Oct 2025 23:16:36 GMT
+
+HTTP/2 403 
+server: AkamaiGHost
+mime-version: 1.0
+content-length: 1329
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: 0
+content-type: text/html
+cache-control: max-age=0
+expires: Wed, 22 Oct 2025 23:16:36 GMT
+date: Wed, 22 Oct 2025 23:16:36 GMT
+strict-transport-security: max-age=600 ; includeSubDomains
+content-security-policy-report-only: frame-ancestors 'self'; report-uri https://www.news.com.au/csp-reports
+content-security-policy: block-all-mixed-content; style-src https: 'unsafe-inline'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; img-src https: data:; frame-src https:;
+x-arrrg5: /blaize/decision-engine?path=https%3a%2f%2fwww.news.com.au%2f&blaizehost=cdn.news.newscorp.blaize.io&content_id=
+x-arrrg4: 
+x-pathqs: TRUE
+x-r: GE4DUUZ2IZAUYU2FHJDECTCTIU5FIRKTKREE6TKFHJXHK3DMHJSGKZTBOVWHIOSSKM5EIORRFU4TQOSBHI4TSLJZHE5EEORRGAYC2MJQGA5EGORRGAYS2MJQGE5EQOSGIFGFGRJ2IZAUYU2FHJBUMRJNGM4TGNR2NZ2WY3B2MRSWMYLVNR2DUUSIHJCDUMJNHE4DUQJ2HE4S2OJZHJBDUMJQGAWTCMBQHJBTUMJQGEWTCMBRHIYTONRRGE3TIOJZGY
+vary: User-Agent
+akamai-grn: 0.cd6bdc17.1761174996.35cb1adc
+
+<!DOCTYPE html>
+<html>
+   <body>
+      <h2>You might have been detected and blocked as a crawler bot!<h2>
+      <h3>News Corp Australia uses software that manages crawler bot traffic on our websites. If you receive this message and are not a crawler bot (and are just a reader or subscriber), please try these steps first:</h3>
+      <ol type = "1">
+         <li>Temporarily disable any AdBlockers / pop-up blockers / script blockers you have enabled</li>
+         <li>Add this site in to the allowed list for any AdBlockers / pop-up blockers / script blockers you have enabled</li>
+         <li>Ensure your browser supports JavaScript (this can be done via accessing <a href="https://www.whatismybrowser.com/detect/is-javascript-enabled" target="_blank">https://www.whatismybrowser.com/detect/is-javascript-enabled</a> in your browser)</li>
+         <li>Ensure you are using the latest version of your web browser</li>
+      </ol>
+
+If you still need to be unlocked as a reader, subscriber or crawler bot, please e-mail us at accessissues@news.com.au and provide the IP address and reference number shown here along with why you require access. 
+
+<br>
+<br>
+
+Your IP address is: 2600:4040:1421:4400:9116:29d4:9273:c31c | Your reference number is: 0.cd6bdc17.1761174996.35cb1adc
+
+<br>
+<br>
+
+News Corp Australia.
+
+   </body>
+</html>

