@@ -73,5 +73,9 @@ Running the server
 Connecting with different browsers/devices
 
 Watching fingerprints recognized
+## Screenshots
+
+### Screenshot 1 —6 
+
 
 (Video link : https://youtu.be/KUzGXPebXqs)
